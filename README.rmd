@@ -1,7 +1,35 @@
 ---
-title: "README"
+title: "physionet 2012: in-hospital death prediction"
 author: "Xiangnan Dang"
 date: "9/16/2020"
 output: github_document
 ---
+
+### key parts
+
+* data import, transform, and feature extraction: R/1_physionet_preprocessing.Rmd and R/1_physionet_preprocessing.html
+* intermediate dataframes (.csv) and EDA (.html, auto processed using pandas_profiling): proData/ 
+
+df_gd: general descriptor; df_gd_ro: remove outlier; df_ts: time series variables; df_ts_ro: remove outlier; df_ts_agg: feature extraction by aggregation with min, max, median
+
+* modeling: Py/ with six model iteration
+
+model1: base result with minimum consideration
+
+model2: fix imbalanced label
+
+model3: fix multicollinearity
+
+model4: fix variable with normalization and transformation
+
+model5: combining fix imbalanced label, fix multicollinearity and normalization / transformation
+
+model6: additional exploration on feature variable binning / categorization
+
+### other parts
+
+* R package control: packrat/
+* Python package control: requirements.txt and venv_physionet/
+* source data from physionet: srcData/
+
 

@@ -53600,3 +53600,457 @@
 2020-09-17 09:10:36,003:INFO:AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1.0,
                    n_estimators=50, random_state=123)
 2020-09-17 09:10:36,003:INFO:tune_model() succesfully completed......................................
+2020-09-17 09:15:38,420:INFO:Initializing plot_model()
+2020-09-17 09:15:38,420:INFO:plot_model(estimator=AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1.0,
+                   n_estimators=50, random_state=123), plot=parameter, save=False, verbose=True, system=True)
+2020-09-17 09:15:38,421:INFO:Checking exceptions
+2020-09-17 09:15:38,425:INFO:Preloading libraries
+2020-09-17 09:15:38,425:INFO:Preparing display monitor
+2020-09-17 09:15:38,434:INFO:Importing libraries
+2020-09-17 09:15:38,435:INFO:plot type: parameter
+2020-09-17 09:15:38,435:INFO:Copying training dataset
+2020-09-17 09:15:38,436:INFO:Initializing SMOTE
+2020-09-17 09:15:38,500:INFO:Resampling completed
+2020-09-17 09:15:38,511:INFO:Visual Rendered Successfully
+2020-09-17 09:15:38,511:INFO:plot_model() succesfully completed......................................
+2020-09-17 09:15:50,067:INFO:Initializing plot_model()
+2020-09-17 09:15:50,096:INFO:plot_model(estimator=VotingClassifier(estimators=[('Logistic Regression_0',
+                              LogisticRegression(C=1.0, class_weight=None,
+                                                 dual=False, fit_intercept=True,
+                                                 intercept_scaling=1,
+                                                 l1_ratio=None, max_iter=100,
+                                                 multi_class='auto',
+                                                 n_jobs=None, penalty='l2',
+                                                 random_state=123,
+                                                 solver='lbfgs', tol=0.0001,
+                                                 verbose=0, warm_start=False)),
+                             ('K Neighbors Classifier_1',
+                              KNeighborsClassifier(algorithm='aut...
+                                             min_child_weight=0.001,
+                                             min_split_gain=0.0,
+                                             n_estimators=100, n_jobs=-1,
+                                             num_leaves=31, objective=None,
+                                             random_state=123, reg_alpha=0.0,
+                                             reg_lambda=0.0, silent=True,
+                                             subsample=1.0,
+                                             subsample_for_bin=200000,
+                                             subsample_freq=0)),
+                             ('Cat Boost Classifier_14',
+                              <catboost.core.CatBoostClassifier object at 0x2ae6e80e2e48>)],
+                 flatten_transform=True, n_jobs=-1, verbose=False,
+                 voting='hard', weights=None), plot=confusion_matrix, save=False, verbose=True, system=True)
+2020-09-17 09:15:50,096:INFO:Checking exceptions
+2020-09-17 09:15:50,097:INFO:Preloading libraries
+2020-09-17 09:15:50,097:INFO:Preparing display monitor
+2020-09-17 09:15:50,107:INFO:Importing libraries
+2020-09-17 09:15:50,108:INFO:plot type: confusion_matrix
+2020-09-17 09:15:50,108:INFO:Copying training dataset
+2020-09-17 09:15:50,109:INFO:Initializing SMOTE
+2020-09-17 09:15:50,172:INFO:Resampling completed
+2020-09-17 09:15:50,291:INFO:Fitting Model
+2020-09-17 09:15:50,292:INFO:Scoring test/hold-out set
+2020-09-17 09:15:52,562:INFO:Visual Rendered Successfully
+2020-09-17 09:15:52,562:INFO:plot_model() succesfully completed......................................
+2020-09-17 09:16:47,809:INFO:Initializing blend_models()
+2020-09-17 09:16:47,809:INFO:blend_models(estimator_list=All, fold=10, round=4, choose_better=False, optimize=Accuracy, method=soft, turbo=True, verbose=True)
+2020-09-17 09:16:47,809:INFO:Checking exceptions
+2020-09-17 09:16:47,809:INFO:Preloading libraries
+2020-09-17 09:16:47,809:INFO:Preparing display monitor
+2020-09-17 09:16:47,839:INFO:Importing libraries
+2020-09-17 09:16:47,839:INFO:Copying training dataset
+2020-09-17 09:16:47,841:INFO:Declaring metric variables
+2020-09-17 09:16:47,841:INFO:Defining folds
+2020-09-17 09:16:47,847:INFO:Importing untrained models
+2020-09-17 09:16:47,848:INFO:Import successful
+2020-09-17 09:16:47,848:INFO:Defining estimator list
+2020-09-17 09:16:47,849:INFO:Defining model names in estimator_list
+2020-09-17 09:17:03,641:INFO:n_jobs multiple passed
+2020-09-17 09:17:03,651:INFO:Initializing Fold 1
+2020-09-17 09:17:03,660:INFO:Initializing SMOTE
+2020-09-17 09:17:03,722:INFO:Resampling completed
+2020-09-17 09:17:03,722:INFO:Fitting Model
+2020-09-17 09:17:22,466:INFO:Evaluating Metrics
+2020-09-17 09:17:23,464:INFO:Compiling Metrics
+2020-09-17 09:17:23,488:INFO:Initializing Fold 2
+2020-09-17 09:17:23,496:INFO:Initializing SMOTE
+2020-09-17 09:17:23,554:INFO:Resampling completed
+2020-09-17 09:17:23,554:INFO:Fitting Model
+2020-09-17 09:17:42,351:INFO:Evaluating Metrics
+2020-09-17 09:17:43,385:INFO:Compiling Metrics
+2020-09-17 09:17:43,409:INFO:Initializing Fold 3
+2020-09-17 09:17:43,418:INFO:Initializing SMOTE
+2020-09-17 09:17:43,475:INFO:Resampling completed
+2020-09-17 09:17:43,475:INFO:Fitting Model
+2020-09-17 09:18:02,409:INFO:Evaluating Metrics
+2020-09-17 09:18:03,480:INFO:Compiling Metrics
+2020-09-17 09:18:03,507:INFO:Initializing Fold 4
+2020-09-17 09:18:03,515:INFO:Initializing SMOTE
+2020-09-17 09:18:03,575:INFO:Resampling completed
+2020-09-17 09:18:03,575:INFO:Fitting Model
+2020-09-17 09:18:22,357:INFO:Evaluating Metrics
+2020-09-17 09:18:23,405:INFO:Compiling Metrics
+2020-09-17 09:18:23,432:INFO:Initializing Fold 5
+2020-09-17 09:18:23,441:INFO:Initializing SMOTE
+2020-09-17 09:18:23,501:INFO:Resampling completed
+2020-09-17 09:18:23,501:INFO:Fitting Model
+2020-09-17 09:18:42,449:INFO:Evaluating Metrics
+2020-09-17 09:18:43,485:INFO:Compiling Metrics
+2020-09-17 09:18:43,510:INFO:Initializing Fold 6
+2020-09-17 09:18:43,519:INFO:Initializing SMOTE
+2020-09-17 09:18:43,581:INFO:Resampling completed
+2020-09-17 09:18:43,581:INFO:Fitting Model
+2020-09-17 09:18:59,702:INFO:Evaluating Metrics
+2020-09-17 09:19:00,713:INFO:Compiling Metrics
+2020-09-17 09:19:00,741:INFO:Initializing Fold 7
+2020-09-17 09:19:00,749:INFO:Initializing SMOTE
+2020-09-17 09:19:00,808:INFO:Resampling completed
+2020-09-17 09:19:00,808:INFO:Fitting Model
+2020-09-17 09:19:19,249:INFO:Evaluating Metrics
+2020-09-17 09:19:20,287:INFO:Compiling Metrics
+2020-09-17 09:19:20,313:INFO:Initializing Fold 8
+2020-09-17 09:19:20,322:INFO:Initializing SMOTE
+2020-09-17 09:19:20,380:INFO:Resampling completed
+2020-09-17 09:19:20,380:INFO:Fitting Model
+2020-09-17 09:19:37,077:INFO:Evaluating Metrics
+2020-09-17 09:19:38,090:INFO:Compiling Metrics
+2020-09-17 09:19:38,118:INFO:Initializing Fold 9
+2020-09-17 09:19:38,127:INFO:Initializing SMOTE
+2020-09-17 09:19:38,190:INFO:Resampling completed
+2020-09-17 09:19:38,190:INFO:Fitting Model
+2020-09-17 09:19:56,834:INFO:Evaluating Metrics
+2020-09-17 09:19:57,905:INFO:Compiling Metrics
+2020-09-17 09:19:57,932:INFO:Initializing Fold 10
+2020-09-17 09:19:57,940:INFO:Initializing SMOTE
+2020-09-17 09:19:57,998:INFO:Resampling completed
+2020-09-17 09:19:57,998:INFO:Fitting Model
+2020-09-17 09:20:15,412:INFO:Evaluating Metrics
+2020-09-17 09:20:16,487:INFO:Compiling Metrics
+2020-09-17 09:20:16,514:INFO:Calculating mean and std
+2020-09-17 09:20:16,516:INFO:Creating metrics dataframe
+2020-09-17 09:20:16,529:INFO:Initializing SMOTE
+2020-09-17 09:20:16,593:INFO:Resampling completed
+2020-09-17 09:20:16,593:INFO:Finalizing model
+2020-09-17 09:20:34,962:INFO:Uploading results into container
+2020-09-17 09:20:34,963:INFO:Uploading model into container
+2020-09-17 09:20:35,001:INFO:create_model_container: 17
+2020-09-17 09:20:35,002:INFO:master_model_container: 17
+2020-09-17 09:20:35,002:INFO:display_container: 15
+2020-09-17 09:20:35,028:INFO:VotingClassifier(estimators=[('Logistic Regression_0',
+                              LogisticRegression(C=1.0, class_weight=None,
+                                                 dual=False, fit_intercept=True,
+                                                 intercept_scaling=1,
+                                                 l1_ratio=None, max_iter=100,
+                                                 multi_class='auto',
+                                                 n_jobs=None, penalty='l2',
+                                                 random_state=123,
+                                                 solver='lbfgs', tol=0.0001,
+                                                 verbose=0, warm_start=False)),
+                             ('K Neighbors Classifier_1',
+                              KNeighborsClassifier(algorithm='aut...
+                                             min_child_weight=0.001,
+                                             min_split_gain=0.0,
+                                             n_estimators=100, n_jobs=-1,
+                                             num_leaves=31, objective=None,
+                                             random_state=123, reg_alpha=0.0,
+                                             reg_lambda=0.0, silent=True,
+                                             subsample=1.0,
+                                             subsample_for_bin=200000,
+                                             subsample_freq=0)),
+                             ('Cat Boost Classifier_12',
+                              <catboost.core.CatBoostClassifier object at 0x2ae70f9de198>)],
+                 flatten_transform=True, n_jobs=-1, verbose=False,
+                 voting='soft', weights=None)
+2020-09-17 09:20:35,028:INFO:blend_models() succesfully completed......................................
+2020-09-17 09:20:35,068:INFO:Initializing plot_model()
+2020-09-17 09:20:35,093:INFO:plot_model(estimator=VotingClassifier(estimators=[('Logistic Regression_0',
+                              LogisticRegression(C=1.0, class_weight=None,
+                                                 dual=False, fit_intercept=True,
+                                                 intercept_scaling=1,
+                                                 l1_ratio=None, max_iter=100,
+                                                 multi_class='auto',
+                                                 n_jobs=None, penalty='l2',
+                                                 random_state=123,
+                                                 solver='lbfgs', tol=0.0001,
+                                                 verbose=0, warm_start=False)),
+                             ('K Neighbors Classifier_1',
+                              KNeighborsClassifier(algorithm='aut...
+                                             min_child_weight=0.001,
+                                             min_split_gain=0.0,
+                                             n_estimators=100, n_jobs=-1,
+                                             num_leaves=31, objective=None,
+                                             random_state=123, reg_alpha=0.0,
+                                             reg_lambda=0.0, silent=True,
+                                             subsample=1.0,
+                                             subsample_for_bin=200000,
+                                             subsample_freq=0)),
+                             ('Cat Boost Classifier_12',
+                              <catboost.core.CatBoostClassifier object at 0x2ae70f9de198>)],
+                 flatten_transform=True, n_jobs=-1, verbose=False,
+                 voting='soft', weights=None), plot=parameter, save=False, verbose=True, system=True)
+2020-09-17 09:20:35,093:INFO:Checking exceptions
+2020-09-17 09:20:35,095:INFO:Preloading libraries
+2020-09-17 09:20:35,095:INFO:Preparing display monitor
+2020-09-17 09:20:35,104:INFO:Importing libraries
+2020-09-17 09:20:35,106:INFO:plot type: parameter
+2020-09-17 09:20:35,106:INFO:Copying training dataset
+2020-09-17 09:20:35,109:INFO:Initializing SMOTE
+2020-09-17 09:20:35,181:INFO:Resampling completed
+2020-09-17 09:21:37,227:INFO:Initializing blend_models()
+2020-09-17 09:21:37,227:INFO:blend_models(estimator_list=All, fold=10, round=4, choose_better=False, optimize=Accuracy, method=hard, turbo=True, verbose=True)
+2020-09-17 09:21:37,227:INFO:Checking exceptions
+2020-09-17 09:21:37,227:INFO:Preloading libraries
+2020-09-17 09:21:37,228:INFO:Preparing display monitor
+2020-09-17 09:21:37,259:INFO:Importing libraries
+2020-09-17 09:21:37,259:INFO:Copying training dataset
+2020-09-17 09:21:37,261:INFO:Declaring metric variables
+2020-09-17 09:21:37,261:INFO:Defining folds
+2020-09-17 09:21:37,267:INFO:Importing untrained models
+2020-09-17 09:21:37,268:INFO:Import successful
+2020-09-17 09:21:37,268:INFO:Defining estimator list
+2020-09-17 09:21:37,268:INFO:Defining model names in estimator_list
+2020-09-17 09:21:49,672:INFO:n_jobs multiple passed
+2020-09-17 09:21:49,682:INFO:Initializing Fold 1
+2020-09-17 09:21:49,689:INFO:Initializing SMOTE
+2020-09-17 09:21:49,748:INFO:Resampling completed
+2020-09-17 09:21:49,748:INFO:Fitting Model
+2020-09-17 09:22:07,673:INFO:Evaluating Metrics
+2020-09-17 09:22:07,675:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 09:22:08,209:INFO:Compiling Metrics
+2020-09-17 09:22:08,235:INFO:Initializing Fold 2
+2020-09-17 09:22:08,243:INFO:Initializing SMOTE
+2020-09-17 09:22:08,306:INFO:Resampling completed
+2020-09-17 09:22:08,306:INFO:Fitting Model
+2020-09-17 09:22:27,316:INFO:Evaluating Metrics
+2020-09-17 09:22:27,317:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 09:22:27,856:INFO:Compiling Metrics
+2020-09-17 09:22:27,882:INFO:Initializing Fold 3
+2020-09-17 09:22:27,890:INFO:Initializing SMOTE
+2020-09-17 09:22:27,955:INFO:Resampling completed
+2020-09-17 09:22:27,956:INFO:Fitting Model
+2020-09-17 09:22:44,791:INFO:Evaluating Metrics
+2020-09-17 09:22:44,791:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 09:22:45,326:INFO:Compiling Metrics
+2020-09-17 09:22:45,351:INFO:Initializing Fold 4
+2020-09-17 09:22:45,360:INFO:Initializing SMOTE
+2020-09-17 09:22:45,419:INFO:Resampling completed
+2020-09-17 09:22:45,419:INFO:Fitting Model
+2020-09-17 09:23:01,577:INFO:Evaluating Metrics
+2020-09-17 09:23:01,578:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 09:23:02,124:INFO:Compiling Metrics
+2020-09-17 09:23:02,149:INFO:Initializing Fold 5
+2020-09-17 09:23:02,158:INFO:Initializing SMOTE
+2020-09-17 09:23:02,217:INFO:Resampling completed
+2020-09-17 09:23:02,217:INFO:Fitting Model
+2020-09-17 09:23:20,577:INFO:Evaluating Metrics
+2020-09-17 09:23:20,578:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 09:23:21,121:INFO:Compiling Metrics
+2020-09-17 09:23:21,147:INFO:Initializing Fold 6
+2020-09-17 09:23:21,156:INFO:Initializing SMOTE
+2020-09-17 09:23:21,214:INFO:Resampling completed
+2020-09-17 09:23:21,214:INFO:Fitting Model
+2020-09-17 09:23:38,302:INFO:Evaluating Metrics
+2020-09-17 09:23:38,302:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 09:23:38,835:INFO:Compiling Metrics
+2020-09-17 09:23:38,863:INFO:Initializing Fold 7
+2020-09-17 09:23:38,871:INFO:Initializing SMOTE
+2020-09-17 09:23:38,930:INFO:Resampling completed
+2020-09-17 09:23:38,931:INFO:Fitting Model
+2020-09-17 09:23:57,247:INFO:Evaluating Metrics
+2020-09-17 09:23:57,247:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 09:23:57,782:INFO:Compiling Metrics
+2020-09-17 09:23:57,809:INFO:Initializing Fold 8
+2020-09-17 09:23:57,817:INFO:Initializing SMOTE
+2020-09-17 09:23:57,875:INFO:Resampling completed
+2020-09-17 09:23:57,875:INFO:Fitting Model
+2020-09-17 09:24:16,872:INFO:Evaluating Metrics
+2020-09-17 09:24:16,872:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 09:24:17,410:INFO:Compiling Metrics
+2020-09-17 09:24:17,437:INFO:Initializing Fold 9
+2020-09-17 09:24:17,445:INFO:Initializing SMOTE
+2020-09-17 09:24:17,505:INFO:Resampling completed
+2020-09-17 09:24:17,505:INFO:Fitting Model
+2020-09-17 09:24:35,489:INFO:Evaluating Metrics
+2020-09-17 09:24:35,490:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 09:24:36,044:INFO:Compiling Metrics
+2020-09-17 09:24:36,071:INFO:Initializing Fold 10
+2020-09-17 09:24:36,079:INFO:Initializing SMOTE
+2020-09-17 09:24:36,138:INFO:Resampling completed
+2020-09-17 09:24:36,138:INFO:Fitting Model
+2020-09-17 09:24:54,409:INFO:Evaluating Metrics
+2020-09-17 09:24:54,410:WARNING:model has no predict_proba attribute. pred_prob set to 0.00
+2020-09-17 09:24:54,962:INFO:Compiling Metrics
+2020-09-17 09:24:54,990:INFO:Calculating mean and std
+2020-09-17 09:24:54,992:INFO:Creating metrics dataframe
+2020-09-17 09:24:55,005:INFO:Initializing SMOTE
+2020-09-17 09:24:55,074:INFO:Resampling completed
+2020-09-17 09:24:55,074:INFO:Finalizing model
+2020-09-17 09:25:14,333:INFO:Uploading results into container
+2020-09-17 09:25:14,334:INFO:Uploading model into container
+2020-09-17 09:25:14,367:INFO:create_model_container: 18
+2020-09-17 09:25:14,368:INFO:master_model_container: 18
+2020-09-17 09:25:14,368:INFO:display_container: 17
+2020-09-17 09:25:14,396:INFO:VotingClassifier(estimators=[('Logistic Regression_0',
+                              LogisticRegression(C=1.0, class_weight=None,
+                                                 dual=False, fit_intercept=True,
+                                                 intercept_scaling=1,
+                                                 l1_ratio=None, max_iter=100,
+                                                 multi_class='auto',
+                                                 n_jobs=None, penalty='l2',
+                                                 random_state=123,
+                                                 solver='lbfgs', tol=0.0001,
+                                                 verbose=0, warm_start=False)),
+                             ('K Neighbors Classifier_1',
+                              KNeighborsClassifier(algorithm='aut...
+                                             min_child_weight=0.001,
+                                             min_split_gain=0.0,
+                                             n_estimators=100, n_jobs=-1,
+                                             num_leaves=31, objective=None,
+                                             random_state=123, reg_alpha=0.0,
+                                             reg_lambda=0.0, silent=True,
+                                             subsample=1.0,
+                                             subsample_for_bin=200000,
+                                             subsample_freq=0)),
+                             ('Cat Boost Classifier_14',
+                              <catboost.core.CatBoostClassifier object at 0x2ae70f9f5f28>)],
+                 flatten_transform=True, n_jobs=-1, verbose=False,
+                 voting='hard', weights=None)
+2020-09-17 09:25:14,396:INFO:blend_models() succesfully completed......................................
+2020-09-17 09:25:14,432:INFO:Initializing plot_model()
+2020-09-17 09:25:14,460:INFO:plot_model(estimator=VotingClassifier(estimators=[('Logistic Regression_0',
+                              LogisticRegression(C=1.0, class_weight=None,
+                                                 dual=False, fit_intercept=True,
+                                                 intercept_scaling=1,
+                                                 l1_ratio=None, max_iter=100,
+                                                 multi_class='auto',
+                                                 n_jobs=None, penalty='l2',
+                                                 random_state=123,
+                                                 solver='lbfgs', tol=0.0001,
+                                                 verbose=0, warm_start=False)),
+                             ('K Neighbors Classifier_1',
+                              KNeighborsClassifier(algorithm='aut...
+                                             min_child_weight=0.001,
+                                             min_split_gain=0.0,
+                                             n_estimators=100, n_jobs=-1,
+                                             num_leaves=31, objective=None,
+                                             random_state=123, reg_alpha=0.0,
+                                             reg_lambda=0.0, silent=True,
+                                             subsample=1.0,
+                                             subsample_for_bin=200000,
+                                             subsample_freq=0)),
+                             ('Cat Boost Classifier_14',
+                              <catboost.core.CatBoostClassifier object at 0x2ae70f9f5f28>)],
+                 flatten_transform=True, n_jobs=-1, verbose=False,
+                 voting='hard', weights=None), plot=parameter, save=False, verbose=True, system=True)
+2020-09-17 09:25:14,460:INFO:Checking exceptions
+2020-09-17 09:25:14,462:INFO:Preloading libraries
+2020-09-17 09:25:14,462:INFO:Preparing display monitor
+2020-09-17 09:25:14,471:INFO:Importing libraries
+2020-09-17 09:25:14,472:INFO:plot type: parameter
+2020-09-17 09:25:14,472:INFO:Copying training dataset
+2020-09-17 09:25:14,475:INFO:Initializing SMOTE
+2020-09-17 09:25:14,539:INFO:Resampling completed
+2020-09-17 09:30:30,837:INFO:Initializing plot_model()
+2020-09-17 09:30:30,866:INFO:plot_model(estimator=VotingClassifier(estimators=[('Logistic Regression_0',
+                              LogisticRegression(C=1.0, class_weight=None,
+                                                 dual=False, fit_intercept=True,
+                                                 intercept_scaling=1,
+                                                 l1_ratio=None, max_iter=100,
+                                                 multi_class='auto',
+                                                 n_jobs=None, penalty='l2',
+                                                 random_state=123,
+                                                 solver='lbfgs', tol=0.0001,
+                                                 verbose=0, warm_start=False)),
+                             ('K Neighbors Classifier_1',
+                              KNeighborsClassifier(algorithm='aut...
+                                             min_child_weight=0.001,
+                                             min_split_gain=0.0,
+                                             n_estimators=100, n_jobs=-1,
+                                             num_leaves=31, objective=None,
+                                             random_state=123, reg_alpha=0.0,
+                                             reg_lambda=0.0, silent=True,
+                                             subsample=1.0,
+                                             subsample_for_bin=200000,
+                                             subsample_freq=0)),
+                             ('Cat Boost Classifier_14',
+                              <catboost.core.CatBoostClassifier object at 0x2ae70f9f5f28>)],
+                 flatten_transform=True, n_jobs=-1, verbose=False,
+                 voting='hard', weights=None), plot=confusion_matrix, save=False, verbose=True, system=True)
+2020-09-17 09:30:30,866:INFO:Checking exceptions
+2020-09-17 09:30:30,867:INFO:Preloading libraries
+2020-09-17 09:30:30,867:INFO:Preparing display monitor
+2020-09-17 09:30:30,877:INFO:Importing libraries
+2020-09-17 09:30:30,878:INFO:plot type: confusion_matrix
+2020-09-17 09:30:30,878:INFO:Copying training dataset
+2020-09-17 09:30:30,880:INFO:Initializing SMOTE
+2020-09-17 09:30:30,945:INFO:Resampling completed
+2020-09-17 09:30:30,974:INFO:Fitting Model
+2020-09-17 09:30:30,975:INFO:Scoring test/hold-out set
+2020-09-17 09:30:33,199:INFO:Visual Rendered Successfully
+2020-09-17 09:30:33,199:INFO:plot_model() succesfully completed......................................
+2020-09-17 09:30:36,994:INFO:Initializing plot_model()
+2020-09-17 09:30:37,018:INFO:plot_model(estimator=VotingClassifier(estimators=[('Logistic Regression_0',
+                              LogisticRegression(C=1.0, class_weight=None,
+                                                 dual=False, fit_intercept=True,
+                                                 intercept_scaling=1,
+                                                 l1_ratio=None, max_iter=100,
+                                                 multi_class='auto',
+                                                 n_jobs=None, penalty='l2',
+                                                 random_state=123,
+                                                 solver='lbfgs', tol=0.0001,
+                                                 verbose=0, warm_start=False)),
+                             ('K Neighbors Classifier_1',
+                              KNeighborsClassifier(algorithm='aut...
+                                             min_child_weight=0.001,
+                                             min_split_gain=0.0,
+                                             n_estimators=100, n_jobs=-1,
+                                             num_leaves=31, objective=None,
+                                             random_state=123, reg_alpha=0.0,
+                                             reg_lambda=0.0, silent=True,
+                                             subsample=1.0,
+                                             subsample_for_bin=200000,
+                                             subsample_freq=0)),
+                             ('Cat Boost Classifier_12',
+                              <catboost.core.CatBoostClassifier object at 0x2ae70f9de198>)],
+                 flatten_transform=True, n_jobs=-1, verbose=False,
+                 voting='soft', weights=None), plot=confusion_matrix, save=False, verbose=True, system=True)
+2020-09-17 09:30:37,018:INFO:Checking exceptions
+2020-09-17 09:30:37,019:INFO:Preloading libraries
+2020-09-17 09:30:37,019:INFO:Preparing display monitor
+2020-09-17 09:30:37,029:INFO:Importing libraries
+2020-09-17 09:30:37,030:INFO:plot type: confusion_matrix
+2020-09-17 09:30:37,030:INFO:Copying training dataset
+2020-09-17 09:30:37,032:INFO:Initializing SMOTE
+2020-09-17 09:30:37,097:INFO:Resampling completed
+2020-09-17 09:30:37,124:INFO:Fitting Model
+2020-09-17 09:30:37,125:INFO:Scoring test/hold-out set
+2020-09-17 09:30:39,037:INFO:Visual Rendered Successfully
+2020-09-17 09:30:39,037:INFO:plot_model() succesfully completed......................................
+2020-09-17 09:53:43,040:INFO:Initializing plot_model()
+2020-09-17 09:53:43,040:INFO:plot_model(estimator=AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1.0,
+                   n_estimators=50, random_state=123), plot=feature, save=False, verbose=True, system=True)
+2020-09-17 09:53:43,040:INFO:Checking exceptions
+2020-09-17 09:53:43,045:INFO:Preloading libraries
+2020-09-17 09:53:43,045:INFO:Preparing display monitor
+2020-09-17 09:53:43,055:INFO:Importing libraries
+2020-09-17 09:53:43,057:INFO:plot type: feature
+2020-09-17 09:53:43,057:INFO:Copying training dataset
+2020-09-17 09:53:43,058:INFO:Initializing SMOTE
+2020-09-17 09:53:43,125:INFO:Resampling completed
+2020-09-17 09:53:43,125:WARNING:No coef_ found. Trying feature_importances_
+2020-09-17 09:53:43,474:INFO:Visual Rendered Successfully
+2020-09-17 09:53:43,474:INFO:plot_model() succesfully completed......................................
+2020-09-17 09:54:15,490:INFO:Initializing plot_model()
+2020-09-17 09:54:15,490:INFO:plot_model(estimator=AdaBoostClassifier(algorithm='SAMME.R', base_estimator=None, learning_rate=1.0,
+                   n_estimators=50, random_state=123), plot=confusion_matrix, save=False, verbose=True, system=True)
+2020-09-17 09:54:15,490:INFO:Checking exceptions
+2020-09-17 09:54:15,495:INFO:Preloading libraries
+2020-09-17 09:54:15,495:INFO:Preparing display monitor
+2020-09-17 09:54:15,505:INFO:Importing libraries
+2020-09-17 09:54:15,506:INFO:plot type: confusion_matrix
+2020-09-17 09:54:15,506:INFO:Copying training dataset
+2020-09-17 09:54:15,507:INFO:Initializing SMOTE
+2020-09-17 09:54:15,574:INFO:Resampling completed
+2020-09-17 09:54:15,601:INFO:Fitting Model
+2020-09-17 09:54:15,603:INFO:Scoring test/hold-out set
+2020-09-17 09:54:15,794:INFO:Visual Rendered Successfully
+2020-09-17 09:54:15,794:INFO:plot_model() succesfully completed......................................
