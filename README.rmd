@@ -12,6 +12,8 @@ output: github_document
 
 df_gd: general descriptor; df_gd_ro: remove outlier; df_ts: time series variables; df_ts_ro: remove outlier; df_ts_agg: feature extraction by aggregation with min, max, median
 
+Note: to see pandas_profiling generated .html files, download and open from browser, as github will not display these files appropriately
+
 * modeling: Py/ with six model iteration
 
 model1: base result with minimum consideration
