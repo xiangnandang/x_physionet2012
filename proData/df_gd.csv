@@ -1,0 +1,4001 @@
+PATIENT_ID,ihd,Age,Gender,Height,ICUType,Weight
+132539,0,54,female,NA,Surgical ICU,NA
+132540,0,76,male,175.3,Cardiac Surgery Recovery Unit,76
+132541,0,44,female,NA,Medical ICU,56.7
+132543,0,68,male,180.3,Medical ICU,84.6
+132545,0,88,female,NA,Medical ICU,NA
+132547,0,64,male,180.3,Coronary Care Unit,114
+132548,0,68,female,162.6,Medical ICU,87
+132551,1,78,female,162.6,Medical ICU,48.4
+132554,0,64,female,NA,Medical ICU,60.7
+132555,0,74,male,175.3,Cardiac Surgery Recovery Unit,66.1
+132556,0,64,female,NA,Medical ICU,65
+132567,0,71,female,157.5,Cardiac Surgery Recovery Unit,56
+132568,0,66,female,157.5,Medical ICU,84.5
+132570,0,84,male,170.2,Coronary Care Unit,102.6
+132573,0,77,male,162.6,Coronary Care Unit,90.1
+132575,0,78,male,167.6,Cardiac Surgery Recovery Unit,63
+132577,0,65,male,NA,Medical ICU,66.3
+132582,0,84,male,182.9,Medical ICU,82.5
+132584,0,78,female,NA,Medical ICU,72.8
+132585,0,40,female,165.1,Cardiac Surgery Recovery Unit,84.7
+132588,1,48,female,154.9,Medical ICU,42.3
+132590,0,58,male,188,Cardiac Surgery Recovery Unit,98
+132591,0,81,male,NA,Medical ICU,63.7
+132592,0,35,female,NA,Medical ICU,71.8
+132595,0,26,female,NA,Medical ICU,NA
+132597,0,66,female,137.2,Medical ICU,82
+132598,1,80,female,NA,Surgical ICU,60
+132599,0,53,female,177.8,Surgical ICU,73.5
+132601,0,74,male,177.8,Cardiac Surgery Recovery Unit,75.9
+132602,1,80,male,180.3,Medical ICU,70
+132605,1,90,female,NA,Medical ICU,55
+132610,0,72,male,172.9,Medical ICU,72.26
+132612,0,52,male,NA,Surgical ICU,109
+132614,0,77,male,162.6,Coronary Care Unit,59
+132615,0,46,female,152.4,Medical ICU,88.6
+132617,1,77,male,170.2,Coronary Care Unit,75
+132618,0,72,female,152.4,Surgical ICU,69.1
+132622,1,71,female,160,Medical ICU,79
+132623,0,24,male,182.9,Cardiac Surgery Recovery Unit,78
+132632,0,49,female,NA,Medical ICU,162.2
+132634,0,82,female,NA,Surgical ICU,NA
+132635,0,66,female,167.6,Cardiac Surgery Recovery Unit,70.1
+132636,0,42,female,NA,Surgical ICU,114.2
+132637,0,78,female,170.2,Cardiac Surgery Recovery Unit,56
+132639,0,73,male,180.3,Cardiac Surgery Recovery Unit,96.3
+132642,0,89,female,NA,Medical ICU,NA
+132644,0,71,female,149.9,Surgical ICU,64.5
+132647,0,27,female,NA,Medical ICU,NA
+132648,0,87,female,157.5,Cardiac Surgery Recovery Unit,66
+132650,0,83,female,NA,Medical ICU,56
+132653,0,78,male,177.8,Cardiac Surgery Recovery Unit,91.3
+132658,0,81,male,185.4,Cardiac Surgery Recovery Unit,105.4
+132659,0,78,female,165.1,Cardiac Surgery Recovery Unit,110
+132662,0,46,female,172.7,Cardiac Surgery Recovery Unit,77
+132663,0,50,female,166.4,Cardiac Surgery Recovery Unit,59.4
+132664,0,69,male,NA,Medical ICU,72.9
+132666,0,53,female,167.6,Medical ICU,62
+132669,0,74,male,180.3,Cardiac Surgery Recovery Unit,81.8
+132671,0,55,male,185.4,Coronary Care Unit,96
+132680,1,80,female,NA,Surgical ICU,66.4
+132682,0,68,male,NA,Coronary Care Unit,78.9
+132683,0,46,female,NA,Medical ICU,NA
+132685,0,77,male,172.7,Coronary Care Unit,81.8
+132686,0,68,male,157.5,Surgical ICU,111.3
+132688,0,71,female,162.6,Cardiac Surgery Recovery Unit,104
+132694,1,61,female,170.2,Coronary Care Unit,165
+132695,0,74,female,NA,Surgical ICU,46
+132698,1,66,male,NA,Medical ICU,91.5
+132700,0,65,female,NA,Medical ICU,76
+132703,0,78,male,NA,Surgical ICU,72.6
+132704,1,63,male,182.9,Surgical ICU,68.9
+132705,0,77,female,165.1,Surgical ICU,73.9
+132708,0,23,male,NA,Surgical ICU,75.5
+132710,0,84,male,177.8,Surgical ICU,73
+132717,0,86,male,167.6,Coronary Care Unit,73
+132720,0,56,male,NA,Medical ICU,92
+132721,0,71,male,NA,Medical ICU,131
+132722,0,36,female,NA,Medical ICU,85
+132726,1,90,female,NA,Coronary Care Unit,59
+132729,0,45,female,NA,Medical ICU,56
+132732,0,21,female,NA,Medical ICU,113.4
+132737,0,64,male,162.6,Cardiac Surgery Recovery Unit,90
+132738,1,86,female,144.8,Surgical ICU,101.3
+132744,0,70,male,170.2,Medical ICU,95.3
+132745,0,43,male,NA,Medical ICU,97.2
+132747,0,73,male,165.1,Surgical ICU,72.8
+132758,0,87,male,182.9,Coronary Care Unit,75
+132765,0,90,male,NA,Surgical ICU,82
+132766,0,34,female,NA,Medical ICU,NA
+132767,0,66,female,NA,Surgical ICU,75
+132769,0,22,male,195.6,Medical ICU,70
+132772,0,68,male,NA,Medical ICU,70.4
+132773,0,87,male,NA,Medical ICU,54
+132774,0,41,male,NA,Surgical ICU,89.6
+132776,0,29,female,170.2,Medical ICU,92
+132777,0,81,female,NA,Surgical ICU,NA
+132780,0,47,female,NA,Medical ICU,116
+132781,0,71,female,177.8,Coronary Care Unit,96
+132783,0,44,female,NA,Coronary Care Unit,58.5
+132786,0,64,female,NA,Medical ICU,NA
+132790,0,41,male,177.8,Cardiac Surgery Recovery Unit,100.9
+132791,0,79,male,NA,Medical ICU,61
+132792,0,45,female,NA,Medical ICU,49.4
+132797,0,88,female,152.4,Cardiac Surgery Recovery Unit,78.8
+132798,0,84,female,162.6,Cardiac Surgery Recovery Unit,67.3
+132799,0,52,male,NA,Coronary Care Unit,107
+132801,0,83,female,157.5,Surgical ICU,48.6
+132805,0,36,female,NA,Surgical ICU,57
+132806,0,62,male,185.4,Medical ICU,119.9
+132810,0,88,male,162.6,Cardiac Surgery Recovery Unit,50.7
+132811,1,40,male,NA,Medical ICU,84
+132812,0,60,female,NA,Medical ICU,56.2
+132813,0,56,male,NA,Medical ICU,74
+132814,0,89,female,160,Coronary Care Unit,56.7
+132819,0,83,male,NA,Surgical ICU,90.2
+132821,1,69,female,NA,Medical ICU,58.3
+132826,0,56,female,NA,Surgical ICU,60
+132827,0,53,female,NA,Medical ICU,87.8
+132830,0,79,male,NA,Surgical ICU,75
+132832,0,64,female,144.8,Cardiac Surgery Recovery Unit,55
+132835,0,23,female,NA,Medical ICU,80.5
+132836,0,53,male,185.4,Cardiac Surgery Recovery Unit,88.6
+132837,0,79,female,NA,Surgical ICU,54
+132838,0,62,female,154.9,Cardiac Surgery Recovery Unit,70
+132842,1,64,female,NA,Surgical ICU,55
+132844,1,88,female,NA,Surgical ICU,74.3
+132845,0,90,male,NA,Medical ICU,70.7
+132848,0,71,male,177.8,Medical ICU,87.5
+132850,0,47,male,172.7,Surgical ICU,68
+132851,0,83,male,NA,Medical ICU,73.5
+132852,0,72,female,157.5,Cardiac Surgery Recovery Unit,80
+132853,0,55,female,NA,Medical ICU,55.9
+132855,0,54,male,177.8,Cardiac Surgery Recovery Unit,75
+132857,0,61,male,182.9,Medical ICU,82.8
+132859,0,77,male,NA,Surgical ICU,80.6
+132860,0,85,female,NA,Coronary Care Unit,54
+132863,0,60,male,NA,Medical ICU,NA
+132864,1,85,male,NA,Medical ICU,76
+132865,0,22,male,182.9,Surgical ICU,85
+132866,0,80,male,167.6,Coronary Care Unit,77.8
+132872,0,63,female,167.6,Cardiac Surgery Recovery Unit,76.1
+132877,0,84,male,NA,Medical ICU,70.1
+132878,0,71,female,NA,Medical ICU,56
+132881,0,77,female,NA,Coronary Care Unit,58
+132884,0,56,male,182.9,Medical ICU,108.5
+132891,0,40,male,182.9,Surgical ICU,79.5
+132892,0,73,male,NA,Surgical ICU,98
+132893,1,81,male,177.8,Coronary Care Unit,75
+132894,0,57,male,167.6,Medical ICU,62.2
+132895,0,63,male,170.2,Medical ICU,70
+132898,0,62,male,157.5,Cardiac Surgery Recovery Unit,108.6
+132902,0,58,male,NA,Medical ICU,71.6
+132903,0,56,male,NA,Medical ICU,96
+132906,0,69,female,167.6,Medical ICU,85.2
+132907,0,53,female,162.6,Surgical ICU,80.7
+132911,0,79,female,NA,Medical ICU,66.1
+132915,0,67,female,NA,Surgical ICU,67.1
+132917,0,90,female,165.1,Surgical ICU,75
+132919,0,77,male,NA,Coronary Care Unit,NA
+132922,1,80,female,162.6,Coronary Care Unit,70
+132923,0,82,male,NA,Medical ICU,NA
+132929,1,71,female,162.6,Medical ICU,112.8
+132933,0,54,female,170.2,Surgical ICU,96
+132934,0,62,female,162.6,Cardiac Surgery Recovery Unit,80.8
+132936,0,31,female,NA,Surgical ICU,NA
+132939,0,72,female,149.9,Medical ICU,78
+132946,0,29,male,NA,Surgical ICU,76.4
+132949,0,89,female,162.6,Medical ICU,58.9
+132958,0,67,male,NA,Surgical ICU,70
+132959,0,74,male,172.7,Cardiac Surgery Recovery Unit,65.2
+132960,1,56,male,NA,Medical ICU,87.6
+132962,0,74,male,NA,Medical ICU,120.5
+132963,0,24,male,182.9,Medical ICU,73.7
+132965,0,59,female,162.6,Cardiac Surgery Recovery Unit,80
+132969,0,83,male,170.2,Coronary Care Unit,80
+132971,0,47,male,177.8,Surgical ICU,113.6
+132973,0,90,male,NA,Surgical ICU,NA
+132979,1,84,male,NA,Medical ICU,72
+132988,0,72,male,NA,Medical ICU,NA
+132992,0,23,male,203,Surgical ICU,81
+132995,0,51,female,NA,Surgical ICU,69
+132996,0,73,female,160,Coronary Care Unit,72.7
+133001,0,58,female,158.8,Medical ICU,41
+133002,0,35,male,NA,Surgical ICU,NA
+133004,0,71,male,170.2,Surgical ICU,65
+133009,0,66,male,160,Cardiac Surgery Recovery Unit,73.7
+133016,0,63,female,NA,Medical ICU,64
+133017,0,63,male,177.8,Surgical ICU,63.9
+133021,0,53,male,167.6,Cardiac Surgery Recovery Unit,75.2
+133022,0,78,female,177.8,Cardiac Surgery Recovery Unit,74.1
+133023,0,83,female,165.1,Cardiac Surgery Recovery Unit,87.5
+133024,1,46,male,NA,Medical ICU,88.2
+133025,0,60,female,162.6,Surgical ICU,50
+133026,0,63,male,165.1,Surgical ICU,57
+133027,0,60,female,160,Cardiac Surgery Recovery Unit,75.1
+133029,1,72,male,177.8,Surgical ICU,67.8
+133031,0,77,male,154.9,Surgical ICU,77.2
+133032,0,40,female,172.7,Cardiac Surgery Recovery Unit,63
+133035,0,52,female,NA,Medical ICU,62.6
+133038,0,76,female,NA,Surgical ICU,NA
+133039,0,88,female,NA,Cardiac Surgery Recovery Unit,NA
+133040,0,81,male,182.9,Coronary Care Unit,97
+133059,0,76,female,121.9,Medical ICU,52.8
+133061,0,82,female,NA,Medical ICU,62.9
+133062,0,61,male,NA,Medical ICU,91.5
+133064,1,50,male,NA,Medical ICU,69.6
+133066,1,86,male,188,Surgical ICU,70
+133071,0,22,male,NA,Medical ICU,60.5
+133079,1,33,female,NA,Surgical ICU,100
+133080,0,51,female,NA,Surgical ICU,76.4
+133086,1,83,male,NA,Medical ICU,73
+133091,0,39,male,177.8,Surgical ICU,79.4
+133092,0,44,female,NA,Medical ICU,134
+133098,0,44,male,172.7,Cardiac Surgery Recovery Unit,77.3
+133104,0,51,male,185.4,Cardiac Surgery Recovery Unit,95.4
+133106,1,36,female,NA,Coronary Care Unit,NA
+133109,0,65,male,NA,Medical ICU,NA
+133117,0,46,male,NA,Medical ICU,82.6
+133120,0,76,female,NA,Coronary Care Unit,NA
+133121,0,61,male,NA,Surgical ICU,55
+133122,0,73,male,175.3,Cardiac Surgery Recovery Unit,89.1
+133125,0,83,male,NA,Medical ICU,53
+133126,0,73,female,149.9,Coronary Care Unit,72.9
+133127,0,54,female,154.9,Cardiac Surgery Recovery Unit,42.7
+133131,0,51,male,175.3,Surgical ICU,79.4
+133134,0,48,female,NA,Medical ICU,85.1
+133140,0,58,male,NA,Medical ICU,NA
+133141,0,53,female,157.5,Medical ICU,110.5
+133146,0,58,female,NA,Medical ICU,110
+133147,0,62,male,180.3,Surgical ICU,98.64
+133148,0,79,male,NA,Medical ICU,73.4
+133151,0,77,male,NA,Medical ICU,63.6
+133152,0,61,male,182.9,Surgical ICU,98.2
+133153,0,58,female,162.6,Cardiac Surgery Recovery Unit,70
+133154,0,62,male,177.8,Cardiac Surgery Recovery Unit,81.18
+133157,0,33,male,NA,Surgical ICU,NA
+133163,0,39,male,180.3,Cardiac Surgery Recovery Unit,82.8
+133164,0,57,male,NA,Surgical ICU,63.5
+133166,1,71,male,177.8,Cardiac Surgery Recovery Unit,85
+133172,0,63,female,165.1,Cardiac Surgery Recovery Unit,61.3
+133177,0,38,male,NA,Surgical ICU,96
+133179,1,61,male,NA,Medical ICU,95.8
+133180,0,59,female,NA,Medical ICU,82.6
+133183,0,40,male,170.2,Medical ICU,85.2
+133185,0,41,male,NA,Medical ICU,71.5
+133188,0,48,male,165.1,Medical ICU,75.6
+133189,0,49,male,NA,Medical ICU,55
+133190,0,72,female,157.5,Cardiac Surgery Recovery Unit,51
+133193,0,74,male,147.3,Coronary Care Unit,65
+133196,0,86,male,NA,Coronary Care Unit,NA
+133197,0,86,male,177.8,Medical ICU,72
+133204,0,61,female,NA,Medical ICU,NA
+133206,0,74,male,165.1,Cardiac Surgery Recovery Unit,71.8
+133207,0,65,male,185.4,Cardiac Surgery Recovery Unit,102.2
+133210,0,21,male,182.9,Surgical ICU,138
+133213,0,28,female,NA,Medical ICU,NA
+133215,0,65,female,175.3,Cardiac Surgery Recovery Unit,54.4
+133217,0,62,male,154.9,Cardiac Surgery Recovery Unit,102.7
+133219,0,73,male,NA,Medical ICU,93
+133220,0,84,female,NA,Medical ICU,64
+133222,0,74,female,149.9,Cardiac Surgery Recovery Unit,53.4
+133223,0,74,male,NA,Medical ICU,82.4
+133225,0,57,male,177.8,Medical ICU,90
+133226,0,77,male,180.3,Surgical ICU,81
+133227,1,57,male,NA,Medical ICU,73
+133228,0,53,female,NA,Medical ICU,NA
+133232,1,78,male,167.6,Medical ICU,70.6
+133236,0,39,male,185.4,Surgical ICU,154.4
+133237,0,86,female,157.5,Cardiac Surgery Recovery Unit,69.4
+133243,0,83,female,NA,Medical ICU,39
+133245,0,41,female,NA,Medical ICU,145.6
+133246,1,76,female,NA,Surgical ICU,57.2
+133247,0,56,female,157.5,Medical ICU,91.5
+133248,0,40,female,160,Surgical ICU,52.7
+133257,1,62,male,NA,Medical ICU,62.7
+133259,0,48,male,154.9,Cardiac Surgery Recovery Unit,140
+133261,1,80,male,177.8,Medical ICU,88.3
+133262,0,85,male,NA,Surgical ICU,88.5
+133263,0,43,male,177.8,Surgical ICU,67.5
+133267,0,82,female,170.2,Cardiac Surgery Recovery Unit,90
+133268,0,75,female,149.9,Coronary Care Unit,52
+133269,0,78,female,152.4,Cardiac Surgery Recovery Unit,63.3
+133270,0,83,female,NA,Coronary Care Unit,NA
+133271,0,80,male,152.4,Surgical ICU,88.5
+133273,0,81,female,157.5,Surgical ICU,81
+133274,0,85,male,NA,Coronary Care Unit,97
+133275,0,68,male,NA,Medical ICU,70
+133277,0,84,female,162.6,Coronary Care Unit,68.9
+133278,0,41,female,154.9,Surgical ICU,52
+133280,0,74,female,157.5,Coronary Care Unit,55
+133281,0,69,female,175.3,Medical ICU,113
+133282,0,73,female,165.1,Cardiac Surgery Recovery Unit,79.5
+133284,0,70,male,182.9,Cardiac Surgery Recovery Unit,123
+133286,0,77,male,NA,Medical ICU,66.3
+133287,0,59,male,170.2,Cardiac Surgery Recovery Unit,64
+133289,0,30,female,172.7,Cardiac Surgery Recovery Unit,86
+133291,0,67,female,157.5,Medical ICU,78
+133295,0,64,male,175.3,Cardiac Surgery Recovery Unit,95.3
+133297,0,21,male,NA,Medical ICU,NA
+133298,0,24,female,175.3,Medical ICU,104.5
+133300,0,42,male,NA,Surgical ICU,164.7
+133301,0,72,male,157.5,Surgical ICU,77
+133302,0,82,male,172.7,Medical ICU,98.4
+133303,0,47,female,175.3,Surgical ICU,152
+133304,0,90,female,NA,Medical ICU,NA
+133308,1,60,male,NA,Medical ICU,118.4
+133312,0,78,male,177.8,Coronary Care Unit,84
+133318,0,48,male,177.8,Medical ICU,100
+133320,0,71,female,NA,Coronary Care Unit,51.5
+133322,0,22,female,NA,Medical ICU,63.1
+133325,0,90,female,160,Surgical ICU,59
+133326,1,86,female,152.4,Surgical ICU,68.4
+133327,0,90,female,NA,Medical ICU,NA
+133328,0,59,male,182.9,Cardiac Surgery Recovery Unit,72.7
+133333,0,77,male,170.2,Cardiac Surgery Recovery Unit,75.9
+133335,0,29,female,121.9,Cardiac Surgery Recovery Unit,83
+133336,0,58,male,170.2,Cardiac Surgery Recovery Unit,50.1
+133341,0,90,male,NA,Medical ICU,91.4
+133343,0,80,female,152.4,Surgical ICU,64
+133347,0,38,female,NA,Medical ICU,126.1
+133357,0,50,male,182.9,Cardiac Surgery Recovery Unit,136
+133359,0,44,male,185.4,Surgical ICU,131.3
+133361,0,63,male,180.3,Coronary Care Unit,102
+133363,0,69,female,NA,Medical ICU,110
+133367,1,81,female,NA,Medical ICU,71
+133368,0,83,female,152.4,Cardiac Surgery Recovery Unit,75
+133370,0,87,female,160,Surgical ICU,65
+133372,0,60,male,172.7,Medical ICU,62.2
+133375,0,84,female,152.4,Cardiac Surgery Recovery Unit,44
+133377,1,87,male,167.6,Medical ICU,60.8
+133380,0,51,female,NA,Coronary Care Unit,95
+133381,0,82,male,172.7,Cardiac Surgery Recovery Unit,81.4
+133384,0,47,female,139.7,Medical ICU,68
+133388,0,69,male,185.4,Surgical ICU,111.4
+133390,1,79,female,NA,Medical ICU,52
+133394,0,54,female,NA,Medical ICU,128.9
+133396,0,77,female,152.4,Coronary Care Unit,54.4
+133397,0,43,female,NA,Coronary Care Unit,NA
+133399,1,50,male,175.3,Surgical ICU,119
+133401,0,59,male,160,Cardiac Surgery Recovery Unit,70.1
+133403,0,53,male,170.2,Cardiac Surgery Recovery Unit,101
+133404,0,83,male,167.6,Cardiac Surgery Recovery Unit,77.7
+133405,0,79,male,NA,Surgical ICU,60
+133406,0,20,female,165.1,Medical ICU,61.3
+133412,0,65,male,185.4,Surgical ICU,124
+133413,0,74,male,170.2,Cardiac Surgery Recovery Unit,84.4
+133418,0,65,female,167.6,Cardiac Surgery Recovery Unit,135.1
+133419,0,71,male,NA,Medical ICU,53
+133420,0,73,male,NA,Medical ICU,65.3
+133426,0,70,female,160,Cardiac Surgery Recovery Unit,57.5
+133427,0,49,male,NA,Coronary Care Unit,85
+133428,0,74,male,NA,Medical ICU,95
+133430,0,40,male,167.6,Medical ICU,202
+133431,0,77,male,NA,Medical ICU,99.7
+133432,1,77,male,NA,Coronary Care Unit,86.3
+133433,0,79,male,182.9,Medical ICU,98.1
+133434,0,76,male,NA,Surgical ICU,103
+133436,0,67,female,157.5,Cardiac Surgery Recovery Unit,75.8
+133441,1,87,female,152.4,Medical ICU,65
+133444,0,66,male,175.3,Coronary Care Unit,95
+133454,1,45,male,180.3,Medical ICU,85
+133457,0,49,male,188,Cardiac Surgery Recovery Unit,93.18
+133458,0,73,male,NA,Coronary Care Unit,76
+133463,0,90,male,NA,Medical ICU,74.4
+133473,1,86,male,NA,Medical ICU,77.5
+133476,0,42,male,NA,Surgical ICU,85
+133478,0,25,female,NA,Medical ICU,129.7
+133481,0,60,female,NA,Medical ICU,60
+133483,1,87,female,157.5,Surgical ICU,60
+133485,0,73,female,167.6,Surgical ICU,66.3
+133487,0,88,female,157.5,Coronary Care Unit,55
+133488,0,84,female,162.6,Medical ICU,46.8
+133489,0,81,female,154.9,Cardiac Surgery Recovery Unit,68.18
+133492,0,74,male,NA,Coronary Care Unit,79
+133493,1,60,female,NA,Medical ICU,98.1
+133494,0,73,male,170.2,Cardiac Surgery Recovery Unit,89.7
+133495,0,90,male,170.2,Coronary Care Unit,64
+133497,0,79,female,167.6,Cardiac Surgery Recovery Unit,122.6
+133499,0,83,female,157.5,Cardiac Surgery Recovery Unit,57
+133506,0,34,female,157.5,Surgical ICU,63.64
+133507,0,80,female,NA,Medical ICU,44.5
+133510,0,72,male,NA,Medical ICU,69.5
+133512,0,67,male,NA,Surgical ICU,69.9
+133513,1,61,male,165.1,Medical ICU,75
+133514,0,88,male,177.8,Coronary Care Unit,76.3
+133516,0,58,female,162.6,Coronary Care Unit,64.7
+133522,0,67,female,162.6,Surgical ICU,108.4
+133525,1,74,male,NA,Medical ICU,NA
+133527,0,77,female,165.1,Cardiac Surgery Recovery Unit,91.8
+133528,0,51,female,NA,Medical ICU,40
+133534,0,80,male,NA,Medical ICU,73
+133537,0,44,female,172,Cardiac Surgery Recovery Unit,74.9
+133539,0,77,female,157.5,Cardiac Surgery Recovery Unit,88
+133540,0,88,female,NA,Medical ICU,78.9
+133544,0,84,female,NA,Coronary Care Unit,NA
+133546,0,88,female,NA,Medical ICU,62
+133549,1,78,male,182.9,Surgical ICU,93
+133551,0,57,female,170.2,Coronary Care Unit,103.6
+133552,0,77,male,185.4,Cardiac Surgery Recovery Unit,94
+133560,0,55,female,NA,Surgical ICU,70
+133561,0,81,male,182.9,Coronary Care Unit,95.7
+133563,0,65,male,177.8,Coronary Care Unit,79
+133564,0,70,male,180.3,Surgical ICU,85
+133565,0,80,female,NA,Medical ICU,49.4
+133570,0,80,male,172.7,Surgical ICU,72.5
+133574,0,62,female,165.1,Coronary Care Unit,53
+133578,0,74,male,NA,Medical ICU,NA
+133579,0,73,female,165.1,Medical ICU,68.2
+133581,1,74,female,NA,Medical ICU,99.5
+133583,0,60,male,NA,Surgical ICU,63.6
+133585,0,60,female,157.5,Surgical ICU,45.5
+133587,0,79,male,NA,Medical ICU,105
+133588,0,51,female,13,Cardiac Surgery Recovery Unit,100
+133589,0,62,male,NA,Surgical ICU,100
+133592,0,73,male,NA,Surgical ICU,88
+133593,0,44,male,182.9,Medical ICU,74.1
+133599,0,28,male,NA,Surgical ICU,66.2
+133600,0,72,male,170.2,Coronary Care Unit,79.1
+133605,0,65,female,NA,Medical ICU,122
+133607,0,43,male,172.7,Cardiac Surgery Recovery Unit,111
+133608,0,59,female,NA,Medical ICU,90.4
+133609,0,65,male,177.8,Coronary Care Unit,145
+133611,0,50,male,NA,Surgical ICU,92.4
+133619,0,68,female,160,Cardiac Surgery Recovery Unit,113.9
+133620,0,57,male,193,Surgical ICU,113
+133622,0,83,female,157.5,Coronary Care Unit,56
+133623,1,68,female,NA,Surgical ICU,110.6
+133626,0,90,female,162.6,Medical ICU,70.6
+133628,0,88,male,NA,Medical ICU,NA
+133632,1,75,male,NA,Cardiac Surgery Recovery Unit,46.4
+133633,0,90,female,NA,Medical ICU,48.9
+133634,1,83,female,NA,Medical ICU,78.2
+133635,0,73,male,172.7,Coronary Care Unit,85.8
+133636,1,83,female,152.4,Coronary Care Unit,58
+133640,1,75,female,NA,Coronary Care Unit,NA
+133643,0,38,male,NA,Medical ICU,146.4
+133644,0,73,male,180.3,Cardiac Surgery Recovery Unit,120.4
+133645,0,81,female,NA,Medical ICU,NA
+133649,0,45,female,NA,Surgical ICU,61.2
+133651,0,77,female,152.4,Coronary Care Unit,63.5
+133653,0,84,male,NA,Coronary Care Unit,81
+133654,0,66,female,167.6,Cardiac Surgery Recovery Unit,117.7
+133657,0,89,female,NA,Coronary Care Unit,80.6
+133659,0,46,male,177.8,Coronary Care Unit,100
+133663,1,69,male,152.4,Medical ICU,70
+133671,0,58,male,177.8,Coronary Care Unit,66.5
+133672,0,74,female,NA,Medical ICU,106.8
+133675,0,68,female,177.8,Coronary Care Unit,87
+133682,0,45,male,180.3,Coronary Care Unit,86
+133683,0,85,female,NA,Surgical ICU,100
+133684,0,64,female,160,Surgical ICU,70
+133687,0,72,female,NA,Medical ICU,84.1
+133688,0,34,female,NA,Medical ICU,130.8
+133691,1,75,male,NA,Surgical ICU,110
+133693,0,87,female,365.8,Coronary Care Unit,NA
+133696,0,55,male,182.9,Medical ICU,59
+133699,0,68,male,NA,Surgical ICU,82.5
+133704,0,60,male,160,Cardiac Surgery Recovery Unit,64.4
+133706,0,64,female,165.1,Coronary Care Unit,61.3
+133708,1,71,male,NA,Medical ICU,60
+133711,0,82,female,162.6,Coronary Care Unit,54
+133713,0,47,female,NA,Medical ICU,52.8
+133714,0,67,female,NA,Medical ICU,NA
+133715,0,59,female,154.9,Medical ICU,46.9
+133718,1,51,female,165.1,Medical ICU,92
+133719,0,84,male,175.3,Coronary Care Unit,87.3
+133720,0,77,male,NA,Coronary Care Unit,87
+133724,0,56,female,14,Medical ICU,103
+133728,0,78,male,NA,Coronary Care Unit,NA
+133734,0,90,female,162.6,Coronary Care Unit,64.8
+133740,0,77,male,NA,Cardiac Surgery Recovery Unit,NA
+133743,0,78,male,182.9,Coronary Care Unit,89
+133746,0,63,male,177.8,Coronary Care Unit,86
+133748,1,88,male,180.3,Medical ICU,57
+133751,0,43,male,NA,Surgical ICU,70
+133755,0,71,female,162.6,Cardiac Surgery Recovery Unit,60
+133763,0,85,male,NA,Coronary Care Unit,72.7
+133764,0,49,male,NA,Surgical ICU,NA
+133765,1,76,male,177.8,Cardiac Surgery Recovery Unit,70.4
+133767,0,65,male,NA,Medical ICU,163.5
+133769,1,71,male,NA,Surgical ICU,76.8
+133770,1,84,female,NA,Medical ICU,59.8
+133771,0,82,female,NA,Medical ICU,NA
+133774,0,90,male,NA,Surgical ICU,66
+133775,0,57,male,175.3,Medical ICU,96.6
+133780,1,66,male,NA,Surgical ICU,125
+133784,0,48,male,180.3,Medical ICU,173
+133786,0,46,female,157.5,Coronary Care Unit,52.3
+133789,0,87,female,NA,Medical ICU,61.5
+133790,0,53,female,NA,Medical ICU,106
+133792,0,64,male,NA,Medical ICU,85.9
+133793,0,71,male,NA,Medical ICU,80.5
+133800,0,61,male,NA,Medical ICU,NA
+133803,0,73,male,NA,Surgical ICU,69.6
+133811,0,38,female,165.1,Medical ICU,70.5
+133812,0,72,female,157.5,Cardiac Surgery Recovery Unit,50
+133814,0,68,female,NA,Surgical ICU,90.1
+133815,0,71,male,NA,Coronary Care Unit,115
+133816,1,52,male,NA,Surgical ICU,50
+133834,0,90,female,NA,Medical ICU,56.5
+133835,0,71,male,182.9,Coronary Care Unit,80.7
+133841,0,59,male,185.4,Cardiac Surgery Recovery Unit,94.5
+133843,0,90,female,NA,Medical ICU,80.2
+133845,0,56,male,180.3,Medical ICU,95.1
+133846,0,73,male,NA,Surgical ICU,88.9
+133851,0,86,female,NA,Medical ICU,96
+133852,0,64,female,NA,Surgical ICU,94.5
+133858,0,61,male,182.9,Cardiac Surgery Recovery Unit,78.8
+133859,0,90,female,NA,Medical ICU,NA
+133862,0,81,female,162.6,Cardiac Surgery Recovery Unit,54
+133863,1,53,female,160,Coronary Care Unit,68
+133865,0,79,female,152.4,Coronary Care Unit,58.1
+133866,0,80,female,157.5,Medical ICU,79.9
+133868,0,83,female,NA,Cardiac Surgery Recovery Unit,63
+133874,0,72,female,NA,Medical ICU,63.4
+133875,0,72,male,185.4,Cardiac Surgery Recovery Unit,109.3
+133877,0,90,female,144.8,Medical ICU,53
+133881,0,18,female,NA,Surgical ICU,51.7
+133884,0,86,male,205.7,Surgical ICU,88.5
+133888,0,60,female,156.2,Cardiac Surgery Recovery Unit,77
+133890,0,76,male,170.2,Cardiac Surgery Recovery Unit,69.4
+133891,0,52,female,NA,Surgical ICU,NA
+133895,0,77,female,154.9,Cardiac Surgery Recovery Unit,49
+133896,0,45,female,NA,Medical ICU,64.6
+133897,0,59,male,188,Surgical ICU,113
+133901,0,45,male,NA,Medical ICU,100
+133905,1,83,female,NA,Medical ICU,64.4
+133906,1,71,female,NA,Surgical ICU,46.2
+133912,0,51,male,NA,Surgical ICU,NA
+133913,0,71,female,NA,Medical ICU,66.9
+133914,0,51,male,NA,Medical ICU,78.6
+133919,0,65,female,157.5,Cardiac Surgery Recovery Unit,115
+133923,0,61,male,182.9,Cardiac Surgery Recovery Unit,86.4
+133924,0,50,female,NA,Medical ICU,79.4
+133925,0,72,female,154.9,Cardiac Surgery Recovery Unit,48.9
+133930,0,74,male,NA,Surgical ICU,92.6
+133932,0,80,male,NA,Coronary Care Unit,91.6
+133933,0,57,male,175.3,Medical ICU,63
+133938,0,64,male,177.8,Medical ICU,76.8
+133941,0,53,male,152.4,Coronary Care Unit,114.5
+133942,0,45,male,185.4,Cardiac Surgery Recovery Unit,85.9
+133946,1,90,male,170.2,Surgical ICU,73.2
+133947,0,63,male,180.3,Coronary Care Unit,95
+133948,1,70,male,170.2,Medical ICU,74
+133949,0,71,male,NA,Medical ICU,96
+133956,0,68,male,154.9,Cardiac Surgery Recovery Unit,111
+133959,0,54,male,182.9,Surgical ICU,95
+133960,0,70,female,NA,Medical ICU,77.1
+133963,0,89,female,NA,Surgical ICU,NA
+133966,0,20,male,NA,Surgical ICU,70
+133971,0,85,male,182.9,Cardiac Surgery Recovery Unit,72.1
+133972,0,79,female,162.6,Coronary Care Unit,55.6
+133974,0,90,female,NA,Medical ICU,NA
+133975,0,90,male,167.6,Surgical ICU,70
+133978,0,83,male,172.7,Cardiac Surgery Recovery Unit,78.5
+133980,0,28,male,NA,Surgical ICU,88.2
+133981,1,89,female,NA,Coronary Care Unit,38.6
+133985,0,60,male,NA,Medical ICU,67.2
+133989,1,88,male,167.6,Medical ICU,71.9
+133992,0,17,male,NA,Coronary Care Unit,107.5
+133993,0,59,male,162.6,Cardiac Surgery Recovery Unit,93.2
+133995,0,80,male,190.5,Surgical ICU,110
+133999,1,76,male,172.7,Surgical ICU,75
+134002,0,57,female,172.7,Medical ICU,120
+134003,0,85,female,152.4,Cardiac Surgery Recovery Unit,60
+134007,0,83,male,NA,Medical ICU,103.4
+134008,0,52,female,167.6,Medical ICU,76
+134009,0,90,male,157.5,Medical ICU,60
+134010,0,76,male,170.2,Surgical ICU,60.2
+134011,0,56,male,NA,Surgical ICU,88.6
+134013,0,76,male,182.9,Coronary Care Unit,87
+134015,0,66,female,NA,Surgical ICU,70.7
+134026,0,65,male,170.2,Cardiac Surgery Recovery Unit,73.7
+134028,0,77,female,167.6,Coronary Care Unit,78.5
+134029,0,65,male,177.8,Medical ICU,46.5
+134032,0,84,female,NA,Coronary Care Unit,57.9
+134034,0,25,male,NA,Medical ICU,135.5
+134036,0,40,female,162.6,Coronary Care Unit,54
+134037,0,34,male,177.8,Surgical ICU,55.4
+134038,0,35,female,NA,Medical ICU,67
+134039,0,71,male,170.2,Cardiac Surgery Recovery Unit,80.9
+134042,0,83,female,154.9,Cardiac Surgery Recovery Unit,60
+134043,0,51,male,NA,Medical ICU,91.2
+134044,0,70,male,182.9,Cardiac Surgery Recovery Unit,86.2
+134049,0,77,male,NA,Medical ICU,109
+134051,1,60,female,NA,Medical ICU,46
+134054,0,78,male,165.1,Cardiac Surgery Recovery Unit,51.2
+134055,0,46,female,167.6,Medical ICU,100.5
+134058,0,76,female,157.5,Cardiac Surgery Recovery Unit,70
+134059,0,87,male,172.7,Medical ICU,70.6
+134063,0,41,male,170.2,Cardiac Surgery Recovery Unit,108.7
+134066,0,79,male,177.8,Medical ICU,80.1
+134067,0,61,male,NA,Medical ICU,69.5
+134068,0,66,female,172.7,Surgical ICU,84
+134069,0,74,male,172.7,Surgical ICU,68
+134078,0,59,male,188,Surgical ICU,90
+134079,0,86,female,160,Surgical ICU,56.4
+134080,1,83,male,182.9,Coronary Care Unit,66
+134087,0,72,male,NA,Surgical ICU,87.7
+134089,0,61,male,NA,Medical ICU,137
+134091,0,55,female,NA,Surgical ICU,41.5
+134092,0,59,male,170.2,Surgical ICU,89
+134093,0,87,male,167.6,Medical ICU,77.1
+134095,0,52,male,NA,Surgical ICU,60
+134096,0,65,female,162.6,Cardiac Surgery Recovery Unit,86.4
+134097,0,45,male,NA,Surgical ICU,162
+134098,0,61,male,175.3,Cardiac Surgery Recovery Unit,121.8
+134100,0,84,female,NA,Surgical ICU,82.5
+134104,1,70,female,162.6,Coronary Care Unit,82.9
+134105,0,75,male,177.8,Medical ICU,83.7
+134108,0,82,male,170.2,Cardiac Surgery Recovery Unit,77.6
+134110,0,36,male,198.1,Cardiac Surgery Recovery Unit,75.9
+134112,0,58,male,NA,Coronary Care Unit,NA
+134115,1,78,female,162.6,Medical ICU,47
+134118,0,64,male,177.8,Cardiac Surgery Recovery Unit,83.3
+134119,0,73,female,NA,Cardiac Surgery Recovery Unit,61.7
+134121,0,65,female,NA,Medical ICU,98.6
+134122,0,48,male,NA,Medical ICU,87.2
+134126,0,39,male,177.8,Cardiac Surgery Recovery Unit,91.5
+134130,0,36,male,NA,Medical ICU,91
+134133,0,29,female,175.3,Medical ICU,103.2
+134134,0,78,female,NA,Medical ICU,104.7
+134136,0,38,male,NA,Medical ICU,87
+134143,0,16,female,NA,Surgical ICU,60
+134145,0,51,male,NA,Surgical ICU,NA
+134147,0,88,female,162.6,Surgical ICU,64
+134150,0,78,female,152.4,Cardiac Surgery Recovery Unit,86
+134151,0,69,male,175.3,Surgical ICU,110.2
+134157,0,78,female,161.3,Cardiac Surgery Recovery Unit,79.9
+134159,0,53,male,NA,Surgical ICU,119.7
+134160,0,62,male,NA,Coronary Care Unit,NA
+134161,0,68,female,162.6,Cardiac Surgery Recovery Unit,66.3
+134162,0,74,male,176.5,Cardiac Surgery Recovery Unit,88.5
+134164,0,45,male,NA,Surgical ICU,80
+134165,0,63,male,182.9,Medical ICU,102.5
+134166,0,48,male,NA,Surgical ICU,NA
+134167,1,48,female,157.5,Medical ICU,120
+134168,0,67,male,NA,Surgical ICU,82
+134171,0,70,female,NA,Medical ICU,105
+134172,0,78,male,182.9,Cardiac Surgery Recovery Unit,72
+134174,0,62,male,NA,Medical ICU,90
+134176,0,57,male,NA,Surgical ICU,NA
+134178,0,61,male,182.9,Cardiac Surgery Recovery Unit,82
+134179,0,67,male,167.6,Cardiac Surgery Recovery Unit,68
+134180,0,56,male,NA,Medical ICU,103
+134185,0,79,female,NA,Medical ICU,98.6
+134186,0,82,female,147.3,Surgical ICU,69.9
+134193,0,89,male,NA,Medical ICU,65.6
+134196,0,40,female,NA,Surgical ICU,63
+134199,1,26,male,185.4,Surgical ICU,80
+134200,0,61,male,175.3,Cardiac Surgery Recovery Unit,81.7
+134203,0,72,male,NA,Medical ICU,60.8
+134205,0,19,female,NA,Medical ICU,97.2
+134207,0,57,male,NA,Surgical ICU,100
+134210,0,34,male,NA,Surgical ICU,70.9
+134212,0,84,male,NA,Medical ICU,97.3
+134213,0,53,male,NA,Medical ICU,115.3
+134218,0,89,male,162.6,Cardiac Surgery Recovery Unit,59
+134223,0,33,female,NA,Medical ICU,65
+134227,0,72,male,180.3,Surgical ICU,93.5
+134228,0,47,male,NA,Medical ICU,84.1
+134234,0,84,male,NA,Surgical ICU,72.8
+134235,0,71,male,NA,Medical ICU,150
+134238,0,59,female,NA,Cardiac Surgery Recovery Unit,72
+134239,0,69,male,NA,Surgical ICU,63
+134240,0,64,male,NA,Medical ICU,NA
+134241,0,18,male,177.8,Surgical ICU,108
+134244,0,73,female,NA,Medical ICU,66.9
+134246,0,73,female,170.2,Surgical ICU,100
+134247,0,54,male,182.9,Surgical ICU,91.3
+134250,0,49,female,170.2,Medical ICU,74.8
+134251,0,87,female,162.6,Coronary Care Unit,66.7
+134253,0,90,male,NA,Cardiac Surgery Recovery Unit,NA
+134256,0,45,male,NA,Medical ICU,70
+134259,0,43,male,NA,Coronary Care Unit,64.8
+134260,0,65,female,167.6,Cardiac Surgery Recovery Unit,83.7
+134262,0,87,female,152.4,Cardiac Surgery Recovery Unit,56.2
+134268,0,75,male,188,Coronary Care Unit,90.8
+134269,1,74,female,NA,Medical ICU,41.8
+134272,0,65,male,190.5,Cardiac Surgery Recovery Unit,126.3
+134274,0,72,female,160,Cardiac Surgery Recovery Unit,75.8
+134276,1,85,male,172.7,Coronary Care Unit,60
+134278,0,24,male,NA,Surgical ICU,70
+134281,0,86,male,157.5,Cardiac Surgery Recovery Unit,67.5
+134289,0,64,female,NA,Medical ICU,86.2
+134290,0,84,male,NA,Medical ICU,83.9
+134291,0,49,male,NA,Surgical ICU,90.1
+134295,0,25,male,NA,Medical ICU,NA
+134299,0,73,female,160,Cardiac Surgery Recovery Unit,60
+134302,0,69,male,182.9,Cardiac Surgery Recovery Unit,79.1
+134306,0,40,female,NA,Cardiac Surgery Recovery Unit,103
+134308,0,82,female,NA,Coronary Care Unit,NA
+134309,0,83,male,170.2,Coronary Care Unit,78.6
+134311,1,72,male,182.9,Coronary Care Unit,96.5
+134314,1,54,female,170.2,Surgical ICU,50
+134315,0,50,female,160,Surgical ICU,88.2
+134316,0,61,male,NA,Cardiac Surgery Recovery Unit,100
+134318,0,48,male,172.7,Medical ICU,79
+134322,0,49,female,160,Surgical ICU,60
+134326,0,59,male,NA,Surgical ICU,108
+134330,0,82,male,172.7,Coronary Care Unit,72.1
+134334,1,64,male,175.3,Cardiac Surgery Recovery Unit,120.5
+134335,0,78,female,NA,Coronary Care Unit,NA
+134338,1,55,female,152.4,Cardiac Surgery Recovery Unit,100
+134340,0,47,female,NA,Medical ICU,94
+134342,0,70,male,NA,Surgical ICU,64.8
+134348,0,70,male,193,Cardiac Surgery Recovery Unit,118.6
+134351,0,45,male,NA,Medical ICU,77
+134352,1,84,female,NA,Surgical ICU,96.9
+134355,0,67,male,170.2,Cardiac Surgery Recovery Unit,111
+134359,0,80,male,NA,Medical ICU,82.3
+134364,0,66,male,167.6,Medical ICU,120
+134366,0,48,male,NA,Surgical ICU,70
+134371,0,62,male,167.6,Cardiac Surgery Recovery Unit,91.2
+134374,0,64,male,NA,Coronary Care Unit,85
+134376,0,75,female,NA,Medical ICU,58.6
+134379,0,83,male,172.7,Cardiac Surgery Recovery Unit,73.6
+134384,0,68,male,167.6,Cardiac Surgery Recovery Unit,106.5
+134386,0,89,male,NA,Coronary Care Unit,70
+134389,0,21,male,NA,Surgical ICU,90
+134391,0,62,female,157.5,Medical ICU,134
+134394,1,65,male,172.7,Cardiac Surgery Recovery Unit,161.5
+134395,0,79,female,NA,Medical ICU,59.2
+134398,0,78,female,NA,Medical ICU,77.5
+134399,0,79,male,NA,Medical ICU,71.4
+134402,0,50,male,198.1,Coronary Care Unit,80
+134403,0,64,male,172.7,Cardiac Surgery Recovery Unit,70.8
+134404,0,90,female,154.9,Medical ICU,68.5
+134407,1,76,male,NA,Surgical ICU,73.4
+134408,0,63,male,185.4,Coronary Care Unit,104
+134411,1,82,female,NA,Surgical ICU,55
+134414,0,78,female,NA,Medical ICU,90
+134415,0,18,male,NA,Surgical ICU,66
+134416,0,50,male,185.4,Surgical ICU,100
+134418,0,87,female,160,Cardiac Surgery Recovery Unit,53.5
+134419,1,82,female,154.9,Coronary Care Unit,53.89
+134420,0,60,male,NA,Surgical ICU,79
+134429,0,85,male,172.7,Surgical ICU,87.4
+134432,1,86,male,NA,Surgical ICU,81.3
+134437,0,60,male,182.9,Cardiac Surgery Recovery Unit,90
+134441,0,28,male,NA,Medical ICU,69.5
+134443,0,44,male,182.9,Medical ICU,74
+134448,1,77,male,175.3,Coronary Care Unit,80
+134453,0,81,male,177.8,Surgical ICU,90
+134456,0,76,female,162.6,Coronary Care Unit,82.4
+134459,0,81,female,NA,Surgical ICU,51.3
+134460,0,85,male,177.8,Surgical ICU,66.8
+134461,0,44,female,NA,Medical ICU,111
+134464,0,79,male,182.9,Cardiac Surgery Recovery Unit,65
+134465,0,64,male,NA,Surgical ICU,80.6
+134466,0,81,female,165.1,Cardiac Surgery Recovery Unit,67
+134469,0,69,male,170.2,Coronary Care Unit,61
+134474,0,25,male,NA,Surgical ICU,132
+134475,1,82,male,167.6,Surgical ICU,73.3
+134476,0,61,female,157.5,Medical ICU,87.8
+134477,0,55,female,NA,Surgical ICU,118
+134486,0,68,female,NA,Medical ICU,NA
+134487,0,58,male,NA,Coronary Care Unit,73.8
+134488,0,85,female,NA,Surgical ICU,53.8
+134490,0,46,female,NA,Medical ICU,63
+134492,0,60,female,NA,Surgical ICU,66.3
+134493,1,73,female,144.8,Medical ICU,112
+134496,0,55,male,NA,Medical ICU,113
+134497,1,75,female,NA,Surgical ICU,NA
+134498,1,58,female,157.5,Surgical ICU,67
+134499,0,86,female,149.9,Cardiac Surgery Recovery Unit,40.9
+134500,0,49,female,NA,Medical ICU,50.4
+134502,0,60,male,170.2,Cardiac Surgery Recovery Unit,88.6
+134503,0,62,female,NA,Medical ICU,94.6
+134504,0,64,male,NA,Medical ICU,102
+134515,0,70,male,NA,Medical ICU,NA
+134518,0,66,male,182.9,Cardiac Surgery Recovery Unit,78
+134519,1,59,female,NA,Medical ICU,NA
+134520,0,44,male,NA,Medical ICU,88.9
+134521,0,49,male,185.4,Cardiac Surgery Recovery Unit,138.4
+134522,0,59,male,188,Cardiac Surgery Recovery Unit,75.8
+134523,0,55,male,174,Medical ICU,55
+134526,0,87,female,152.4,Medical ICU,51.7
+134527,0,72,female,NA,Coronary Care Unit,63.6
+134528,0,82,female,152.4,Coronary Care Unit,95.1
+134530,0,48,male,NA,Coronary Care Unit,76
+134531,0,53,male,NA,Coronary Care Unit,NA
+134533,0,77,female,157.5,Coronary Care Unit,75
+134541,1,70,female,154.9,Coronary Care Unit,43
+134543,0,55,male,NA,Surgical ICU,NA
+134551,0,80,male,NA,Coronary Care Unit,NA
+134552,0,89,male,NA,Medical ICU,72.3
+134557,1,84,male,NA,Coronary Care Unit,78.7
+134558,0,90,male,175.3,Coronary Care Unit,80
+134564,0,72,female,165.1,Medical ICU,86.7
+134567,0,80,female,172.7,Surgical ICU,81.9
+134568,0,82,male,165.1,Cardiac Surgery Recovery Unit,84.1
+134572,0,47,female,162.6,Cardiac Surgery Recovery Unit,52.3
+134575,0,26,female,NA,Surgical ICU,NA
+134576,0,52,female,NA,Surgical ICU,90
+134578,0,35,female,NA,Surgical ICU,70.9
+134579,1,46,male,182.9,Coronary Care Unit,120
+134580,1,85,female,157.5,Surgical ICU,120
+134582,1,83,female,NA,Cardiac Surgery Recovery Unit,62.9
+134585,0,48,male,172.7,Cardiac Surgery Recovery Unit,112
+134587,0,49,female,NA,Cardiac Surgery Recovery Unit,65
+134588,0,82,male,172.7,Coronary Care Unit,99
+134589,0,68,female,160,Surgical ICU,68
+134590,0,61,male,NA,Coronary Care Unit,59
+134594,0,90,male,172.7,Medical ICU,63.3
+134595,0,62,male,175.3,Medical ICU,90
+134599,1,62,male,182.9,Coronary Care Unit,146
+134600,0,55,male,170.2,Cardiac Surgery Recovery Unit,60.1
+134603,0,28,male,NA,Surgical ICU,NA
+134605,0,61,male,180.3,Surgical ICU,71.8
+134606,0,65,male,167.6,Medical ICU,70.3
+134607,0,77,male,170.2,Cardiac Surgery Recovery Unit,90.9
+134608,0,78,male,NA,Surgical ICU,63.5
+134609,0,83,female,160,Coronary Care Unit,85.3
+134610,0,31,female,NA,Surgical ICU,100
+134613,1,64,male,162.6,Coronary Care Unit,60
+134614,0,77,female,165.1,Coronary Care Unit,66.6
+134618,0,83,male,162.6,Coronary Care Unit,68
+134620,0,69,male,172.7,Coronary Care Unit,84.6
+134623,0,85,female,NA,Surgical ICU,42
+134625,0,61,female,NA,Medical ICU,65
+134627,0,84,male,175.3,Medical ICU,65
+134628,0,85,female,152.4,Medical ICU,50
+134630,0,69,female,NA,Cardiac Surgery Recovery Unit,101.6
+134632,1,84,female,152.4,Medical ICU,77.9
+134633,0,72,male,170.2,Coronary Care Unit,67.8
+134634,0,76,male,182.9,Surgical ICU,74.5
+134637,0,59,male,180.3,Surgical ICU,108.6
+134642,0,58,female,167.6,Cardiac Surgery Recovery Unit,94
+134645,0,46,male,NA,Medical ICU,72
+134646,0,78,female,160,Cardiac Surgery Recovery Unit,79.5
+134647,0,33,male,NA,Surgical ICU,NA
+134650,0,83,female,NA,Surgical ICU,83
+134654,1,83,male,NA,Coronary Care Unit,110
+134656,1,63,female,165.1,Cardiac Surgery Recovery Unit,54.9
+134659,0,57,male,NA,Medical ICU,127.2
+134663,0,81,female,NA,Medical ICU,60
+134664,0,46,male,NA,Medical ICU,104.4
+134671,0,73,female,NA,Medical ICU,56
+134675,0,53,female,NA,Medical ICU,54
+134676,0,77,male,NA,Coronary Care Unit,80.5
+134678,0,51,male,177.8,Cardiac Surgery Recovery Unit,74.5
+134680,0,36,male,NA,Surgical ICU,130
+134683,0,62,female,162.6,Medical ICU,91.5
+134684,0,79,female,154.9,Coronary Care Unit,75
+134685,0,53,female,170.2,Surgical ICU,96.1
+134686,0,71,male,177.8,Cardiac Surgery Recovery Unit,79.5
+134689,0,80,female,NA,Coronary Care Unit,NA
+134692,0,61,female,NA,Medical ICU,95.1
+134694,0,77,male,NA,Surgical ICU,66.3
+134695,0,22,female,NA,Surgical ICU,72.5
+134696,0,59,male,180.3,Cardiac Surgery Recovery Unit,98.4
+134697,0,71,male,180.3,Cardiac Surgery Recovery Unit,107
+134698,0,59,male,NA,Coronary Care Unit,120
+134703,0,69,male,180.3,Cardiac Surgery Recovery Unit,106.8
+134707,0,71,male,172.7,Coronary Care Unit,116.2
+134708,0,78,male,NA,Coronary Care Unit,NA
+134709,0,60,female,NA,Medical ICU,63
+134710,0,67,male,188,Surgical ICU,91.2
+134712,0,83,male,177.8,Coronary Care Unit,80
+134713,0,48,male,NA,Medical ICU,97.6
+134718,0,77,female,165.1,Surgical ICU,62.3
+134719,0,50,female,NA,Medical ICU,135.3
+134720,0,74,female,175.3,Surgical ICU,127.9
+134724,0,51,male,NA,Surgical ICU,102.6
+134728,0,81,female,NA,Surgical ICU,NA
+134729,0,70,female,172.7,Coronary Care Unit,131
+134732,0,52,male,167.6,Surgical ICU,87
+134733,0,57,male,NA,Medical ICU,76.2
+134744,0,75,male,NA,Surgical ICU,NA
+134746,1,58,female,NA,Medical ICU,152.2
+134749,0,84,male,170.2,Medical ICU,77.5
+134750,0,61,male,175.3,Cardiac Surgery Recovery Unit,86.3
+134751,0,35,female,NA,Medical ICU,50.6
+134754,0,81,female,157.5,Medical ICU,77.4
+134755,0,90,female,NA,Medical ICU,53.7
+134756,1,80,female,NA,Medical ICU,118
+134757,0,75,female,162.6,Cardiac Surgery Recovery Unit,75
+134758,1,76,female,167.6,Coronary Care Unit,62.8
+134759,1,90,male,167.6,Surgical ICU,53.8
+134761,0,60,female,NA,Medical ICU,60
+134762,0,63,male,170.2,Cardiac Surgery Recovery Unit,146
+134763,0,43,male,NA,Medical ICU,92
+134765,0,66,female,NA,Medical ICU,119
+134766,0,27,female,NA,Medical ICU,NA
+134767,0,70,female,167.6,Medical ICU,112
+134780,0,70,male,174,Medical ICU,81.6
+134781,0,58,male,180.3,Cardiac Surgery Recovery Unit,103.7
+134782,0,72,male,NA,Medical ICU,54.5
+134786,1,52,male,182.9,Medical ICU,123
+134788,0,57,male,NA,Surgical ICU,100
+134794,0,69,male,175.3,Coronary Care Unit,70
+134796,0,90,female,157.5,Surgical ICU,53.6
+134797,1,90,male,NA,Medical ICU,64.5
+134800,0,51,female,NA,Medical ICU,64.2
+134801,0,40,female,NA,Surgical ICU,65
+134802,0,77,male,157.5,Coronary Care Unit,70
+134803,0,58,male,190.5,Cardiac Surgery Recovery Unit,86.7
+134805,0,34,male,NA,Medical ICU,60
+134807,0,34,female,NA,Medical ICU,59
+134810,1,53,male,NA,Medical ICU,69.5
+134811,0,38,male,NA,Medical ICU,NA
+134816,0,85,female,NA,Medical ICU,64.5
+134817,1,90,male,NA,Medical ICU,80.9
+134823,1,52,female,NA,Medical ICU,NA
+134824,0,60,male,NA,Surgical ICU,81.1
+134826,1,73,female,NA,Medical ICU,66
+134829,0,59,male,NA,Medical ICU,118
+134834,0,75,female,170.2,Cardiac Surgery Recovery Unit,123.7
+134835,1,90,female,NA,Medical ICU,NA
+134842,0,73,female,170.2,Coronary Care Unit,65
+134845,0,76,male,NA,Medical ICU,75
+134847,0,54,male,NA,Medical ICU,76.8
+134848,0,71,female,381,Medical ICU,81
+134849,0,46,male,NA,Medical ICU,NA
+134851,0,90,male,NA,Medical ICU,82.9
+134855,0,49,male,182.9,Coronary Care Unit,127
+134860,0,86,female,157.5,Surgical ICU,56.8
+134861,0,70,male,172.7,Medical ICU,90
+134862,0,62,male,182.9,Cardiac Surgery Recovery Unit,80.5
+134864,1,84,male,170.2,Medical ICU,65
+134866,0,78,male,177.8,Coronary Care Unit,76.5
+134869,0,51,male,NA,Coronary Care Unit,89.8
+134871,0,40,male,NA,Medical ICU,60.5
+134872,0,56,male,NA,Surgical ICU,NA
+134875,0,68,female,NA,Surgical ICU,91.3
+134876,0,68,male,160,Cardiac Surgery Recovery Unit,82.8
+134877,1,52,male,188,Surgical ICU,123
+134878,0,90,female,152.4,Surgical ICU,76
+134882,0,78,female,165.1,Cardiac Surgery Recovery Unit,56.4
+134884,0,18,male,NA,Surgical ICU,61.6
+134885,1,48,female,167.6,Surgical ICU,159.1
+134886,0,77,female,NA,Surgical ICU,65
+134892,0,80,female,NA,Medical ICU,48.4
+134893,0,54,male,NA,Surgical ICU,97.5
+134894,0,85,female,162.6,Coronary Care Unit,65
+134900,0,40,female,165.1,Medical ICU,70
+134901,0,59,male,NA,Medical ICU,66.7
+134904,1,57,female,NA,Medical ICU,77.5
+134906,0,48,female,160,Surgical ICU,50.6
+134908,1,63,male,NA,Medical ICU,45
+134911,0,65,male,NA,Medical ICU,96.2
+134914,0,70,female,NA,Medical ICU,74.3
+134915,0,20,male,NA,Surgical ICU,NA
+134916,0,80,male,NA,Medical ICU,NA
+134919,0,70,male,177.8,Coronary Care Unit,83
+134920,0,42,male,167.6,Medical ICU,195
+134923,0,40,female,170.2,Medical ICU,129
+134932,1,69,male,NA,Medical ICU,72
+134933,0,43,female,NA,Surgical ICU,72.4
+134934,0,77,female,NA,Medical ICU,50
+134940,0,42,female,406.4,Coronary Care Unit,57
+134942,0,57,female,160,Medical ICU,108.2
+134944,1,63,male,180.3,Medical ICU,112
+134945,1,78,male,188,Surgical ICU,110
+134948,1,86,female,NA,Coronary Care Unit,59.7
+134949,0,42,male,182.9,Medical ICU,105
+134957,0,25,male,182.9,Surgical ICU,80
+134958,0,42,female,NA,Surgical ICU,101
+134965,0,65,female,NA,Medical ICU,58.6
+134970,0,82,female,NA,Medical ICU,67
+134974,0,49,male,177.8,Surgical ICU,66.9
+134976,0,83,male,NA,Medical ICU,114.1
+134979,0,48,male,182.9,Surgical ICU,60
+134983,0,58,female,NA,Surgical ICU,90.7
+134985,0,43,male,NA,Medical ICU,70
+134992,0,65,male,180.3,Cardiac Surgery Recovery Unit,90.1
+134993,0,50,female,157.5,Coronary Care Unit,95
+134994,0,55,female,NA,Coronary Care Unit,108
+134995,0,90,female,NA,Medical ICU,79.2
+134999,0,59,male,167.6,Coronary Care Unit,81.6
+135002,1,80,female,NA,Surgical ICU,80
+135004,0,81,male,180.3,Coronary Care Unit,84
+135006,0,43,male,177.8,Coronary Care Unit,113
+135007,0,69,female,157.5,Cardiac Surgery Recovery Unit,75
+135009,1,84,female,NA,Surgical ICU,82.3
+135011,0,60,male,NA,Coronary Care Unit,107
+135013,0,82,female,152.4,Cardiac Surgery Recovery Unit,64.7
+135014,1,83,male,170.2,Surgical ICU,70
+135015,0,80,male,NA,Medical ICU,62.6
+135020,0,84,female,NA,Coronary Care Unit,NA
+135021,0,71,male,180.3,Medical ICU,79
+135027,1,89,female,NA,Surgical ICU,55.3
+135028,0,65,male,180.3,Cardiac Surgery Recovery Unit,77
+135031,0,69,male,172.7,Medical ICU,63.7
+135036,0,50,female,162.6,Cardiac Surgery Recovery Unit,54
+135044,1,82,female,NA,Medical ICU,66
+135048,0,59,female,NA,Surgical ICU,95
+135049,0,19,male,NA,Surgical ICU,87.5
+135051,1,79,female,152.4,Surgical ICU,55.5
+135052,0,84,female,NA,Medical ICU,73
+135056,0,66,female,NA,Medical ICU,NA
+135057,0,84,female,NA,Medical ICU,60
+135059,0,90,female,NA,Cardiac Surgery Recovery Unit,NA
+135065,0,71,female,160,Surgical ICU,61
+135067,0,35,female,NA,Medical ICU,39.8
+135069,0,73,male,NA,Medical ICU,104
+135071,0,81,male,NA,Coronary Care Unit,95.4
+135072,0,63,male,172.7,Cardiac Surgery Recovery Unit,70.5
+135075,0,82,female,162.6,Cardiac Surgery Recovery Unit,70.4
+135076,0,56,male,177.8,Surgical ICU,110
+135077,0,72,male,NA,Medical ICU,220
+135079,0,68,male,NA,Surgical ICU,100
+135080,0,77,male,170.2,Cardiac Surgery Recovery Unit,77.5
+135081,0,66,male,162.6,Cardiac Surgery Recovery Unit,65
+135083,0,35,female,NA,Medical ICU,NA
+135084,0,79,female,157.5,Cardiac Surgery Recovery Unit,81.7
+135086,0,44,male,175.3,Surgical ICU,70
+135087,0,21,male,NA,Surgical ICU,84
+135088,0,71,male,182.9,Cardiac Surgery Recovery Unit,119
+135089,0,90,male,170.2,Medical ICU,55.5
+135092,0,53,male,NA,Medical ICU,74.8
+135093,0,70,female,161.9,Coronary Care Unit,75.6
+135098,0,70,male,175.3,Cardiac Surgery Recovery Unit,91.6
+135102,0,47,female,NA,Medical ICU,56
+135103,0,47,male,170.2,Cardiac Surgery Recovery Unit,75.3
+135104,0,57,female,157.5,Coronary Care Unit,70.2
+135105,1,88,male,175.3,Surgical ICU,73.8
+135107,0,90,female,NA,Medical ICU,56.4
+135110,0,68,female,160,Medical ICU,135.2
+135111,0,51,female,NA,Medical ICU,75.2
+135115,0,52,male,NA,Surgical ICU,71
+135116,0,49,female,NA,Medical ICU,NA
+135127,0,66,male,NA,Medical ICU,96.6
+135129,0,78,male,172.7,Cardiac Surgery Recovery Unit,103
+135130,0,45,female,167.6,Cardiac Surgery Recovery Unit,110
+135135,0,90,female,NA,Surgical ICU,128.6
+135141,0,83,male,176.5,Coronary Care Unit,80
+135142,0,51,male,NA,Medical ICU,73.4
+135145,0,49,male,190.5,Medical ICU,88.6
+135146,0,40,male,NA,Medical ICU,205
+135147,0,55,male,188,Medical ICU,87
+135157,0,69,male,177.8,Cardiac Surgery Recovery Unit,77.7
+135158,0,73,female,157.5,Cardiac Surgery Recovery Unit,56.7
+135159,0,65,female,160,Cardiac Surgery Recovery Unit,66
+135160,0,66,male,NA,Medical ICU,55
+135161,0,41,female,NA,Medical ICU,127
+135162,0,29,female,NA,Medical ICU,78
+135171,0,65,male,167.6,Medical ICU,56
+135176,0,58,male,NA,Coronary Care Unit,60.4
+135178,0,81,female,NA,Medical ICU,190
+135183,0,44,female,NA,Surgical ICU,62.9
+135194,1,81,male,NA,Medical ICU,51
+135195,0,52,male,182.9,Medical ICU,76.7
+135196,0,82,female,162.6,Surgical ICU,80
+135197,0,85,male,182.9,Medical ICU,92
+135199,0,77,male,NA,Medical ICU,88
+135200,0,63,male,NA,Medical ICU,149
+135203,0,55,male,175.3,Surgical ICU,101.1
+135207,1,72,male,NA,Medical ICU,96
+135209,0,80,female,154.9,Medical ICU,59.8
+135210,1,80,male,172.7,Coronary Care Unit,97.4
+135217,1,82,male,NA,Medical ICU,78.8
+135219,0,78,female,154.9,Surgical ICU,86.3
+135220,0,56,male,NA,Surgical ICU,98
+135221,0,64,male,172.7,Cardiac Surgery Recovery Unit,87.86
+135223,1,89,male,182.9,Cardiac Surgery Recovery Unit,90
+135224,0,41,female,NA,Medical ICU,70.1
+135226,1,90,male,NA,Medical ICU,70
+135228,0,90,female,157.5,Coronary Care Unit,49.6
+135230,0,49,female,162.6,Cardiac Surgery Recovery Unit,70
+135231,0,72,female,NA,Medical ICU,82
+135232,0,46,male,NA,Coronary Care Unit,64.7
+135233,0,55,male,NA,Surgical ICU,61.3
+135236,0,45,female,162.6,Cardiac Surgery Recovery Unit,84.9
+135237,0,83,female,147.3,Coronary Care Unit,50
+135240,0,21,female,162.6,Surgical ICU,85
+135246,0,90,female,NA,Coronary Care Unit,65
+135247,0,42,female,154.9,Cardiac Surgery Recovery Unit,51
+135249,0,45,male,172.7,Cardiac Surgery Recovery Unit,99
+135251,0,60,male,NA,Medical ICU,105.4
+135252,0,63,male,167.6,Cardiac Surgery Recovery Unit,115
+135254,0,72,female,NA,Medical ICU,80
+135256,0,83,female,162.6,Cardiac Surgery Recovery Unit,54
+135261,0,79,male,165.1,Cardiac Surgery Recovery Unit,73.9
+135265,0,34,female,157.5,Surgical ICU,75.5
+135266,0,38,female,NA,Medical ICU,95
+135267,0,35,male,182.9,Cardiac Surgery Recovery Unit,102.2
+135268,0,81,male,177.8,Cardiac Surgery Recovery Unit,86.3
+135270,0,57,female,160,Surgical ICU,100
+135273,0,30,male,177.8,Medical ICU,106.4
+135275,0,47,female,NA,Coronary Care Unit,86.6
+135276,0,86,male,NA,Medical ICU,75
+135280,0,80,female,NA,Medical ICU,57.5
+135284,0,90,female,152.4,Coronary Care Unit,50.9
+135288,0,81,male,NA,Medical ICU,83.9
+135290,0,50,male,180.3,Cardiac Surgery Recovery Unit,86.5
+135291,0,62,male,177.8,Medical ICU,70.4
+135293,1,59,female,160,Surgical ICU,90
+135298,0,44,male,NA,Medical ICU,87.9
+135300,0,81,female,154.9,Cardiac Surgery Recovery Unit,70
+135304,1,81,female,160,Cardiac Surgery Recovery Unit,50
+135305,1,30,male,177.8,Medical ICU,142.4
+135306,0,27,male,182.9,Surgical ICU,80
+135307,1,43,male,NA,Medical ICU,87
+135311,0,76,male,170.2,Cardiac Surgery Recovery Unit,87.4
+135313,0,85,female,NA,Medical ICU,69.6
+135316,0,63,female,157.5,Cardiac Surgery Recovery Unit,58.2
+135318,0,53,female,NA,Medical ICU,113
+135321,1,88,female,160,Coronary Care Unit,45.4
+135323,0,61,female,157.5,Cardiac Surgery Recovery Unit,75.4
+135325,0,57,male,182.9,Surgical ICU,80
+135326,0,84,female,162.6,Cardiac Surgery Recovery Unit,55.8
+135327,0,59,male,177.8,Cardiac Surgery Recovery Unit,127.3
+135330,1,85,male,NA,Medical ICU,80
+135331,0,34,male,170.2,Coronary Care Unit,88.6
+135336,0,81,male,165.1,Cardiac Surgery Recovery Unit,64.9
+135341,0,41,female,160,Cardiac Surgery Recovery Unit,46.4
+135342,0,77,female,NA,Coronary Care Unit,76.2
+135343,0,45,female,160,Medical ICU,56.7
+135346,0,60,male,NA,Surgical ICU,68.1
+135347,0,77,male,182.9,Cardiac Surgery Recovery Unit,91.2
+135352,0,27,male,NA,Medical ICU,54
+135355,0,71,male,NA,Surgical ICU,NA
+135357,0,62,female,NA,Coronary Care Unit,89.1
+135358,0,78,male,NA,Surgical ICU,99.5
+135361,0,49,male,NA,Medical ICU,NA
+135362,0,70,male,170.2,Coronary Care Unit,90.2
+135363,0,27,male,NA,Medical ICU,67.6
+135365,0,83,female,NA,Medical ICU,94
+135366,1,88,female,152.4,Medical ICU,71.2
+135371,0,67,male,NA,Coronary Care Unit,76
+135374,0,86,male,170.2,Cardiac Surgery Recovery Unit,89.7
+135375,0,76,female,165.1,Cardiac Surgery Recovery Unit,57.8
+135380,0,75,male,NA,Surgical ICU,75.8
+135382,0,78,female,NA,Medical ICU,50.5
+135383,0,48,female,NA,Medical ICU,72.6
+135384,0,68,female,165.1,Coronary Care Unit,88.6
+135386,0,88,female,157.5,Cardiac Surgery Recovery Unit,40
+135387,0,62,female,152.4,Coronary Care Unit,72.6
+135388,1,46,female,170.2,Medical ICU,84.6
+135402,1,80,female,NA,Medical ICU,50
+135404,1,83,female,NA,Medical ICU,88.4
+135406,1,36,male,175.3,Coronary Care Unit,68.9
+135410,1,44,female,NA,Medical ICU,59.5
+135411,1,56,female,NA,Cardiac Surgery Recovery Unit,52.4
+135415,0,74,male,NA,Medical ICU,85
+135416,1,79,male,NA,Medical ICU,77.5
+135417,0,37,female,167.6,Medical ICU,65
+135419,0,73,male,NA,Cardiac Surgery Recovery Unit,65.7
+135421,0,55,male,177.8,Medical ICU,140.5
+135426,0,59,male,NA,Surgical ICU,NA
+135427,0,62,female,NA,Coronary Care Unit,NA
+135430,1,90,male,177.8,Medical ICU,71.6
+135431,1,79,male,NA,Coronary Care Unit,NA
+135438,1,90,male,170.2,Surgical ICU,69
+135439,0,48,female,NA,Medical ICU,74.5
+135441,0,62,male,152.4,Cardiac Surgery Recovery Unit,105.4
+135442,0,67,female,NA,Medical ICU,64.4
+135443,0,89,female,NA,Surgical ICU,43
+135444,0,43,male,185.4,Coronary Care Unit,111
+135445,0,55,male,NA,Medical ICU,84.3
+135446,0,52,female,152.4,Surgical ICU,55.3
+135447,0,43,male,NA,Surgical ICU,117
+135449,0,48,male,188,Cardiac Surgery Recovery Unit,91
+135450,0,57,male,NA,Medical ICU,93.3
+135452,0,51,female,160,Medical ICU,73.9
+135453,1,90,male,NA,Medical ICU,65.7
+135454,0,53,male,NA,Medical ICU,NA
+135455,0,60,male,NA,Surgical ICU,81
+135458,0,42,male,177.8,Medical ICU,94.8
+135459,0,59,male,149.9,Surgical ICU,85
+135463,0,22,male,180.3,Medical ICU,89.7
+135464,0,72,female,NA,Medical ICU,77
+135465,1,42,male,NA,Medical ICU,93.2
+135470,0,20,male,165.1,Surgical ICU,65
+135472,0,68,male,NA,Medical ICU,90.3
+135474,0,82,male,185.4,Cardiac Surgery Recovery Unit,87
+135475,0,90,male,NA,Medical ICU,70
+135476,0,54,male,175.3,Cardiac Surgery Recovery Unit,100
+135477,0,59,male,182.9,Surgical ICU,66.3
+135478,0,89,female,NA,Medical ICU,55.1
+135480,0,82,female,NA,Medical ICU,70
+135481,0,84,female,149.9,Medical ICU,50
+135482,0,46,male,NA,Medical ICU,100
+135488,0,75,male,180.3,Cardiac Surgery Recovery Unit,103.6
+135489,0,85,male,175.3,Cardiac Surgery Recovery Unit,75
+135490,0,63,female,160,Cardiac Surgery Recovery Unit,71.9
+135491,0,58,male,NA,Medical ICU,84.2
+135497,0,38,male,NA,Medical ICU,100.5
+135498,0,46,male,NA,Surgical ICU,90
+135499,0,57,male,172.7,Cardiac Surgery Recovery Unit,76.2
+135500,0,67,male,170.2,Surgical ICU,74
+135505,0,81,female,NA,Medical ICU,62.8
+135506,1,83,female,157.5,Medical ICU,35
+135508,0,83,female,NA,Medical ICU,NA
+135510,0,61,male,182.9,Cardiac Surgery Recovery Unit,139
+135512,0,82,male,177.8,Surgical ICU,86.2
+135513,0,77,female,NA,Surgical ICU,107
+135517,0,62,male,177.8,Coronary Care Unit,80
+135522,0,73,male,182.9,Cardiac Surgery Recovery Unit,80.7
+135524,0,74,male,175.3,Cardiac Surgery Recovery Unit,68.8
+135527,0,72,female,NA,Medical ICU,106
+135529,0,68,male,170.2,Cardiac Surgery Recovery Unit,130.7
+135530,0,79,male,NA,Medical ICU,88.6
+135534,0,85,female,NA,Medical ICU,57
+135542,0,77,female,NA,Medical ICU,73
+135543,0,55,male,180.3,Coronary Care Unit,85
+135547,0,82,male,170.2,Surgical ICU,67.5
+135548,1,71,male,182.9,Cardiac Surgery Recovery Unit,109
+135556,0,45,male,185.4,Cardiac Surgery Recovery Unit,90.9
+135557,0,67,male,185.4,Surgical ICU,110
+135559,0,35,male,NA,Medical ICU,107
+135560,1,81,male,172.7,Medical ICU,90
+135561,0,66,female,165.1,Coronary Care Unit,60
+135564,0,65,female,157.5,Cardiac Surgery Recovery Unit,77
+135568,0,62,male,177.8,Coronary Care Unit,83.5
+135569,0,25,male,188,Medical ICU,83.2
+135571,0,84,female,NA,Medical ICU,82.6
+135573,0,83,female,NA,Medical ICU,NA
+135576,1,78,male,NA,Medical ICU,75.7
+135585,0,90,male,NA,Medical ICU,75.8
+135587,0,53,female,167.6,Medical ICU,146.6
+135589,0,46,male,NA,Coronary Care Unit,86.2
+135595,0,86,male,NA,Surgical ICU,70
+135596,0,62,male,NA,Surgical ICU,66
+135599,0,22,female,167.6,Medical ICU,147.5
+135603,0,68,male,NA,Medical ICU,40.2
+135610,1,62,female,NA,Medical ICU,92
+135613,0,57,female,NA,Medical ICU,72.3
+135614,0,63,male,NA,Surgical ICU,70
+135616,0,75,male,NA,Medical ICU,78.5
+135619,1,89,male,NA,Surgical ICU,78.1
+135623,0,75,female,154.9,Cardiac Surgery Recovery Unit,60.3
+135630,1,66,female,166.4,Medical ICU,108.5
+135631,0,54,male,NA,Surgical ICU,75
+135634,1,37,female,170.2,Medical ICU,86.6
+135636,0,74,male,177.8,Cardiac Surgery Recovery Unit,94.4
+135638,0,65,male,NA,Medical ICU,76.8
+135639,0,61,male,172.7,Surgical ICU,77
+135641,0,88,female,NA,Medical ICU,79.2
+135642,0,47,male,167.6,Coronary Care Unit,70
+135643,0,77,male,182.9,Surgical ICU,84
+135644,0,53,male,185.4,Surgical ICU,129
+135646,1,61,male,NA,Medical ICU,94.4
+135653,0,74,male,172.7,Cardiac Surgery Recovery Unit,93.5
+135656,0,66,male,172.7,Surgical ICU,94.3
+135658,0,78,male,NA,Surgical ICU,68.5
+135660,0,47,female,NA,Medical ICU,93.4
+135662,0,88,male,NA,Surgical ICU,64
+135664,0,88,female,NA,Coronary Care Unit,NA
+135665,0,72,male,170.2,Surgical ICU,79
+135669,0,50,female,NA,Surgical ICU,53
+135672,0,65,male,168.9,Cardiac Surgery Recovery Unit,84.7
+135674,0,40,male,177.8,Surgical ICU,70
+135676,0,84,male,NA,Medical ICU,59.2
+135677,0,19,female,NA,Medical ICU,NA
+135682,0,83,male,167.6,Cardiac Surgery Recovery Unit,52
+135684,0,77,female,NA,Surgical ICU,58
+135685,0,54,male,177.8,Cardiac Surgery Recovery Unit,82
+135688,0,84,female,157.5,Medical ICU,50.3
+135693,0,78,male,188,Cardiac Surgery Recovery Unit,105
+135698,1,80,male,NA,Surgical ICU,66
+135699,0,67,male,167.6,Cardiac Surgery Recovery Unit,73.8
+135704,0,43,female,NA,Medical ICU,93.8
+135705,0,64,male,172.7,Cardiac Surgery Recovery Unit,118
+135708,1,72,male,NA,Medical ICU,70
+135715,1,90,male,182.9,Cardiac Surgery Recovery Unit,67.7
+135717,0,73,male,177.8,Coronary Care Unit,89.5
+135719,0,46,female,162.6,Medical ICU,54.7
+135720,0,47,male,177.8,Cardiac Surgery Recovery Unit,96.6
+135722,0,67,female,NA,Medical ICU,83
+135723,0,73,female,NA,Medical ICU,70
+135728,0,47,male,177.8,Cardiac Surgery Recovery Unit,68.7
+135729,0,71,male,NA,Surgical ICU,116
+135733,1,67,male,177.8,Medical ICU,75.7
+135734,0,86,female,NA,Medical ICU,58.4
+135739,0,40,female,172.7,Cardiac Surgery Recovery Unit,62
+135742,0,76,male,NA,Medical ICU,98.1
+135749,0,68,male,182.9,Surgical ICU,90
+135757,1,43,NA,180.3,Medical ICU,123
+135758,0,83,male,NA,Surgical ICU,NA
+135769,1,80,female,NA,Surgical ICU,66.5
+135770,0,25,female,NA,Surgical ICU,65
+135772,0,62,male,177.8,Surgical ICU,120
+135773,0,36,female,NA,Medical ICU,NA
+135775,0,87,male,NA,Medical ICU,68
+135779,0,30,female,NA,Medical ICU,57.5
+135787,0,70,male,175.3,Cardiac Surgery Recovery Unit,114.7
+135788,0,80,male,NA,Coronary Care Unit,72
+135789,0,90,female,NA,Medical ICU,66
+135793,0,82,male,175.3,Cardiac Surgery Recovery Unit,85.4
+135794,0,85,female,NA,Surgical ICU,70
+135797,0,78,male,172.7,Cardiac Surgery Recovery Unit,55
+135798,0,44,male,185.4,Coronary Care Unit,109
+135800,1,22,female,NA,Medical ICU,62
+135803,0,48,male,NA,Medical ICU,81.3
+135805,0,52,female,152.4,Medical ICU,90
+135808,0,67,female,NA,Surgical ICU,94
+135809,0,64,female,170.2,Cardiac Surgery Recovery Unit,147
+135811,0,87,female,152.4,Cardiac Surgery Recovery Unit,44.4
+135813,0,45,female,NA,Surgical ICU,76.5
+135818,0,69,male,177.8,Cardiac Surgery Recovery Unit,96
+135820,0,42,female,158.8,Surgical ICU,66
+135822,0,61,male,180.3,Coronary Care Unit,90
+135829,1,86,female,144.8,Surgical ICU,55
+135830,0,90,female,NA,Medical ICU,52
+135833,1,81,female,NA,Medical ICU,88.9
+135841,0,69,male,NA,Medical ICU,NA
+135843,0,69,male,167.6,Cardiac Surgery Recovery Unit,95
+135844,0,22,male,NA,Medical ICU,83.6
+135845,0,56,male,NA,Coronary Care Unit,NA
+135858,0,47,male,NA,Surgical ICU,90
+135859,0,65,male,182.9,Cardiac Surgery Recovery Unit,84.2
+135866,1,64,male,NA,Medical ICU,51.8
+135873,0,56,female,175.3,Surgical ICU,75.8
+135874,0,71,male,175.3,Cardiac Surgery Recovery Unit,78.9
+135876,0,23,female,NA,Medical ICU,48.7
+135879,1,85,female,NA,Medical ICU,44.5
+135880,0,65,female,157.5,Cardiac Surgery Recovery Unit,88.18
+135881,0,34,male,NA,Surgical ICU,90
+135882,0,79,male,NA,Medical ICU,NA
+135883,0,58,male,NA,Medical ICU,88.9
+135885,0,70,female,162.6,Surgical ICU,79
+135887,0,31,female,NA,Medical ICU,48.8
+135894,0,82,female,156.2,Cardiac Surgery Recovery Unit,55.2
+135895,0,74,female,157.5,Cardiac Surgery Recovery Unit,69.5
+135897,0,76,female,152.4,Surgical ICU,62.7
+135898,0,71,female,175.3,Cardiac Surgery Recovery Unit,78
+135899,0,76,male,180.3,Cardiac Surgery Recovery Unit,100
+135901,0,27,male,NA,Surgical ICU,81
+135902,0,79,male,NA,Surgical ICU,125
+135906,0,90,female,NA,Surgical ICU,62
+135907,0,82,male,NA,Surgical ICU,55.2
+135908,0,68,male,175.3,Cardiac Surgery Recovery Unit,124
+135910,0,56,male,NA,Medical ICU,100
+135911,0,69,male,175.3,Cardiac Surgery Recovery Unit,84.6
+135913,0,62,female,170.2,Medical ICU,54.2
+135918,1,80,male,172.7,Medical ICU,56.2
+135926,0,69,female,160,Medical ICU,113.3
+135928,0,53,female,NA,Medical ICU,99.4
+135931,0,39,female,NA,Medical ICU,80
+135933,0,26,male,188,Surgical ICU,102
+135944,1,77,male,NA,Coronary Care Unit,73.1
+135946,1,76,female,NA,Surgical ICU,95
+135950,0,71,male,172.7,Coronary Care Unit,86
+135951,0,78,male,172.7,Medical ICU,77.7
+135952,0,52,female,NA,Medical ICU,124.8
+135953,0,60,female,160,Medical ICU,81
+135954,1,90,female,NA,Medical ICU,NA
+135957,0,74,male,198.1,Surgical ICU,90.7
+135959,0,73,female,NA,Coronary Care Unit,NA
+135961,0,55,male,NA,Medical ICU,106
+135962,1,80,male,NA,Medical ICU,NA
+135963,0,64,male,NA,Medical ICU,81.5
+135964,1,61,female,NA,Medical ICU,50
+135966,1,77,female,157.5,Cardiac Surgery Recovery Unit,82.8
+135967,0,22,female,NA,Surgical ICU,56
+135968,0,41,female,152.4,Surgical ICU,54
+135969,0,87,male,NA,Surgical ICU,65.9
+135971,1,77,male,NA,Medical ICU,99.6
+135972,0,70,male,NA,Medical ICU,89
+135973,1,90,male,NA,Medical ICU,55.8
+135977,0,78,female,NA,Medical ICU,54.6
+135980,0,19,female,NA,Surgical ICU,NA
+135981,0,90,female,NA,Medical ICU,68
+135982,0,45,male,NA,Medical ICU,74.8
+135983,1,86,female,NA,Medical ICU,51.1
+135984,0,90,female,NA,Medical ICU,NA
+135992,1,84,male,NA,Medical ICU,49
+135993,0,24,male,170.2,Surgical ICU,75
+135994,0,42,male,NA,Medical ICU,72.4
+135996,0,81,male,177.8,Surgical ICU,108
+135997,0,28,male,NA,Surgical ICU,99.6
+136001,0,36,female,NA,Surgical ICU,77.1
+136002,0,54,female,154.9,Cardiac Surgery Recovery Unit,36.8
+136003,1,52,male,175.3,Surgical ICU,105
+136004,0,78,male,195.6,Cardiac Surgery Recovery Unit,93
+136005,0,47,male,188,Surgical ICU,90
+136006,1,69,male,NA,Surgical ICU,74
+136015,0,52,male,NA,Medical ICU,NA
+136019,0,30,male,NA,Medical ICU,NA
+136020,0,49,male,17.8,Medical ICU,119.7
+136022,0,74,female,NA,Medical ICU,NA
+136024,0,43,female,NA,Surgical ICU,NA
+136027,0,78,female,162.6,Surgical ICU,75.7
+136029,0,85,male,165.1,Cardiac Surgery Recovery Unit,76
+136031,1,71,female,160,Coronary Care Unit,45.4
+136032,0,74,male,154.9,Cardiac Surgery Recovery Unit,66.4
+136033,1,73,male,NA,Medical ICU,NA
+136037,0,41,female,144.8,Cardiac Surgery Recovery Unit,52.2
+136038,1,67,male,NA,Medical ICU,68.8
+136040,0,57,male,NA,Surgical ICU,80
+136042,0,27,male,NA,Surgical ICU,NA
+136043,0,90,female,NA,Coronary Care Unit,47
+136044,1,85,male,NA,Medical ICU,100.3
+136045,0,50,male,NA,Surgical ICU,70
+136047,0,67,male,NA,Medical ICU,169
+136049,0,64,male,172.7,Cardiac Surgery Recovery Unit,79.5
+136052,0,71,female,165.1,Medical ICU,77.3
+136056,0,80,male,NA,Medical ICU,84.2
+136058,0,66,female,157.5,Surgical ICU,71
+136059,0,82,male,NA,Medical ICU,109.6
+136060,1,64,female,NA,Medical ICU,89.3
+136063,0,37,male,NA,Surgical ICU,71
+136067,0,71,male,NA,Surgical ICU,70
+136071,0,49,female,NA,Medical ICU,98.5
+136074,0,74,female,NA,Medical ICU,60.7
+136081,0,37,female,NA,Medical ICU,64
+136082,0,68,female,154.9,Cardiac Surgery Recovery Unit,53
+136083,1,90,female,NA,Surgical ICU,65
+136090,0,79,female,157.5,Cardiac Surgery Recovery Unit,47.2
+136095,0,65,male,177.8,Medical ICU,97.5
+136096,1,74,female,162.6,Cardiac Surgery Recovery Unit,123.1
+136102,1,77,male,NA,Coronary Care Unit,90.7
+136104,0,83,female,NA,Medical ICU,66
+136108,0,79,female,NA,Medical ICU,NA
+136110,0,80,male,172.7,Medical ICU,81
+136111,0,64,female,162.6,Medical ICU,82.4
+136112,0,77,male,NA,Surgical ICU,83
+136113,0,70,female,NA,Surgical ICU,NA
+136115,0,20,male,NA,Medical ICU,82.5
+136122,0,49,female,NA,Medical ICU,81.8
+136124,0,65,male,148.6,Surgical ICU,220
+136130,0,68,male,167.6,Coronary Care Unit,80
+136131,0,19,male,180.3,Surgical ICU,65
+136132,0,54,female,NA,Surgical ICU,143.8
+136133,0,47,male,182.9,Surgical ICU,90
+136148,0,80,female,162.6,Cardiac Surgery Recovery Unit,55.4
+136151,0,90,female,NA,Medical ICU,55
+136154,0,78,female,144.8,Cardiac Surgery Recovery Unit,40.7
+136155,0,52,female,167.6,Surgical ICU,86.2
+136162,0,54,male,NA,Medical ICU,80
+136164,0,43,male,180.3,Surgical ICU,86.3
+136169,0,68,female,170.2,Medical ICU,61
+136176,0,63,female,172.7,Cardiac Surgery Recovery Unit,50
+136177,0,72,male,177.8,Cardiac Surgery Recovery Unit,79
+136178,0,45,male,185.4,Coronary Care Unit,105
+136182,0,88,male,172.7,Cardiac Surgery Recovery Unit,75
+136183,1,47,female,157.5,Medical ICU,75
+136185,1,60,female,NA,Surgical ICU,98.6
+136186,0,72,female,NA,Coronary Care Unit,71.2
+136187,1,90,male,160,Coronary Care Unit,61
+136188,0,61,female,NA,Surgical ICU,77
+136190,0,64,male,NA,Surgical ICU,82
+136195,0,51,female,172.7,Cardiac Surgery Recovery Unit,97.4
+136197,1,86,male,NA,Medical ICU,NA
+136200,0,76,male,NA,Medical ICU,62
+136202,0,84,male,172.7,Coronary Care Unit,78
+136203,1,49,male,NA,Cardiac Surgery Recovery Unit,77.6
+136204,0,73,male,180.3,Medical ICU,80
+136213,1,77,male,NA,Medical ICU,50
+136215,1,67,male,NA,Medical ICU,54.6
+136223,0,84,male,182.9,Surgical ICU,95
+136225,0,90,female,157.5,Cardiac Surgery Recovery Unit,44.1
+136229,0,57,male,NA,Cardiac Surgery Recovery Unit,103.5
+136230,0,75,male,172.7,Coronary Care Unit,86
+136234,0,55,male,185.4,Cardiac Surgery Recovery Unit,82
+136236,1,60,female,NA,Medical ICU,84.3
+136239,0,69,female,NA,Medical ICU,74.2
+136240,0,66,female,162.6,Coronary Care Unit,86
+136246,0,58,female,NA,Medical ICU,54.9
+136256,1,85,female,160,Medical ICU,50
+136258,0,80,female,NA,Surgical ICU,83
+136260,0,49,female,NA,Medical ICU,56.3
+136263,0,67,male,167.6,Cardiac Surgery Recovery Unit,75.11
+136264,0,54,male,NA,Medical ICU,109
+136265,0,81,female,NA,Medical ICU,50
+136267,0,46,male,NA,Surgical ICU,100.4
+136271,0,79,male,175.3,Surgical ICU,113
+136272,0,22,female,NA,Medical ICU,83.3
+136278,0,82,female,NA,Medical ICU,NA
+136282,0,38,male,NA,Medical ICU,54
+136288,0,90,female,NA,Medical ICU,102
+136289,1,87,female,NA,Surgical ICU,60
+136292,0,29,female,NA,Medical ICU,90
+136294,0,47,female,170.2,Cardiac Surgery Recovery Unit,91.5
+136295,0,61,male,NA,Surgical ICU,80
+136298,1,81,female,152.4,Coronary Care Unit,74.6
+136299,0,53,male,NA,Coronary Care Unit,120
+136302,0,78,female,160,Medical ICU,56.8
+136305,0,42,male,172.7,Surgical ICU,92.8
+136306,0,81,male,170.2,Coronary Care Unit,68
+136308,0,66,male,175.3,Coronary Care Unit,79.6
+136309,0,40,male,167.6,Cardiac Surgery Recovery Unit,77.5
+136316,0,30,female,NA,Medical ICU,NA
+136319,0,56,male,177.8,Cardiac Surgery Recovery Unit,72
+136321,0,26,male,NA,Surgical ICU,128.5
+136322,1,90,female,NA,Surgical ICU,60.3
+136325,1,77,female,NA,Surgical ICU,70
+136326,1,80,male,182.9,Coronary Care Unit,97
+136327,0,69,female,154.9,Cardiac Surgery Recovery Unit,82.4
+136329,1,73,female,NA,Medical ICU,44
+136332,0,82,female,NA,Medical ICU,62.3
+136336,0,64,male,NA,Surgical ICU,90
+136338,0,48,male,177.8,Cardiac Surgery Recovery Unit,95
+136343,0,48,female,165.1,Surgical ICU,65
+136346,0,23,male,NA,Surgical ICU,83
+136348,0,71,female,NA,Surgical ICU,60
+136350,0,78,male,NA,Medical ICU,62.5
+136354,0,18,male,NA,Surgical ICU,89.4
+136356,0,90,female,152.4,Medical ICU,81
+136357,0,80,female,NA,Surgical ICU,65.6
+136358,0,80,male,177.8,Coronary Care Unit,90
+136361,0,47,male,172.7,Medical ICU,71.7
+136363,0,57,female,NA,Medical ICU,78.7
+136364,0,75,male,NA,Surgical ICU,87
+136365,0,44,female,NA,Surgical ICU,100
+136366,0,49,male,182.9,Cardiac Surgery Recovery Unit,90
+136368,0,77,female,157.5,Cardiac Surgery Recovery Unit,63.5
+136369,0,76,female,NA,Surgical ICU,80.3
+136372,0,42,male,175.3,Surgical ICU,89
+136373,1,37,female,NA,Medical ICU,77.1
+136375,1,75,male,NA,Medical ICU,73.6
+136377,0,85,male,NA,Coronary Care Unit,96
+136380,0,23,female,NA,Medical ICU,81
+136383,0,68,male,177.8,Surgical ICU,80
+136389,1,82,male,165.1,Medical ICU,84.3
+136392,0,58,male,167.6,Cardiac Surgery Recovery Unit,68.5
+136396,0,82,female,165.1,Cardiac Surgery Recovery Unit,51.3
+136398,0,70,female,165.1,Medical ICU,78.2
+136399,0,61,female,NA,Medical ICU,88.3
+136401,0,64,female,NA,Medical ICU,61
+136405,0,51,male,175.3,Surgical ICU,70
+136406,0,51,male,NA,Surgical ICU,100
+136407,1,67,male,177.8,Coronary Care Unit,135
+136409,0,63,male,177.8,Cardiac Surgery Recovery Unit,92.8
+136410,0,89,female,NA,Surgical ICU,56.1
+136416,0,71,male,170.2,Coronary Care Unit,73
+136417,1,50,male,NA,Medical ICU,77
+136418,1,82,male,182.9,Cardiac Surgery Recovery Unit,110.6
+136420,0,46,female,NA,Medical ICU,68.8
+136424,0,66,female,NA,Medical ICU,103.7
+136429,1,85,male,172.7,Coronary Care Unit,80.3
+136430,0,54,male,177.8,Cardiac Surgery Recovery Unit,73.9
+136432,1,67,female,NA,Medical ICU,NA
+136434,1,60,female,162.6,Medical ICU,90.6
+136435,0,63,female,172.7,Surgical ICU,63
+136440,0,59,female,NA,Medical ICU,NA
+136441,0,60,female,NA,Surgical ICU,82
+136443,0,52,male,NA,Medical ICU,75
+136444,0,77,male,167.6,Surgical ICU,111.3
+136446,0,72,male,NA,Cardiac Surgery Recovery Unit,94.1
+136447,0,20,male,NA,Surgical ICU,66.4
+136453,0,65,female,NA,Medical ICU,72.4
+136457,0,73,male,175.3,Cardiac Surgery Recovery Unit,78.9
+136458,0,66,male,NA,Medical ICU,96
+136459,1,40,female,167.6,Medical ICU,104
+136460,0,74,male,172.7,Coronary Care Unit,90.6
+136462,1,52,male,NA,Coronary Care Unit,82
+136463,0,61,male,152.4,Cardiac Surgery Recovery Unit,86
+136465,0,52,male,172.7,Cardiac Surgery Recovery Unit,62.8
+136466,0,59,female,NA,Medical ICU,107.1
+136472,0,37,female,NA,Cardiac Surgery Recovery Unit,65
+136474,0,65,male,177.8,Cardiac Surgery Recovery Unit,98.2
+136477,0,87,female,NA,Cardiac Surgery Recovery Unit,NA
+136478,0,50,male,170.2,Medical ICU,70.2
+136481,1,77,male,195.6,Medical ICU,102.1
+136482,0,73,female,134.6,Cardiac Surgery Recovery Unit,76.1
+136484,0,85,female,NA,Coronary Care Unit,73.3
+136485,0,84,female,162.6,Surgical ICU,70
+136488,0,79,male,177.8,Cardiac Surgery Recovery Unit,113.5
+136490,0,67,female,157.5,Cardiac Surgery Recovery Unit,72.7
+136496,0,67,male,NA,Surgical ICU,72
+136497,0,66,female,165.1,Coronary Care Unit,155.5
+136498,0,76,male,NA,Surgical ICU,98
+136499,0,79,female,NA,Coronary Care Unit,71.4
+136501,0,58,male,170.2,Cardiac Surgery Recovery Unit,84.6
+136502,0,88,female,160,Coronary Care Unit,68
+136503,0,62,male,NA,Surgical ICU,NA
+136504,0,83,male,NA,Medical ICU,82
+136505,0,38,female,162.6,Surgical ICU,67.2
+136506,0,49,male,NA,Medical ICU,61
+136512,0,78,female,165.1,Medical ICU,65.5
+136516,0,50,female,154.9,Coronary Care Unit,79.9
+136517,0,72,female,149.9,Cardiac Surgery Recovery Unit,76.7
+136519,0,36,female,165.1,Surgical ICU,76.3
+136520,0,47,male,182.9,Surgical ICU,106
+136523,0,82,male,165.1,Cardiac Surgery Recovery Unit,61.6
+136526,0,46,female,NA,Surgical ICU,55
+136533,0,20,male,NA,Medical ICU,75.6
+136534,0,57,female,170.2,Coronary Care Unit,83
+136536,0,80,female,NA,Medical ICU,70.3
+136538,0,75,female,NA,Coronary Care Unit,68
+136539,0,31,female,177.8,Medical ICU,77.6
+136540,0,75,male,NA,Surgical ICU,79.4
+136543,0,39,male,NA,Surgical ICU,102
+136546,0,75,female,167.6,Cardiac Surgery Recovery Unit,75.3
+136547,0,69,female,NA,Medical ICU,64.8
+136550,0,68,female,NA,Medical ICU,70.9
+136552,0,47,female,170.2,Surgical ICU,63.6
+136558,0,64,female,NA,Medical ICU,78.5
+136560,0,74,male,167.6,Cardiac Surgery Recovery Unit,86
+136561,0,79,male,NA,Surgical ICU,64
+136565,1,90,male,NA,Coronary Care Unit,81.9
+136569,0,88,male,182.9,Cardiac Surgery Recovery Unit,68.2
+136570,0,42,male,177.8,Medical ICU,55.5
+136571,1,90,male,NA,Medical ICU,50.8
+136572,0,58,female,162.6,Medical ICU,66.5
+136576,0,76,male,177.8,Cardiac Surgery Recovery Unit,95.4
+136577,0,66,male,162.6,Cardiac Surgery Recovery Unit,61.7
+136578,0,30,male,NA,Surgical ICU,75
+136579,0,86,male,NA,Medical ICU,82
+136581,0,90,male,177.8,Medical ICU,85
+136583,1,90,female,NA,Medical ICU,64
+136584,1,84,female,NA,Coronary Care Unit,50
+136585,0,77,female,162.6,Medical ICU,103
+136587,0,44,female,157.5,Cardiac Surgery Recovery Unit,59.4
+136590,0,76,female,NA,Surgical ICU,62.3
+136591,0,72,male,NA,Medical ICU,NA
+136594,0,58,male,177.8,Cardiac Surgery Recovery Unit,137.7
+136597,0,69,male,172.7,Medical ICU,107.8
+136599,0,56,male,NA,Surgical ICU,NA
+136605,0,79,female,NA,Medical ICU,65
+136609,0,56,male,177.8,Cardiac Surgery Recovery Unit,92.7
+136610,0,67,male,NA,Surgical ICU,75.7
+136611,0,27,male,NA,Surgical ICU,80
+136613,0,83,male,NA,Medical ICU,97.5
+136614,0,50,female,NA,Medical ICU,68
+136616,0,48,female,NA,Coronary Care Unit,99.1
+136618,0,81,female,NA,Medical ICU,64.9
+136619,0,56,male,NA,Medical ICU,55.4
+136620,0,64,female,NA,Medical ICU,NA
+136622,1,83,female,152.4,Coronary Care Unit,48
+136626,0,81,male,160,Cardiac Surgery Recovery Unit,59
+136633,0,37,female,NA,Medical ICU,95.3
+136634,0,67,male,167.6,Coronary Care Unit,90
+136638,0,56,male,172.7,Cardiac Surgery Recovery Unit,110.8
+136639,0,38,male,NA,Medical ICU,91.9
+136640,0,66,male,NA,Medical ICU,92
+136641,0,70,female,165.1,Surgical ICU,58.5
+136642,0,62,male,165.1,Cardiac Surgery Recovery Unit,60
+136643,0,18,female,NA,Medical ICU,89
+136646,0,40,male,180.3,Medical ICU,89
+136652,0,84,female,NA,Medical ICU,51
+136653,0,57,male,NA,Medical ICU,103.9
+136655,0,49,female,NA,Medical ICU,46.5
+136656,1,81,female,NA,Medical ICU,51.8
+136660,0,83,male,172.7,Coronary Care Unit,59
+136661,0,71,female,162.6,Surgical ICU,65
+136663,1,90,male,165.1,Surgical ICU,70
+136668,0,77,female,175.3,Surgical ICU,74.7
+136677,0,61,male,177.8,Coronary Care Unit,87
+136678,0,80,female,NA,Medical ICU,65.5
+136679,0,53,male,182.9,Coronary Care Unit,94
+136680,0,63,male,182.9,Surgical ICU,90.5
+136686,0,77,female,167.6,Surgical ICU,49
+136691,0,74,female,160,Cardiac Surgery Recovery Unit,61.4
+136692,0,28,female,167.6,Cardiac Surgery Recovery Unit,92.6
+136693,0,70,female,NA,Surgical ICU,66
+136694,0,53,female,NA,Medical ICU,66.4
+136695,0,51,female,NA,Medical ICU,43
+136701,0,51,male,NA,Surgical ICU,88.3
+136706,0,37,female,NA,Medical ICU,57.2
+136709,0,88,female,157.5,Coronary Care Unit,49.5
+136714,0,37,female,NA,Surgical ICU,NA
+136716,0,46,male,167.6,Surgical ICU,60
+136723,0,69,female,NA,Coronary Care Unit,NA
+136726,0,71,female,NA,Medical ICU,57.4
+136730,0,90,female,NA,Coronary Care Unit,90
+136733,0,77,male,180.3,Medical ICU,95.7
+136738,0,28,male,NA,Surgical ICU,99.8
+136742,0,44,male,165.1,Medical ICU,69.6
+136745,0,60,male,177.8,Cardiac Surgery Recovery Unit,80
+136749,1,58,male,NA,Medical ICU,89
+136752,0,59,female,154.9,Coronary Care Unit,103
+136753,1,48,female,NA,Medical ICU,90
+136763,0,49,male,NA,Medical ICU,65
+136764,0,54,female,NA,Medical ICU,73
+136765,0,75,female,149.9,Surgical ICU,80.5
+136768,0,40,male,177.8,Surgical ICU,75
+136771,0,75,female,160,Cardiac Surgery Recovery Unit,70.4
+136777,0,70,female,165.1,Coronary Care Unit,70.3
+136781,0,79,male,165.1,Surgical ICU,77
+136782,0,39,female,160,Surgical ICU,42
+136784,0,51,male,172.7,Surgical ICU,85
+136785,0,59,male,177.8,Cardiac Surgery Recovery Unit,105.9
+136786,0,65,female,NA,Cardiac Surgery Recovery Unit,52
+136788,0,81,female,NA,Medical ICU,40
+136795,1,74,male,NA,Medical ICU,72
+136797,0,79,female,NA,Coronary Care Unit,58.5
+136802,1,58,male,182.9,Medical ICU,77.5
+136806,0,84,male,NA,Surgical ICU,78.5
+136808,0,48,female,160,Surgical ICU,50.9
+136810,1,33,female,NA,Medical ICU,70
+136812,0,60,female,165.1,Coronary Care Unit,87
+136813,0,58,male,165.1,Coronary Care Unit,82.6
+136815,0,77,female,162.6,Cardiac Surgery Recovery Unit,63.9
+136816,0,52,male,NA,Surgical ICU,111
+136817,0,76,female,NA,Surgical ICU,46.4
+136821,0,19,female,160,Medical ICU,72
+136824,0,61,male,NA,Medical ICU,82.4
+136828,0,57,male,177.8,Cardiac Surgery Recovery Unit,85
+136834,0,47,male,177.8,Medical ICU,136
+136838,0,38,female,160,Medical ICU,36.5
+136840,0,56,male,175.3,Medical ICU,69.8
+136844,0,22,male,NA,Coronary Care Unit,73.6
+136846,0,28,male,NA,Medical ICU,107
+136848,1,57,male,NA,Medical ICU,73.9
+136851,0,73,male,182.9,Surgical ICU,80
+136852,0,83,female,157.5,Medical ICU,48
+136854,0,79,female,152.4,Cardiac Surgery Recovery Unit,57.3
+136856,0,69,male,175.3,Cardiac Surgery Recovery Unit,72.4
+136860,0,80,male,NA,Medical ICU,NA
+136861,1,86,male,NA,Surgical ICU,65.4
+136864,0,50,male,NA,Medical ICU,125
+136866,0,18,male,NA,Surgical ICU,93.4
+136868,0,71,male,180.3,Cardiac Surgery Recovery Unit,85.7
+136869,0,81,female,170.2,Coronary Care Unit,79
+136871,0,85,female,152.4,Coronary Care Unit,40
+136872,0,49,male,162.6,Medical ICU,67
+136873,0,62,male,NA,Medical ICU,69
+136874,0,66,male,175.3,Coronary Care Unit,55
+136879,0,71,male,180.3,Cardiac Surgery Recovery Unit,85.6
+136880,0,59,female,157.5,Cardiac Surgery Recovery Unit,79.5
+136883,0,49,male,NA,Medical ICU,NA
+136885,0,79,female,152.4,Cardiac Surgery Recovery Unit,40.2
+136886,0,73,male,NA,Surgical ICU,84.6
+136887,0,81,male,182.9,Surgical ICU,94.6
+136888,1,66,female,157.5,Coronary Care Unit,84
+136889,0,55,male,NA,Medical ICU,108.3
+136894,0,38,male,NA,Medical ICU,74
+136895,0,73,male,NA,Medical ICU,88
+136897,1,49,male,182.9,Cardiac Surgery Recovery Unit,105
+136898,0,45,male,180.3,Cardiac Surgery Recovery Unit,84
+136899,0,69,male,177.8,Surgical ICU,83
+136904,0,31,female,NA,Coronary Care Unit,NA
+136906,0,80,male,180.3,Cardiac Surgery Recovery Unit,72.5
+136911,0,58,male,170.2,Cardiac Surgery Recovery Unit,96.6
+136912,1,68,female,NA,Medical ICU,79.6
+136914,0,82,male,172.7,Cardiac Surgery Recovery Unit,81.3
+136915,1,75,male,184.2,Cardiac Surgery Recovery Unit,79
+136919,0,57,female,NA,Surgical ICU,50
+136920,0,54,male,NA,Coronary Care Unit,91
+136921,0,70,male,NA,Medical ICU,NA
+136924,0,52,male,NA,Medical ICU,NA
+136925,0,78,male,172.7,Coronary Care Unit,86
+136927,0,67,male,NA,Surgical ICU,63
+136929,1,54,male,180.3,Surgical ICU,85
+136931,0,17,female,NA,Surgical ICU,62
+136935,0,71,male,167.6,Surgical ICU,80
+136938,1,77,male,NA,Surgical ICU,111
+136940,0,46,female,NA,Medical ICU,64.5
+136941,0,33,male,182.9,Coronary Care Unit,81.8
+136949,0,52,male,13,Medical ICU,126
+136951,0,84,female,165.1,Cardiac Surgery Recovery Unit,65
+136953,0,75,male,180.3,Cardiac Surgery Recovery Unit,71.9
+136963,0,79,male,167.6,Medical ICU,81.8
+136965,0,60,male,170.2,Surgical ICU,127.9
+136967,0,88,female,13.7,Surgical ICU,99.3
+136969,0,53,male,157.5,Medical ICU,70
+136971,0,51,female,NA,Medical ICU,NA
+136972,0,80,female,154.9,Surgical ICU,55
+136973,0,57,female,170.2,Surgical ICU,123
+136975,1,78,female,157.5,Surgical ICU,94.3
+136976,0,80,male,162.6,Cardiac Surgery Recovery Unit,64
+136980,0,64,male,NA,Surgical ICU,82
+136981,0,77,male,175.3,Surgical ICU,82
+136982,0,90,male,165.1,Medical ICU,82.4
+136983,0,50,male,175,Coronary Care Unit,159
+136985,0,90,female,NA,Medical ICU,45.9
+136987,1,40,female,NA,Surgical ICU,60
+136990,0,41,female,NA,Surgical ICU,80.5
+136992,1,77,male,157.5,Coronary Care Unit,65.7
+136993,0,90,male,NA,Coronary Care Unit,66.6
+136995,0,48,male,NA,Medical ICU,55.8
+136996,0,56,male,177.8,Cardiac Surgery Recovery Unit,100
+136997,1,82,male,177.8,Medical ICU,106
+137000,0,64,female,162.6,Medical ICU,59.3
+137001,0,75,male,175.3,Cardiac Surgery Recovery Unit,76
+137003,0,61,female,154.9,Surgical ICU,62
+137005,0,46,male,NA,Medical ICU,67.5
+137007,0,67,female,167.6,Cardiac Surgery Recovery Unit,65
+137008,0,75,male,180.3,Cardiac Surgery Recovery Unit,76.36
+137014,0,81,male,NA,Medical ICU,41.7
+137015,1,86,female,154.9,Coronary Care Unit,69
+137018,0,55,male,177.8,Cardiac Surgery Recovery Unit,105.6
+137020,1,48,male,182.9,Medical ICU,103
+137021,0,66,male,177.8,Cardiac Surgery Recovery Unit,102
+137022,0,66,male,NA,Surgical ICU,NA
+137025,0,78,male,177.8,Surgical ICU,100
+137030,0,85,female,144.8,Cardiac Surgery Recovery Unit,53.3
+137031,0,35,female,NA,Medical ICU,72
+137035,1,65,male,NA,Cardiac Surgery Recovery Unit,NA
+137037,0,71,male,NA,Coronary Care Unit,62
+137038,0,37,male,NA,Surgical ICU,NA
+137041,0,55,male,NA,Surgical ICU,77
+137047,0,72,male,NA,Cardiac Surgery Recovery Unit,76.4
+137048,1,84,male,167.6,Surgical ICU,65.7
+137049,0,55,male,180.3,Medical ICU,75.5
+137051,0,60,female,NA,Surgical ICU,46
+137053,0,64,male,172.7,Surgical ICU,68
+137054,0,82,female,162.6,Surgical ICU,87
+137057,0,57,female,NA,Medical ICU,62.5
+137058,0,58,female,170.2,Cardiac Surgery Recovery Unit,97.5
+137059,0,70,male,NA,Medical ICU,92.1
+137060,0,59,male,172.7,Cardiac Surgery Recovery Unit,85.9
+137068,0,90,female,NA,Medical ICU,52.6
+137070,0,90,female,160,Cardiac Surgery Recovery Unit,65.7
+137072,0,47,male,NA,Medical ICU,108.4
+137073,0,90,female,152.4,Coronary Care Unit,47.6
+137076,0,49,male,NA,Surgical ICU,72.8
+137079,1,63,female,160,Surgical ICU,82
+137082,0,72,female,NA,Coronary Care Unit,113.2
+137085,0,76,male,NA,Surgical ICU,79
+137088,0,80,male,185.4,Cardiac Surgery Recovery Unit,88
+137093,0,49,male,193,Medical ICU,136
+137099,0,68,male,175.3,Cardiac Surgery Recovery Unit,113.2
+137102,0,68,male,175.3,Cardiac Surgery Recovery Unit,109
+137105,0,90,male,NA,Medical ICU,NA
+137106,0,46,male,172.7,Cardiac Surgery Recovery Unit,86.2
+137114,0,33,male,NA,Surgical ICU,88
+137116,0,83,female,NA,Coronary Care Unit,71
+137117,0,74,male,NA,Medical ICU,57
+137118,0,45,female,154.9,Cardiac Surgery Recovery Unit,49
+137119,0,27,female,NA,Medical ICU,52.6
+137126,0,71,female,170.2,Cardiac Surgery Recovery Unit,115
+137128,1,63,male,NA,Coronary Care Unit,109.4
+137133,0,21,female,NA,Medical ICU,87.8
+137136,0,70,female,170.2,Medical ICU,95
+137137,0,47,male,175.3,Cardiac Surgery Recovery Unit,111.3
+137139,0,85,female,162.6,Medical ICU,60.2
+137141,0,51,male,NA,Surgical ICU,NA
+137142,0,48,female,152.4,Medical ICU,50
+137143,0,90,female,NA,Medical ICU,95
+137144,0,75,female,152.4,Coronary Care Unit,47.2
+137145,0,71,male,NA,Surgical ICU,77
+137146,0,62,male,177.8,Cardiac Surgery Recovery Unit,105
+137152,1,83,female,NA,Surgical ICU,70.1
+137154,1,50,male,167.6,Medical ICU,50
+137155,0,68,male,182.9,Surgical ICU,128.6
+137157,0,86,female,152.4,Coronary Care Unit,70.9
+137159,0,76,female,NA,Surgical ICU,62.6
+137161,0,62,male,NA,Medical ICU,230
+137162,0,40,female,157.5,Surgical ICU,49.9
+137164,0,81,male,177.8,Coronary Care Unit,65.6
+137176,0,45,female,NA,Medical ICU,115
+137177,0,60,male,180.3,Cardiac Surgery Recovery Unit,153.7
+137181,0,64,male,165.1,Surgical ICU,70
+137185,0,41,male,200.7,Cardiac Surgery Recovery Unit,117.7
+137187,0,71,male,170.2,Cardiac Surgery Recovery Unit,85
+137188,0,22,female,167.6,Medical ICU,59.6
+137190,0,49,male,172.7,Surgical ICU,120
+137193,0,75,female,NA,Medical ICU,NA
+137195,0,68,male,NA,Medical ICU,NA
+137196,0,86,female,NA,Medical ICU,83.1
+137197,0,55,male,180.3,Coronary Care Unit,96.1
+137201,0,85,female,NA,Medical ICU,63.3
+137205,0,69,male,NA,Surgical ICU,NA
+137208,0,63,male,170.2,Medical ICU,97.5
+137215,0,69,male,167.6,Cardiac Surgery Recovery Unit,92.3
+137217,0,53,male,182.9,Cardiac Surgery Recovery Unit,98
+137224,0,66,female,NA,Surgical ICU,NA
+137226,0,60,male,NA,Medical ICU,53
+137228,0,61,male,NA,Medical ICU,81.5
+137230,0,61,female,NA,Surgical ICU,65
+137233,0,90,female,NA,Coronary Care Unit,61.9
+137235,0,89,male,NA,Medical ICU,NA
+137242,1,50,female,NA,Medical ICU,81
+137243,0,84,male,190.5,Surgical ICU,83
+137245,0,69,male,177.8,Coronary Care Unit,79.4
+137250,0,24,male,NA,Surgical ICU,NA
+137252,1,86,male,NA,Surgical ICU,80
+137254,0,49,male,182.9,Surgical ICU,69.7
+137256,0,42,female,157.5,Cardiac Surgery Recovery Unit,80
+137258,0,53,female,NA,Surgical ICU,75
+137261,1,61,male,NA,Medical ICU,56.3
+137262,0,37,male,NA,Surgical ICU,NA
+137264,1,34,female,157.5,Surgical ICU,111
+137268,0,34,male,NA,Medical ICU,75
+137270,0,78,female,NA,Coronary Care Unit,46
+137271,0,71,female,NA,Surgical ICU,55
+137272,0,78,female,NA,Medical ICU,104.2
+137273,0,70,male,177.8,Cardiac Surgery Recovery Unit,82
+137274,0,61,female,165.1,Cardiac Surgery Recovery Unit,100
+137275,1,73,female,170.2,Medical ICU,59.1
+137284,0,78,male,172.7,Coronary Care Unit,88
+137285,0,67,male,167.6,Cardiac Surgery Recovery Unit,90
+137286,0,27,male,NA,Medical ICU,115.2
+137287,1,65,male,NA,Medical ICU,39
+137292,0,64,female,154.9,Cardiac Surgery Recovery Unit,50.2
+137293,0,77,female,426.7,Surgical ICU,81.8
+137296,0,65,male,NA,Medical ICU,101.6
+137298,0,48,male,177.8,Coronary Care Unit,116
+137300,0,83,female,NA,Medical ICU,46.5
+137302,0,62,female,157.5,Cardiac Surgery Recovery Unit,94.8
+137304,0,78,male,177.8,Medical ICU,77.3
+137305,0,68,female,170.2,Surgical ICU,76.9
+137307,0,79,female,NA,Medical ICU,NA
+137312,1,70,male,175.3,Surgical ICU,87
+137315,1,62,male,NA,Medical ICU,74.6
+137316,0,76,female,167.6,Coronary Care Unit,84
+137317,0,72,female,398.8,Cardiac Surgery Recovery Unit,59
+137318,0,65,female,NA,Medical ICU,70.5
+137321,0,73,male,170.2,Surgical ICU,57.7
+137322,0,83,female,152.4,Cardiac Surgery Recovery Unit,49.6
+137325,1,68,male,NA,Medical ICU,113
+137326,1,77,female,NA,Medical ICU,58.1
+137328,0,75,male,177.8,Cardiac Surgery Recovery Unit,84.8
+137331,0,65,male,175.3,Medical ICU,107.4
+137332,0,90,female,165.1,Cardiac Surgery Recovery Unit,80.5
+137333,0,23,female,NA,Surgical ICU,111
+137334,0,25,female,NA,Cardiac Surgery Recovery Unit,NA
+137335,1,77,male,NA,Medical ICU,99.5
+137339,0,80,female,160,Surgical ICU,58.5
+137340,0,64,female,157.5,Coronary Care Unit,108
+137341,0,51,male,172.7,Cardiac Surgery Recovery Unit,116.7
+137342,0,81,female,147.3,Cardiac Surgery Recovery Unit,54.1
+137349,0,79,male,170.2,Cardiac Surgery Recovery Unit,62.9
+137351,0,56,female,157.5,Surgical ICU,67
+137357,0,78,female,170.2,Cardiac Surgery Recovery Unit,92.2
+137358,0,76,male,167.6,Cardiac Surgery Recovery Unit,84.8
+137363,0,74,male,177.8,Surgical ICU,120
+137364,1,40,male,182.9,Cardiac Surgery Recovery Unit,146
+137370,0,51,male,182.9,Surgical ICU,115
+137375,0,45,male,NA,Surgical ICU,65
+137378,0,26,male,NA,Medical ICU,90.7
+137380,0,73,female,177.8,Coronary Care Unit,80.7
+137383,0,38,male,182.9,Surgical ICU,70
+137392,0,43,NA,NA,Medical ICU,NA
+137395,0,75,female,NA,Medical ICU,59
+137396,0,83,female,152.4,Coronary Care Unit,44
+137399,0,86,female,147.3,Medical ICU,34.6
+137402,0,32,male,NA,Surgical ICU,84.5
+137405,0,60,female,NA,Surgical ICU,68.4
+137406,0,75,male,167.6,Cardiac Surgery Recovery Unit,98.5
+137407,0,73,male,NA,Cardiac Surgery Recovery Unit,77.7
+137411,0,90,female,NA,Surgical ICU,55.9
+137414,0,58,male,NA,Medical ICU,90
+137419,0,79,female,154.9,Cardiac Surgery Recovery Unit,66.2
+137420,0,88,female,157.5,Cardiac Surgery Recovery Unit,76.1
+137421,0,61,male,NA,Surgical ICU,118
+137422,0,44,male,NA,Medical ICU,80
+137423,0,65,male,167.6,Cardiac Surgery Recovery Unit,70
+137424,0,21,female,162.6,Medical ICU,75.5
+137427,0,75,male,175.3,Cardiac Surgery Recovery Unit,84
+137431,0,62,male,182.9,Surgical ICU,88.6
+137432,0,70,female,154.9,Cardiac Surgery Recovery Unit,72.7
+137433,0,78,male,177.8,Medical ICU,76
+137436,0,53,female,NA,Surgical ICU,145.8
+137438,0,80,female,NA,Surgical ICU,70
+137443,0,71,male,NA,Coronary Care Unit,86
+137444,0,45,female,148.6,Cardiac Surgery Recovery Unit,63.9
+137445,0,61,male,162.6,Surgical ICU,73.7
+137447,1,73,male,180.3,Coronary Care Unit,79.9
+137448,0,39,female,NA,Surgical ICU,97
+137450,0,67,female,152.4,Cardiac Surgery Recovery Unit,64
+137452,1,80,female,152.4,Cardiac Surgery Recovery Unit,77.7
+137453,0,56,male,NA,Surgical ICU,91
+137454,0,80,male,177.8,Coronary Care Unit,64
+137458,0,71,female,NA,Surgical ICU,76.2
+137459,0,81,female,157.5,Cardiac Surgery Recovery Unit,81.8
+137463,0,38,male,NA,Medical ICU,71.7
+137464,0,76,male,170.2,Cardiac Surgery Recovery Unit,82.6
+137466,0,70,female,176.5,Coronary Care Unit,84
+137471,0,90,male,NA,Coronary Care Unit,83.7
+137475,0,52,male,203.2,Surgical ICU,211
+137476,0,82,male,NA,Medical ICU,77
+137482,0,57,male,177.8,Surgical ICU,113
+137485,0,53,female,162.6,Medical ICU,59.8
+137487,0,83,female,142.2,Coronary Care Unit,63
+137489,0,61,male,182.9,Coronary Care Unit,81
+137490,0,78,male,NA,Medical ICU,52
+137493,0,72,male,NA,Coronary Care Unit,NA
+137497,0,80,male,NA,Surgical ICU,114.2
+137499,0,66,male,180.3,Cardiac Surgery Recovery Unit,130
+137500,0,69,female,1.8,Coronary Care Unit,68.7
+137501,0,74,male,180.3,Cardiac Surgery Recovery Unit,99
+137511,0,51,female,NA,Medical ICU,NA
+137514,1,77,female,167.6,Coronary Care Unit,73.1
+137515,0,59,female,NA,Medical ICU,95.5
+137516,1,70,male,180.3,Surgical ICU,90
+137517,0,56,female,NA,Medical ICU,79.6
+137518,0,53,female,NA,Medical ICU,48
+137521,0,78,female,160,Medical ICU,55
+137526,0,68,male,177.8,Cardiac Surgery Recovery Unit,85
+137528,0,70,male,177.8,Cardiac Surgery Recovery Unit,77.7
+137529,0,48,male,167.6,Medical ICU,64.5
+137531,0,61,female,165.1,Coronary Care Unit,53.2
+137535,0,45,female,NA,Medical ICU,NA
+137537,0,85,female,NA,Medical ICU,NA
+137538,0,60,male,182.9,Cardiac Surgery Recovery Unit,91.57
+137542,1,23,male,NA,Surgical ICU,NA
+137545,0,63,male,185.4,Cardiac Surgery Recovery Unit,139
+137548,0,65,male,172.7,Coronary Care Unit,70.8
+137549,1,74,female,NA,Medical ICU,59.2
+137552,0,24,female,NA,Medical ICU,131.9
+137556,0,32,male,NA,Medical ICU,102
+137562,0,40,male,170.2,Coronary Care Unit,72
+137563,1,43,female,165.1,Surgical ICU,80
+137564,0,79,female,167.6,Medical ICU,88.6
+137567,0,48,female,162.6,Cardiac Surgery Recovery Unit,72.9
+137568,0,41,female,NA,Medical ICU,143.8
+137569,0,81,female,165.1,Surgical ICU,70
+137570,0,67,female,165.1,Medical ICU,70
+137573,0,55,female,NA,Cardiac Surgery Recovery Unit,79.3
+137576,1,22,male,NA,Medical ICU,90
+137577,1,80,female,152.4,Surgical ICU,71
+137578,0,90,male,NA,Medical ICU,65
+137579,0,65,male,172.7,Cardiac Surgery Recovery Unit,62.9
+137580,0,63,male,NA,Coronary Care Unit,98
+137581,0,63,male,180.3,Medical ICU,90
+137583,0,64,female,NA,Coronary Care Unit,NA
+137584,0,40,female,NA,Medical ICU,71
+137586,0,80,male,NA,Medical ICU,NA
+137587,1,87,female,NA,Surgical ICU,39.2
+137588,0,90,male,NA,Medical ICU,83.3
+137589,0,79,male,162.6,Cardiac Surgery Recovery Unit,65.8
+137590,0,88,male,167.6,Cardiac Surgery Recovery Unit,59
+137592,0,61,male,179.1,Coronary Care Unit,72.1
+137593,0,57,male,157.5,Cardiac Surgery Recovery Unit,88.6
+137594,0,87,male,NA,Medical ICU,72.5
+137595,0,73,female,165.1,Cardiac Surgery Recovery Unit,77.27
+137598,1,72,female,NA,Medical ICU,131.8
+137600,0,76,male,172.7,Cardiac Surgery Recovery Unit,86.1
+137602,0,59,female,162.6,Coronary Care Unit,58
+137604,0,76,male,NA,Medical ICU,114.2
+137606,0,43,female,NA,Surgical ICU,96.4
+137609,0,60,female,NA,Medical ICU,63
+137619,0,60,male,NA,Surgical ICU,74.1
+137624,0,60,male,NA,Surgical ICU,78.5
+137626,0,69,male,174,Medical ICU,86.8
+137627,0,74,female,160,Cardiac Surgery Recovery Unit,76.6
+137628,0,78,female,NA,Medical ICU,59
+137630,0,82,female,152.4,Cardiac Surgery Recovery Unit,51
+137631,0,24,female,NA,Medical ICU,88.9
+137633,1,87,male,NA,Medical ICU,75
+137635,1,90,male,157.5,Cardiac Surgery Recovery Unit,70
+137636,0,68,male,175.3,Cardiac Surgery Recovery Unit,85
+137637,0,72,female,167.6,Medical ICU,152.4
+137638,0,81,female,NA,Medical ICU,79.9
+137639,0,75,male,167.6,Cardiac Surgery Recovery Unit,121.4
+137640,0,70,male,177.8,Cardiac Surgery Recovery Unit,71.5
+137642,1,77,male,180.3,Cardiac Surgery Recovery Unit,108
+137643,0,72,female,NA,Surgical ICU,72.1
+137648,0,68,male,167.6,Cardiac Surgery Recovery Unit,70
+137649,1,63,male,175.3,Cardiac Surgery Recovery Unit,100
+137656,1,68,male,NA,Medical ICU,104.7
+137657,1,76,male,162.6,Cardiac Surgery Recovery Unit,82.5
+137658,0,49,male,172.7,Cardiac Surgery Recovery Unit,52.7
+137661,0,36,female,NA,Surgical ICU,NA
+137663,1,73,male,194.3,Surgical ICU,93.1
+137669,0,86,male,NA,Coronary Care Unit,60
+137671,0,50,male,175.3,Medical ICU,71.7
+137674,0,54,female,NA,Medical ICU,77
+137675,0,23,male,NA,Medical ICU,80
+137678,1,55,male,NA,Medical ICU,104.5
+137679,0,62,male,188,Surgical ICU,109.5
+137680,0,84,male,NA,Surgical ICU,80.4
+137688,0,49,male,NA,Medical ICU,86.4
+137691,0,78,male,180.3,Cardiac Surgery Recovery Unit,90.1
+137692,1,79,male,NA,Coronary Care Unit,69.3
+137695,0,56,female,NA,Medical ICU,67.9
+137698,0,79,male,185.4,Cardiac Surgery Recovery Unit,80.3
+137699,0,85,male,177.8,Cardiac Surgery Recovery Unit,60
+137703,1,83,female,NA,Surgical ICU,55
+137707,1,80,male,167.6,Surgical ICU,85
+137708,0,54,female,NA,Medical ICU,NA
+137710,0,74,male,180.3,Cardiac Surgery Recovery Unit,91.6
+137713,0,80,female,NA,Coronary Care Unit,68
+137716,0,83,female,172.7,Surgical ICU,62
+137719,0,38,male,NA,Surgical ICU,95.1
+137721,0,68,male,182.9,Medical ICU,53.7
+137722,0,50,female,NA,Medical ICU,70
+137723,0,32,male,NA,Cardiac Surgery Recovery Unit,NA
+137727,0,43,female,NA,Surgical ICU,63
+137729,0,68,male,185.4,Medical ICU,89.6
+137730,0,79,male,NA,Medical ICU,95
+137731,0,44,female,NA,Surgical ICU,65
+137733,1,73,male,182.9,Surgical ICU,97.4
+137740,0,48,male,182.9,Coronary Care Unit,115.2
+137741,0,62,male,175.3,Cardiac Surgery Recovery Unit,73
+137743,0,77,female,157,Surgical ICU,90.7
+137745,1,60,male,NA,Medical ICU,96
+137746,0,69,male,NA,Medical ICU,NA
+137747,0,85,female,152.4,Surgical ICU,61.5
+137749,0,72,male,170.2,Cardiac Surgery Recovery Unit,68.1
+137750,0,56,female,NA,Coronary Care Unit,72.1
+137751,0,45,female,NA,Surgical ICU,59
+137755,0,81,female,160,Cardiac Surgery Recovery Unit,47.1
+137756,0,33,male,177.8,Coronary Care Unit,59
+137761,0,64,male,172.7,Cardiac Surgery Recovery Unit,113
+137763,0,52,male,185.4,Coronary Care Unit,90
+137764,0,58,female,165.1,Coronary Care Unit,84
+137765,0,55,male,172.7,Medical ICU,70.4
+137766,1,77,female,157.5,Surgical ICU,102
+137769,1,84,female,NA,Cardiac Surgery Recovery Unit,NA
+137771,0,55,male,188,Coronary Care Unit,114
+137775,0,53,female,162.6,Surgical ICU,75.1
+137779,0,67,male,NA,Surgical ICU,46
+137781,0,41,male,180.3,Coronary Care Unit,83.6
+137782,0,45,female,157.5,Surgical ICU,66
+137783,0,69,female,160,Coronary Care Unit,116
+137785,0,88,female,165.1,Cardiac Surgery Recovery Unit,52.1
+137789,0,65,female,NA,Cardiac Surgery Recovery Unit,78.7
+137790,0,59,female,167.6,Cardiac Surgery Recovery Unit,95.7
+137791,0,53,male,NA,Surgical ICU,120
+137793,1,34,male,NA,Surgical ICU,110
+137795,0,65,male,175.3,Medical ICU,67.6
+137798,0,90,female,NA,Medical ICU,57.3
+137799,0,45,female,167.6,Surgical ICU,80
+137800,0,61,female,NA,Surgical ICU,81
+137802,0,67,female,162.6,Cardiac Surgery Recovery Unit,51
+137803,1,77,male,170.2,Coronary Care Unit,74.8
+137806,0,66,male,167.6,Cardiac Surgery Recovery Unit,122.6
+137807,0,46,male,180.3,Surgical ICU,69.7
+137808,0,61,female,NA,Surgical ICU,48.4
+137810,0,69,female,157.5,Surgical ICU,72.4
+137811,0,79,male,172.7,Cardiac Surgery Recovery Unit,80
+137813,0,74,female,157.5,Coronary Care Unit,52.1
+137814,1,70,male,NA,Medical ICU,60.3
+137820,0,50,male,177.8,Cardiac Surgery Recovery Unit,92.5
+137822,0,51,male,185.4,Surgical ICU,116
+137823,0,40,male,175.3,Coronary Care Unit,81
+137824,0,17,male,NA,Surgical ICU,75
+137825,0,80,male,167.6,Surgical ICU,79
+137826,0,77,male,NA,Surgical ICU,75
+137828,0,84,female,NA,Medical ICU,42.3
+137835,0,72,female,170.2,Coronary Care Unit,77.6
+137838,0,86,male,170.2,Cardiac Surgery Recovery Unit,68
+137840,0,69,male,182.9,Cardiac Surgery Recovery Unit,105
+137842,0,47,female,167.6,Surgical ICU,60
+137845,0,74,male,NA,Surgical ICU,NA
+137846,1,84,female,157.5,Medical ICU,50
+137848,0,80,male,NA,Surgical ICU,57.4
+137849,0,23,male,170.2,Medical ICU,74.4
+137850,0,85,female,NA,Medical ICU,NA
+137855,0,71,male,182.9,Cardiac Surgery Recovery Unit,103.6
+137856,1,62,male,177.8,Medical ICU,129.1
+137857,0,65,male,NA,Coronary Care Unit,73
+137860,0,40,male,185.4,Surgical ICU,81.8
+137865,0,79,male,NA,Coronary Care Unit,82
+137867,1,78,female,162.6,Coronary Care Unit,68
+137868,0,73,male,172.7,Coronary Care Unit,69.5
+137871,0,72,female,162.6,Coronary Care Unit,66
+137875,0,59,male,170.2,Coronary Care Unit,88.5
+137877,0,89,male,177.8,Coronary Care Unit,90
+137878,0,36,male,NA,Medical ICU,85
+137881,0,39,female,NA,Medical ICU,57
+137885,0,55,male,175.3,Cardiac Surgery Recovery Unit,72.4
+137888,0,18,male,182.9,Surgical ICU,73.5
+137891,0,22,female,NA,Medical ICU,124
+137892,0,76,female,NA,Medical ICU,87
+137896,0,78,male,NA,Cardiac Surgery Recovery Unit,60.8
+137897,1,85,female,NA,Medical ICU,40
+137903,0,52,male,NA,Medical ICU,NA
+137904,0,19,male,NA,Medical ICU,67
+137911,0,47,male,152.4,Surgical ICU,83.9
+137914,0,83,female,160,Cardiac Surgery Recovery Unit,117
+137918,0,76,female,152.4,Coronary Care Unit,57
+137920,0,51,male,NA,Medical ICU,80
+137921,0,47,female,NA,Medical ICU,172
+137923,0,40,male,NA,Surgical ICU,86.6
+137927,0,88,female,157.5,Surgical ICU,45.6
+137928,1,58,male,NA,Medical ICU,NA
+137931,0,75,female,167.6,Medical ICU,86.2
+137934,0,64,male,180.3,Surgical ICU,126
+137937,0,73,male,180.3,Cardiac Surgery Recovery Unit,84
+137938,0,35,female,172.7,Medical ICU,65.3
+137940,0,72,male,182.9,Surgical ICU,128
+137950,1,58,male,172.7,Surgical ICU,90
+137960,1,89,female,154.9,Cardiac Surgery Recovery Unit,55.3
+137963,0,56,male,193,Medical ICU,102.2
+137965,0,52,male,177.8,Surgical ICU,77.2
+137971,0,64,male,170.2,Cardiac Surgery Recovery Unit,81.36
+137972,0,76,female,157.5,Coronary Care Unit,61
+137973,0,40,male,NA,Coronary Care Unit,83
+137979,0,60,male,180.3,Surgical ICU,136.5
+137985,0,76,female,NA,Medical ICU,76.5
+137986,0,77,female,162.6,Cardiac Surgery Recovery Unit,70.4
+137989,0,63,female,NA,Medical ICU,56.2
+137994,1,27,female,NA,Medical ICU,84.4
+137996,0,73,male,172.7,Surgical ICU,110
+137999,0,20,male,NA,Surgical ICU,80
+138004,0,75,male,177.8,Cardiac Surgery Recovery Unit,85.8
+138005,0,64,female,162.6,Cardiac Surgery Recovery Unit,88.6
+138007,0,58,male,177.8,Surgical ICU,70.45
+138008,0,89,male,152.4,Surgical ICU,49.7
+138010,0,51,male,177.8,Medical ICU,71.3
+138014,0,61,male,175.3,Medical ICU,100
+138015,1,29,male,154.9,Coronary Care Unit,90.2
+138017,0,42,male,182.9,Surgical ICU,100
+138019,0,70,male,NA,Coronary Care Unit,85.5
+138020,0,38,female,NA,Medical ICU,106.1
+138021,0,75,male,NA,Medical ICU,89.8
+138022,0,73,male,NA,Medical ICU,106.8
+138035,0,60,male,180.3,Cardiac Surgery Recovery Unit,90
+138038,0,68,female,NA,Medical ICU,73.7
+138040,0,62,female,NA,Medical ICU,54
+138042,0,28,female,NA,Medical ICU,NA
+138043,0,27,male,NA,Surgical ICU,115
+138045,0,90,female,NA,Medical ICU,NA
+138051,0,69,male,NA,Medical ICU,121.8
+138052,0,69,male,182.9,Cardiac Surgery Recovery Unit,85.9
+138057,0,74,female,NA,Medical ICU,74
+138058,0,68,female,NA,Surgical ICU,83
+138061,0,59,female,177.8,Medical ICU,95.5
+138062,0,29,male,NA,Surgical ICU,87
+138064,1,69,female,152.4,Medical ICU,85.6
+138065,1,64,female,NA,Medical ICU,72.6
+138066,0,74,female,NA,Medical ICU,NA
+138068,0,67,male,NA,Coronary Care Unit,94
+138070,0,53,female,167.6,Cardiac Surgery Recovery Unit,92.3
+138072,0,69,female,NA,Surgical ICU,60
+138073,0,70,male,NA,Surgical ICU,90
+138075,0,79,female,157.5,Cardiac Surgery Recovery Unit,53.3
+138077,0,87,female,152.4,Cardiac Surgery Recovery Unit,56.8
+138079,1,81,female,NA,Surgical ICU,66.2
+138081,0,75,female,NA,Coronary Care Unit,59
+138082,0,90,male,170.2,Medical ICU,69
+138088,0,81,male,NA,Coronary Care Unit,132.7
+138089,0,85,female,165.1,Cardiac Surgery Recovery Unit,53.2
+138093,0,90,male,NA,Medical ICU,58.5
+138095,0,46,male,175.3,Cardiac Surgery Recovery Unit,88.3
+138096,0,52,male,170.2,Cardiac Surgery Recovery Unit,98
+138107,0,71,male,167.6,Cardiac Surgery Recovery Unit,97.9
+138108,0,76,male,182.9,Surgical ICU,85
+138114,0,65,male,177.8,Surgical ICU,92.8
+138117,0,70,male,NA,Coronary Care Unit,81
+138121,0,59,female,162.6,Surgical ICU,107.6
+138123,1,90,female,NA,Coronary Care Unit,53
+138127,0,82,male,175.3,Cardiac Surgery Recovery Unit,69
+138129,0,47,male,NA,Surgical ICU,100
+138134,0,48,female,170.2,Medical ICU,158
+138138,0,86,female,NA,Surgical ICU,50
+138139,0,17,female,167.6,Medical ICU,61.2
+138140,0,46,male,152.4,Medical ICU,77.2
+138141,0,90,male,NA,Surgical ICU,85
+138142,0,54,male,NA,Medical ICU,NA
+138143,0,46,male,175.3,Cardiac Surgery Recovery Unit,84.7
+138144,0,82,male,175.3,Cardiac Surgery Recovery Unit,79
+138164,0,46,male,NA,Medical ICU,56.7
+138166,1,83,male,NA,Medical ICU,71.9
+138168,0,69,female,NA,Coronary Care Unit,NA
+138169,1,62,male,NA,Medical ICU,58.5
+138171,0,36,male,NA,Coronary Care Unit,86.3
+138172,0,84,female,167.6,Coronary Care Unit,53.2
+138179,0,68,male,177.8,Medical ICU,198
+138180,0,74,male,175.3,Cardiac Surgery Recovery Unit,99.5
+138182,1,71,female,172.7,Medical ICU,144.4
+138183,0,90,female,162.6,Medical ICU,58.8
+138184,0,80,female,167.6,Cardiac Surgery Recovery Unit,76
+138187,0,90,female,NA,Coronary Care Unit,58.8
+138192,0,77,female,154.9,Cardiac Surgery Recovery Unit,91
+138193,0,90,male,165.1,Cardiac Surgery Recovery Unit,81.8
+138196,0,43,male,NA,Cardiac Surgery Recovery Unit,66.8
+138197,0,40,male,NA,Medical ICU,69
+138198,0,85,male,162.6,Coronary Care Unit,88
+138200,0,83,female,NA,Medical ICU,49.8
+138203,0,74,male,170.2,Cardiac Surgery Recovery Unit,68.1
+138205,0,22,male,NA,Medical ICU,72.2
+138210,0,68,male,180.3,Cardiac Surgery Recovery Unit,97.4
+138215,0,89,female,NA,Medical ICU,100
+138218,0,61,female,NA,Surgical ICU,62
+138221,0,72,female,162.6,Surgical ICU,73.6
+138225,0,68,male,NA,Surgical ICU,NA
+138226,0,61,male,154.9,Cardiac Surgery Recovery Unit,85.5
+138227,0,65,female,157.5,Cardiac Surgery Recovery Unit,86.8
+138228,0,90,female,NA,Medical ICU,84.4
+138230,0,89,male,NA,Surgical ICU,77.1
+138233,1,78,female,NA,Medical ICU,85
+138235,0,80,female,NA,Surgical ICU,58.2
+138239,0,76,female,154.9,Cardiac Surgery Recovery Unit,59
+138241,0,57,male,182.9,Cardiac Surgery Recovery Unit,93.7
+138244,0,43,male,NA,Surgical ICU,76
+138246,0,66,male,NA,Cardiac Surgery Recovery Unit,45
+138247,1,90,male,NA,Surgical ICU,72
+138248,0,74,male,NA,Medical ICU,97
+138249,0,68,female,NA,Coronary Care Unit,62
+138251,0,67,female,172.7,Coronary Care Unit,85
+138252,1,46,male,NA,Surgical ICU,102
+138253,0,67,male,177.8,Cardiac Surgery Recovery Unit,94.6
+138254,0,57,female,NA,Medical ICU,108.7
+138255,1,69,female,165.1,Medical ICU,59.7
+138256,0,74,male,NA,Surgical ICU,112
+138257,0,56,male,162.6,Cardiac Surgery Recovery Unit,77.27
+138260,1,57,male,175.3,Coronary Care Unit,80
+138261,0,75,female,165.1,Cardiac Surgery Recovery Unit,101.6
+138262,0,83,female,NA,Coronary Care Unit,67.5
+138264,0,62,male,188,Coronary Care Unit,93.9
+138268,0,63,female,152.4,Medical ICU,76.9
+138269,0,42,female,NA,Medical ICU,NA
+138270,0,75,female,162.6,Cardiac Surgery Recovery Unit,72.5
+138280,0,72,male,172.7,Cardiac Surgery Recovery Unit,62.5
+138284,0,66,female,160,Surgical ICU,76
+138286,0,75,male,180.3,Cardiac Surgery Recovery Unit,72.87
+138287,0,47,male,NA,Medical ICU,NA
+138292,0,74,female,152.4,Medical ICU,67.14
+138293,0,86,female,NA,Cardiac Surgery Recovery Unit,51.1
+138295,0,66,male,NA,Coronary Care Unit,68.9
+138298,0,70,male,182.9,Cardiac Surgery Recovery Unit,75.4
+138302,1,76,female,170.2,Cardiac Surgery Recovery Unit,52
+138303,1,77,male,NA,Medical ICU,77.3
+138308,1,79,male,177.8,Coronary Care Unit,89
+138310,0,77,male,179.1,Medical ICU,96.8
+138312,0,71,female,NA,Medical ICU,108.3
+138316,0,43,male,NA,Medical ICU,61.6
+138318,0,83,female,NA,Surgical ICU,40
+138319,0,82,male,172.7,Cardiac Surgery Recovery Unit,80
+138320,0,66,male,175.3,Coronary Care Unit,99
+138322,0,82,male,188,Cardiac Surgery Recovery Unit,94.8
+138325,0,78,male,NA,Medical ICU,NA
+138328,0,81,male,NA,Medical ICU,89.5
+138329,0,70,female,157.5,Cardiac Surgery Recovery Unit,57.8
+138331,0,49,male,NA,Coronary Care Unit,129.9
+138332,0,65,male,NA,Surgical ICU,95.6
+138336,1,84,male,NA,Surgical ICU,66.5
+138337,0,79,female,152.4,Cardiac Surgery Recovery Unit,53
+138340,0,90,female,NA,Surgical ICU,NA
+138342,0,78,male,NA,Medical ICU,57.9
+138343,0,19,male,NA,Surgical ICU,90
+138344,0,69,female,157.5,Cardiac Surgery Recovery Unit,82
+138348,0,69,male,NA,Medical ICU,104
+138349,0,81,female,NA,Coronary Care Unit,NA
+138350,0,53,female,NA,Medical ICU,NA
+138353,0,29,male,NA,Surgical ICU,70
+138357,0,64,male,NA,Surgical ICU,70
+138358,0,71,male,NA,Coronary Care Unit,104
+138363,0,20,male,185.4,Surgical ICU,124.5
+138364,1,75,male,149.9,Coronary Care Unit,63.6
+138366,0,35,female,147.3,Surgical ICU,66
+138367,0,78,male,NA,Medical ICU,83
+138369,0,69,female,154.9,Surgical ICU,65
+138373,0,37,male,160,Surgical ICU,66
+138375,0,90,male,177.8,Surgical ICU,72.5
+138376,0,45,female,162.6,Medical ICU,75
+138378,0,73,male,NA,Surgical ICU,70.8
+138380,0,64,male,172.7,Cardiac Surgery Recovery Unit,95
+138383,0,53,male,170.2,Surgical ICU,86
+138384,0,46,male,NA,Surgical ICU,121
+138387,0,42,male,NA,Surgical ICU,116
+138390,1,80,female,165.1,Surgical ICU,85
+138391,1,81,male,NA,Surgical ICU,97
+138397,0,75,male,NA,Cardiac Surgery Recovery Unit,70
+138402,0,61,female,NA,Surgical ICU,65
+138404,0,76,male,NA,Medical ICU,83.2
+138409,1,88,male,NA,Medical ICU,52
+138411,0,71,male,172.7,Cardiac Surgery Recovery Unit,76.6
+138412,0,72,male,NA,Medical ICU,62
+138418,0,82,male,180.3,Medical ICU,101.6
+138419,0,49,female,180.3,Surgical ICU,105.2
+138420,0,45,male,177.8,Cardiac Surgery Recovery Unit,95
+138421,0,64,male,NA,Coronary Care Unit,90
+138424,0,43,male,172.7,Medical ICU,80
+138426,0,58,female,152.4,Cardiac Surgery Recovery Unit,93.4
+138429,0,28,female,NA,Medical ICU,NA
+138432,0,55,male,180.3,Surgical ICU,109
+138435,0,61,female,NA,Surgical ICU,51.8
+138436,1,44,female,170.2,Coronary Care Unit,99
+138437,0,59,female,165.1,Cardiac Surgery Recovery Unit,70
+138444,0,90,male,NA,Medical ICU,79.4
+138451,0,73,female,NA,Medical ICU,NA
+138452,0,75,female,157.5,Cardiac Surgery Recovery Unit,71.3
+138459,0,62,male,177.8,Medical ICU,55
+138466,0,90,female,NA,Medical ICU,53.6
+138467,0,85,female,NA,Medical ICU,70
+138470,1,83,female,154.9,Medical ICU,62.2
+138471,0,50,male,175.3,Surgical ICU,60
+138472,0,58,male,182.9,Coronary Care Unit,81.6
+138476,0,43,female,NA,Surgical ICU,NA
+138477,0,61,female,NA,Coronary Care Unit,NA
+138480,0,54,female,NA,Medical ICU,112
+138482,0,54,male,177.8,Cardiac Surgery Recovery Unit,94
+138485,0,83,female,NA,Surgical ICU,80.2
+138486,0,55,male,180.3,Surgical ICU,128.2
+138490,0,75,female,NA,Surgical ICU,NA
+138491,0,67,male,172.7,Cardiac Surgery Recovery Unit,86
+138493,0,83,male,165.1,Surgical ICU,77
+138494,0,89,male,154.9,Cardiac Surgery Recovery Unit,80
+138495,1,73,male,198.1,Medical ICU,87.5
+138496,0,52,male,NA,Cardiac Surgery Recovery Unit,104
+138498,0,90,female,NA,Medical ICU,53
+138499,0,88,male,NA,Medical ICU,70.2
+138500,0,85,male,175.3,Surgical ICU,57
+138505,0,76,female,171.5,Medical ICU,101.3
+138506,1,47,female,NA,Medical ICU,103
+138511,0,32,female,NA,Medical ICU,81
+138514,1,90,male,NA,Surgical ICU,73
+138518,0,46,male,182.9,Cardiac Surgery Recovery Unit,102.7
+138522,1,82,male,NA,Medical ICU,66.5
+138523,1,48,male,NA,Medical ICU,143.2
+138524,0,52,female,NA,Surgical ICU,72.3
+138525,0,68,male,177.8,Coronary Care Unit,95.2
+138526,0,47,male,162.6,Surgical ICU,90
+138527,0,51,male,NA,Medical ICU,NA
+138528,1,83,female,147.3,Medical ICU,48.6
+138530,1,80,male,175.3,Cardiac Surgery Recovery Unit,86.7
+138532,0,53,male,177.8,Surgical ICU,111
+138535,0,79,male,167.6,Medical ICU,114.2
+138540,0,71,female,167.6,Medical ICU,102.7
+138543,0,73,female,149.9,Coronary Care Unit,51.5
+138545,0,77,female,NA,Medical ICU,99
+138546,0,68,male,431.8,Medical ICU,91.8
+138551,0,44,female,182.9,Surgical ICU,77
+138554,0,62,female,165.1,Surgical ICU,56
+138558,0,26,female,NA,Medical ICU,71
+138563,1,73,female,162.6,Surgical ICU,58.6
+138570,0,73,female,129.5,Cardiac Surgery Recovery Unit,69
+138573,1,73,male,NA,Medical ICU,93.6
+138581,1,53,male,NA,Surgical ICU,60
+138583,0,41,male,175.3,Medical ICU,76.4
+138584,0,23,male,182.9,Medical ICU,91.5
+138586,1,66,male,175.3,Medical ICU,75
+138592,1,74,female,NA,Medical ICU,64
+138595,0,74,male,182.9,Coronary Care Unit,109.5
+138600,0,83,male,177.8,Medical ICU,98.7
+138602,0,47,female,NA,Medical ICU,82.4
+138603,0,82,female,NA,Medical ICU,62.4
+138604,0,54,female,160,Cardiac Surgery Recovery Unit,106.1
+138605,0,57,male,188,Surgical ICU,75
+138607,0,22,male,190.5,Surgical ICU,82
+138608,0,86,female,NA,Medical ICU,65.5
+138615,0,66,female,165.1,Medical ICU,77.2
+138616,0,72,male,NA,Medical ICU,74
+138617,0,90,female,152.4,Cardiac Surgery Recovery Unit,68.5
+138619,0,33,male,185.4,Medical ICU,169.1
+138621,0,45,male,172.7,Cardiac Surgery Recovery Unit,81.8
+138623,0,87,male,162.6,Coronary Care Unit,90.7
+138625,0,71,male,188,Surgical ICU,100
+138631,0,75,male,NA,Surgical ICU,70.9
+138632,1,79,male,172.7,Medical ICU,100
+138633,0,68,male,NA,Coronary Care Unit,72.5
+138636,0,80,female,152.4,Cardiac Surgery Recovery Unit,70
+138638,0,55,male,180.3,Cardiac Surgery Recovery Unit,92
+138643,1,83,male,NA,Medical ICU,106.2
+138647,0,44,male,177.8,Surgical ICU,80
+138648,0,33,male,NA,Surgical ICU,68.5
+138649,0,81,female,NA,Medical ICU,NA
+138651,1,56,male,NA,Medical ICU,62.4
+138652,1,71,female,154.9,Coronary Care Unit,65
+138653,0,85,male,188,Cardiac Surgery Recovery Unit,86.36
+138655,0,77,female,160,Cardiac Surgery Recovery Unit,72.4
+138658,0,64,female,152.4,Cardiac Surgery Recovery Unit,75
+138660,0,57,male,NA,Coronary Care Unit,85.3
+138662,0,56,male,188,Medical ICU,99.5
+138665,0,28,female,NA,Surgical ICU,46.3
+138666,0,88,female,NA,Coronary Care Unit,51.3
+138667,0,67,male,170.2,Cardiac Surgery Recovery Unit,91
+138669,0,60,male,NA,Coronary Care Unit,54
+138671,0,69,male,172.7,Coronary Care Unit,73.1
+138673,0,80,male,NA,Medical ICU,87.5
+138679,1,48,female,NA,Medical ICU,NA
+138682,0,44,male,177.8,Surgical ICU,108
+138683,0,83,female,154.9,Cardiac Surgery Recovery Unit,41.5
+138686,0,81,male,172.7,Cardiac Surgery Recovery Unit,67.5
+138687,0,49,female,NA,Medical ICU,NA
+138688,0,77,male,NA,Surgical ICU,85.5
+138691,0,90,female,152.4,Medical ICU,63.2
+138692,1,55,male,NA,Medical ICU,96.1
+138693,0,50,female,170.2,Medical ICU,73
+138697,0,57,male,NA,Medical ICU,NA
+138698,0,64,male,172.7,Medical ICU,85.3
+138699,0,50,male,182.9,Cardiac Surgery Recovery Unit,83.4
+138701,1,79,male,NA,Surgical ICU,82
+138702,0,62,male,177.8,Cardiac Surgery Recovery Unit,92.3
+138703,0,75,male,182.9,Cardiac Surgery Recovery Unit,80
+138704,0,51,male,165.1,Coronary Care Unit,64
+138711,0,45,male,167.6,Surgical ICU,70
+138712,0,81,female,NA,Coronary Care Unit,71
+138713,1,84,male,177.8,Medical ICU,89.2
+138716,0,71,male,180.3,Cardiac Surgery Recovery Unit,81.8
+138722,0,77,male,NA,Medical ICU,122
+138724,0,58,male,NA,Medical ICU,55.8
+138725,0,23,female,NA,Medical ICU,70
+138726,0,79,male,NA,Medical ICU,84.8
+138727,0,61,female,NA,Medical ICU,87.6
+138728,0,77,male,165.1,Medical ICU,83
+138729,0,79,female,NA,Medical ICU,108
+138730,0,63,female,NA,Surgical ICU,61.1
+138736,0,69,male,NA,Surgical ICU,87.1
+138737,1,68,male,170.2,Surgical ICU,63.2
+138741,0,79,male,NA,Surgical ICU,110
+138745,0,65,male,175.3,Coronary Care Unit,114
+138748,0,67,male,167.6,Cardiac Surgery Recovery Unit,84
+138751,0,64,female,162.6,Cardiac Surgery Recovery Unit,77.5
+138752,0,85,female,142.2,Coronary Care Unit,55.4
+138754,0,76,female,157.5,Coronary Care Unit,91.4
+138755,0,52,female,NA,Medical ICU,121.9
+138759,0,75,male,172.7,Cardiac Surgery Recovery Unit,76
+138760,0,45,male,182.9,Cardiac Surgery Recovery Unit,103.1
+138761,0,71,female,NA,Medical ICU,70
+138762,0,78,female,NA,Surgical ICU,73
+138764,0,78,male,170.2,Surgical ICU,80
+138766,0,73,male,172.7,Coronary Care Unit,87
+138767,1,61,male,NA,Medical ICU,66.4
+138771,0,67,male,172.7,Cardiac Surgery Recovery Unit,87.7
+138772,0,68,male,170.2,Cardiac Surgery Recovery Unit,80
+138776,0,77,female,162.6,Cardiac Surgery Recovery Unit,69.5
+138778,0,90,female,NA,Medical ICU,66
+138779,0,46,female,NA,Medical ICU,84
+138781,1,90,female,NA,Medical ICU,52.9
+138786,0,80,female,160,Coronary Care Unit,68.3
+138788,0,73,male,182.9,Cardiac Surgery Recovery Unit,91.3
+138790,0,72,male,180.3,Cardiac Surgery Recovery Unit,100.3
+138791,1,90,female,NA,Medical ICU,81.5
+138793,0,79,male,170.2,Cardiac Surgery Recovery Unit,86.5
+138801,0,90,female,NA,Medical ICU,67.1
+138811,0,79,male,165.1,Cardiac Surgery Recovery Unit,60
+138812,0,60,male,NA,Surgical ICU,77.9
+138815,0,68,male,NA,Medical ICU,124
+138816,0,51,female,NA,Surgical ICU,75
+138817,0,26,male,167.6,Surgical ICU,90
+138821,0,82,male,167.6,Cardiac Surgery Recovery Unit,63.5
+138828,0,54,female,NA,Medical ICU,72
+138829,0,64,male,177.8,Surgical ICU,87
+138830,0,72,male,170.2,Cardiac Surgery Recovery Unit,74.9
+138835,0,47,male,NA,Surgical ICU,75
+138838,0,50,male,NA,Medical ICU,NA
+138841,0,79,male,185.4,Cardiac Surgery Recovery Unit,74
+138847,0,76,female,NA,Medical ICU,51
+138848,0,82,male,182.9,Coronary Care Unit,79.5
+138849,0,61,male,175.3,Coronary Care Unit,105
+138850,0,69,female,162.6,Cardiac Surgery Recovery Unit,66.3
+138851,0,52,male,NA,Medical ICU,128.2
+138852,0,90,male,NA,Medical ICU,NA
+138853,0,57,male,177.8,Cardiac Surgery Recovery Unit,81
+138857,0,58,female,NA,Medical ICU,NA
+138861,0,82,female,NA,Surgical ICU,73.2
+138863,1,66,male,175.3,Medical ICU,76.2
+138869,0,88,female,NA,Surgical ICU,45
+138870,0,58,male,15.2,Surgical ICU,124
+138882,0,68,male,172.7,Coronary Care Unit,91
+138885,0,63,male,172.7,Medical ICU,56.3
+138889,0,21,female,165.1,Surgical ICU,100.6
+138891,0,90,female,NA,Medical ICU,50
+138893,0,76,female,NA,Coronary Care Unit,65
+138895,0,44,male,180.3,Surgical ICU,115.5
+138905,0,35,female,154.9,Cardiac Surgery Recovery Unit,67
+138907,0,52,male,182.9,Cardiac Surgery Recovery Unit,87
+138914,0,77,female,152.4,Surgical ICU,50
+138915,0,60,male,175.3,Coronary Care Unit,85.5
+138918,0,75,female,167.6,Cardiac Surgery Recovery Unit,70
+138922,0,72,female,167.6,Surgical ICU,85
+138923,0,86,male,NA,Medical ICU,75.4
+138926,0,67,male,172.7,Cardiac Surgery Recovery Unit,76.4
+138928,0,68,female,157.5,Cardiac Surgery Recovery Unit,70.7
+138934,0,85,female,157.5,Cardiac Surgery Recovery Unit,57.2
+138935,0,77,male,179.1,Medical ICU,165
+138937,1,62,female,NA,Surgical ICU,65
+138940,0,50,female,162.6,Medical ICU,54.7
+138945,0,67,female,160,Cardiac Surgery Recovery Unit,86.6
+138953,1,75,female,152.4,Surgical ICU,62.7
+138955,0,81,female,165.1,Medical ICU,93
+138956,0,30,male,NA,Surgical ICU,84
+138957,0,67,male,NA,Surgical ICU,91.3
+138961,0,70,female,152.4,Medical ICU,32
+138963,0,86,male,177.8,Cardiac Surgery Recovery Unit,74.07
+138964,1,50,male,NA,Medical ICU,87
+138966,0,56,male,175.3,Surgical ICU,87
+138969,0,59,male,NA,Medical ICU,138
+138972,0,82,male,NA,Medical ICU,67.8
+138975,0,59,female,167.6,Medical ICU,73
+138980,0,68,male,172.7,Medical ICU,68.6
+138981,0,56,female,NA,Medical ICU,116.9
+138983,1,24,female,170.2,Medical ICU,83.6
+138984,0,41,male,182.9,Coronary Care Unit,96
+138989,1,80,male,NA,Medical ICU,56.6
+138993,1,66,female,NA,Surgical ICU,73
+138994,0,86,male,NA,Medical ICU,NA
+138996,0,74,male,157.5,Cardiac Surgery Recovery Unit,64.2
+138997,0,57,male,NA,Medical ICU,NA
+138998,0,90,male,NA,Surgical ICU,65.2
+139001,0,87,female,NA,Medical ICU,50
+139007,0,84,female,157.5,Cardiac Surgery Recovery Unit,50
+139009,0,78,male,NA,Surgical ICU,102
+139010,0,66,male,167.6,Cardiac Surgery Recovery Unit,80
+139015,0,84,male,170.2,Coronary Care Unit,77.6
+139016,0,73,female,NA,Medical ICU,104.5
+139018,0,88,male,NA,Medical ICU,NA
+139019,0,51,male,NA,Surgical ICU,70.4
+139022,0,65,male,NA,Surgical ICU,100
+139023,0,43,male,182.9,Surgical ICU,90
+139030,1,59,male,167.6,Cardiac Surgery Recovery Unit,57.9
+139039,1,37,female,NA,Coronary Care Unit,60
+139045,1,90,female,157.5,Coronary Care Unit,81.5
+139047,1,56,male,NA,Medical ICU,113
+139051,0,90,male,NA,Medical ICU,80.9
+139053,0,87,female,NA,Surgical ICU,65.5
+139055,0,57,male,NA,Surgical ICU,102.6
+139056,0,44,female,NA,Medical ICU,NA
+139058,0,47,female,NA,Medical ICU,NA
+139060,0,42,male,NA,Coronary Care Unit,NA
+139061,0,67,female,167.6,Coronary Care Unit,78.2
+139062,0,67,female,156.2,Cardiac Surgery Recovery Unit,79.9
+139065,0,79,male,172.7,Cardiac Surgery Recovery Unit,68.1
+139067,1,54,female,162.6,Coronary Care Unit,132
+139068,0,50,female,162.6,Surgical ICU,73.4
+139069,0,23,male,185.4,Surgical ICU,72
+139070,0,76,female,NA,Medical ICU,96.9
+139073,0,84,female,NA,Medical ICU,65
+139075,0,46,male,NA,Medical ICU,58.6
+139077,0,54,male,NA,Medical ICU,60.9
+139079,0,55,male,170.2,Coronary Care Unit,74
+139082,1,65,male,NA,Medical ICU,100
+139086,0,83,female,NA,Surgical ICU,68.5
+139087,0,79,female,149.9,Medical ICU,59.2
+139090,0,86,female,NA,Surgical ICU,56
+139093,0,82,male,NA,Medical ICU,77.5
+139095,0,59,male,177.8,Coronary Care Unit,91
+139096,0,78,female,NA,Cardiac Surgery Recovery Unit,56
+139098,0,23,female,NA,Medical ICU,57.4
+139099,0,15,male,NA,Surgical ICU,92
+139101,0,80,female,162.6,Coronary Care Unit,66
+139102,0,75,male,NA,Cardiac Surgery Recovery Unit,NA
+139104,0,89,female,157.5,Coronary Care Unit,72
+139108,0,28,female,NA,Surgical ICU,NA
+139110,0,23,male,NA,Medical ICU,69
+139111,0,80,female,158.8,Cardiac Surgery Recovery Unit,99.9
+139112,1,51,male,167.6,Medical ICU,62
+139113,0,43,female,NA,Coronary Care Unit,78.8
+139119,0,81,female,NA,Medical ICU,108.4
+139121,1,86,female,NA,Medical ICU,67.5
+139122,0,28,male,172.7,Medical ICU,79.2
+139125,0,50,male,182.9,Surgical ICU,131
+139126,0,77,male,NA,Coronary Care Unit,106
+139130,0,47,male,NA,Medical ICU,89.2
+139131,0,86,male,NA,Surgical ICU,45
+139133,0,38,male,172.7,Medical ICU,79.9
+139134,1,55,male,NA,Medical ICU,186
+139135,0,66,male,163.8,Cardiac Surgery Recovery Unit,59.2
+139136,0,33,male,180.3,Surgical ICU,84
+139140,0,52,male,NA,Surgical ICU,120
+139143,0,54,male,NA,Surgical ICU,NA
+139144,0,61,male,177.8,Coronary Care Unit,106
+139147,0,86,female,160,Cardiac Surgery Recovery Unit,77.7
+139150,0,85,female,NA,Coronary Care Unit,96.4
+139152,0,37,male,NA,Surgical ICU,90
+139153,0,52,male,167.6,Medical ICU,119
+139154,0,53,female,NA,Medical ICU,73
+139155,0,70,female,167.6,Cardiac Surgery Recovery Unit,51.5
+139156,0,47,male,NA,Medical ICU,90
+139157,0,64,male,172.7,Surgical ICU,72
+139158,0,64,male,NA,Coronary Care Unit,83
+139159,0,28,female,NA,Surgical ICU,NA
+139162,1,66,male,NA,Surgical ICU,90.4
+139163,1,81,female,NA,Medical ICU,55.5
+139164,0,44,female,154.9,Surgical ICU,111
+139165,0,39,female,NA,Medical ICU,63.8
+139166,0,87,female,NA,Surgical ICU,NA
+139169,1,58,male,188,Surgical ICU,173.8
+139172,0,64,male,175.3,Cardiac Surgery Recovery Unit,70
+139173,0,81,female,160,Cardiac Surgery Recovery Unit,82.7
+139178,0,83,male,185.4,Cardiac Surgery Recovery Unit,89.9
+139179,0,68,female,157.5,Cardiac Surgery Recovery Unit,62.5
+139180,0,74,male,NA,Surgical ICU,75
+139181,0,73,female,NA,Medical ICU,42.6
+139182,1,81,male,157.5,Surgical ICU,66.8
+139184,0,55,male,NA,Medical ICU,54.8
+139188,0,66,male,NA,Medical ICU,NA
+139192,0,88,female,NA,Medical ICU,NA
+139193,0,53,male,188,Coronary Care Unit,93.8
+139197,1,89,female,NA,Medical ICU,60
+139199,0,77,male,NA,Medical ICU,NA
+139209,1,22,male,182.9,Surgical ICU,87.7
+139210,0,83,male,NA,Medical ICU,64.7
+139211,0,67,female,167.6,Medical ICU,88.4
+139214,0,77,male,182.9,Surgical ICU,78.5
+139216,1,51,female,162.6,Medical ICU,68.8
+139221,0,73,male,170.2,Cardiac Surgery Recovery Unit,86.5
+139223,0,51,male,175.3,Medical ICU,90
+139227,0,39,female,NA,Medical ICU,82.4
+139229,0,40,male,175.3,Cardiac Surgery Recovery Unit,103
+139230,1,72,female,167.6,Medical ICU,76
+139231,0,85,male,170.2,Coronary Care Unit,75
+139232,0,46,male,175.3,Cardiac Surgery Recovery Unit,105.9
+139235,0,46,female,172.7,Surgical ICU,107.9
+139236,0,55,female,NA,Medical ICU,77
+139239,1,65,female,NA,Medical ICU,NA
+139241,0,62,male,182.9,Cardiac Surgery Recovery Unit,109
+139244,0,62,female,NA,Surgical ICU,72
+139246,0,85,male,NA,Coronary Care Unit,71
+139253,1,47,female,NA,Medical ICU,72
+139254,0,81,female,NA,Medical ICU,79.5
+139255,0,62,male,165.1,Cardiac Surgery Recovery Unit,77.2
+139257,0,61,male,182.9,Cardiac Surgery Recovery Unit,100
+139259,1,80,female,NA,Medical ICU,78.6
+139263,1,68,female,NA,Medical ICU,47.5
+139267,1,84,male,NA,Surgical ICU,88
+139275,0,47,male,182.9,Surgical ICU,86.6
+139280,1,67,female,NA,Surgical ICU,61
+139284,0,71,female,NA,Medical ICU,NA
+139289,0,85,male,177.8,Coronary Care Unit,89
+139291,0,51,male,177.8,Cardiac Surgery Recovery Unit,92
+139292,0,84,female,NA,Medical ICU,133.6
+139293,0,89,male,167.6,Coronary Care Unit,60.9
+139294,0,36,female,162.6,Surgical ICU,65
+139295,0,54,male,182.9,Cardiac Surgery Recovery Unit,98.6
+139296,1,74,male,180.3,Cardiac Surgery Recovery Unit,80.4
+139301,0,67,male,177.8,Surgical ICU,84.5
+139308,0,71,female,NA,Medical ICU,49.4
+139310,0,55,male,195.6,Coronary Care Unit,77
+139313,0,54,male,177.8,Medical ICU,65.5
+139317,0,62,female,160,Medical ICU,59
+139318,0,55,male,NA,Surgical ICU,83
+139319,0,60,male,188,Medical ICU,96
+139322,0,28,female,NA,Surgical ICU,NA
+139323,0,74,male,188,Surgical ICU,88.6
+139328,0,79,female,152.4,Coronary Care Unit,46.8
+139330,0,41,male,NA,Surgical ICU,70
+139337,0,73,male,188,Medical ICU,66.1
+139338,0,39,female,149.9,Coronary Care Unit,112
+139342,0,73,female,152.4,Coronary Care Unit,75
+139354,0,36,male,NA,Surgical ICU,85
+139355,0,55,male,NA,Surgical ICU,60
+139358,1,71,male,NA,Surgical ICU,72
+139361,0,48,male,172.7,Surgical ICU,70
+139365,0,41,female,NA,Medical ICU,65
+139367,0,84,female,162.8,Cardiac Surgery Recovery Unit,79.4
+139368,0,71,male,172.7,Cardiac Surgery Recovery Unit,80.9
+139371,0,58,male,167.6,Cardiac Surgery Recovery Unit,81
+139372,0,50,female,157.5,Cardiac Surgery Recovery Unit,68.1
+139374,0,54,male,175.3,Coronary Care Unit,113
+139375,0,86,male,182.9,Cardiac Surgery Recovery Unit,114
+139376,0,85,male,177.8,Surgical ICU,80.7
+139379,0,33,female,NA,Cardiac Surgery Recovery Unit,90
+139380,0,71,male,180.3,Coronary Care Unit,82
+139385,0,20,female,NA,Cardiac Surgery Recovery Unit,NA
+139388,0,56,male,170.2,Cardiac Surgery Recovery Unit,80.3
+139390,0,85,female,160,Coronary Care Unit,73.1
+139391,0,59,male,165.1,Surgical ICU,102.2
+139393,0,79,male,NA,Surgical ICU,98
+139394,1,58,male,180.3,Surgical ICU,90
+139396,0,80,male,180.3,Cardiac Surgery Recovery Unit,75.9
+139397,0,75,male,162.6,Cardiac Surgery Recovery Unit,91.6
+139399,1,82,female,NA,Surgical ICU,NA
+139400,0,78,male,166.4,Cardiac Surgery Recovery Unit,86.3
+139401,0,55,male,165.1,Cardiac Surgery Recovery Unit,89.5
+139402,1,81,male,179.1,Cardiac Surgery Recovery Unit,108.6
+139403,1,81,male,NA,Medical ICU,75.2
+139404,0,76,male,NA,Coronary Care Unit,101.3
+139405,1,64,female,NA,Coronary Care Unit,54.2
+139411,0,90,female,165.1,Surgical ICU,65.8
+139412,0,64,male,NA,Medical ICU,119
+139413,0,66,male,NA,Surgical ICU,83.6
+139418,1,33,female,162.6,Medical ICU,87.1
+139420,0,87,male,NA,Medical ICU,62.2
+139421,0,45,female,168.9,Cardiac Surgery Recovery Unit,47.8
+139425,0,73,male,NA,Coronary Care Unit,NA
+139427,0,84,male,172.7,Cardiac Surgery Recovery Unit,62.4
+139430,0,85,male,NA,Medical ICU,NA
+139431,0,70,female,NA,Coronary Care Unit,NA
+139433,1,30,male,NA,Surgical ICU,90
+139435,0,80,male,NA,Coronary Care Unit,70
+139436,0,26,male,175.3,Medical ICU,95
+139438,0,81,female,NA,Coronary Care Unit,56.6
+139441,0,31,male,177.8,Cardiac Surgery Recovery Unit,66
+139443,0,63,male,177.8,Cardiac Surgery Recovery Unit,114.9
+139444,0,62,male,175.3,Cardiac Surgery Recovery Unit,122
+139447,0,66,male,177.8,Medical ICU,100.8
+139448,0,58,female,172.7,Cardiac Surgery Recovery Unit,55.4
+139450,0,36,female,NA,Medical ICU,53
+139452,0,75,female,NA,Surgical ICU,39.1
+139453,0,73,male,175.3,Cardiac Surgery Recovery Unit,74.8
+139456,0,90,female,157.5,Medical ICU,81.5
+139463,0,69,female,NA,Surgical ICU,77.5
+139464,0,58,male,180.3,Medical ICU,100
+139466,0,78,male,NA,Surgical ICU,94
+139469,0,82,female,157.5,Surgical ICU,31.7
+139473,0,49,female,172.7,Cardiac Surgery Recovery Unit,74.1
+139474,0,44,male,NA,Coronary Care Unit,70
+139475,0,62,male,NA,Medical ICU,58
+139477,0,75,female,157.5,Cardiac Surgery Recovery Unit,59
+139478,0,53,male,NA,Medical ICU,86.1
+139482,0,50,female,NA,Medical ICU,100
+139487,0,69,male,172.7,Cardiac Surgery Recovery Unit,118
+139492,0,45,female,NA,Medical ICU,143.5
+139495,1,56,male,175.3,Medical ICU,68.6
+139496,0,73,male,177.8,Cardiac Surgery Recovery Unit,76
+139497,0,38,male,NA,Coronary Care Unit,86
+139498,0,62,female,NA,Surgical ICU,113
+139501,0,63,male,NA,Surgical ICU,67
+139502,1,61,male,NA,Medical ICU,81.4
+139505,0,63,female,NA,Medical ICU,71
+139506,0,64,male,NA,Medical ICU,88
+139507,0,81,female,NA,Medical ICU,NA
+139509,0,63,female,NA,Medical ICU,108.7
+139511,0,33,male,177.8,Medical ICU,93.9
+139512,0,88,male,175.3,Medical ICU,57.7
+139514,0,29,male,162.6,Medical ICU,59
+139515,0,78,female,NA,Medical ICU,78.8
+139516,0,64,male,NA,Coronary Care Unit,NA
+139518,0,63,male,182.9,Coronary Care Unit,142
+139520,0,48,male,180.3,Medical ICU,79.1
+139529,0,82,female,NA,Medical ICU,104.3
+139533,0,60,male,172.7,Surgical ICU,90
+139536,0,77,female,165.1,Cardiac Surgery Recovery Unit,77
+139541,0,36,male,180.3,Surgical ICU,68.4
+139544,0,72,male,165.1,Cardiac Surgery Recovery Unit,74.8
+139545,1,48,male,NA,Medical ICU,113
+139547,0,90,female,NA,Medical ICU,89.9
+139550,0,61,male,180.3,Cardiac Surgery Recovery Unit,145.1
+139554,0,78,male,170.2,Cardiac Surgery Recovery Unit,72.9
+139556,0,89,female,154.9,Medical ICU,46
+139559,0,68,male,160,Cardiac Surgery Recovery Unit,95
+139560,0,73,female,149.9,Cardiac Surgery Recovery Unit,61.36
+139562,1,82,female,NA,Coronary Care Unit,75
+139567,0,60,female,NA,Medical ICU,75
+139572,0,51,male,177.8,Cardiac Surgery Recovery Unit,100
+139573,0,61,male,177.8,Coronary Care Unit,69.1
+139575,0,53,male,NA,Cardiac Surgery Recovery Unit,67.4
+139579,0,83,male,NA,Medical ICU,107
+139583,0,61,male,NA,Coronary Care Unit,82
+139584,0,53,male,NA,Medical ICU,82.8
+139587,0,82,female,154.9,Surgical ICU,70
+139589,1,87,male,177.8,Medical ICU,89.5
+139590,1,83,male,NA,Surgical ICU,88
+139595,0,69,female,NA,Surgical ICU,NA
+139596,0,23,male,NA,Surgical ICU,103
+139598,0,79,female,172.7,Cardiac Surgery Recovery Unit,68.1
+139604,1,56,female,NA,Medical ICU,68
+139605,0,79,male,182.9,Coronary Care Unit,80
+139608,0,74,male,172.7,Coronary Care Unit,78.2
+139609,0,23,female,172.7,Medical ICU,80
+139610,0,50,female,NA,Medical ICU,125.7
+139611,1,88,male,NA,Surgical ICU,67.3
+139613,0,50,male,167.6,Surgical ICU,79
+139616,0,64,female,NA,Surgical ICU,56
+139624,0,43,female,167.6,Surgical ICU,94
+139626,0,57,male,NA,Coronary Care Unit,87.3
+139629,0,76,male,NA,Medical ICU,84.2
+139632,0,55,female,NA,Medical ICU,79
+139633,0,46,male,175.3,Surgical ICU,63.6
+139636,0,71,male,167.6,Cardiac Surgery Recovery Unit,84.6
+139637,0,46,male,177.8,Surgical ICU,71
+139641,1,61,male,162.6,Surgical ICU,66
+139643,1,23,female,160,Medical ICU,60
+139644,0,90,male,154.9,Coronary Care Unit,59.6
+139647,0,86,male,NA,Coronary Care Unit,81.8
+139649,0,76,male,NA,Cardiac Surgery Recovery Unit,81.3
+139651,1,90,male,172.7,Coronary Care Unit,75
+139654,1,41,male,167.6,Medical ICU,54.4
+139655,0,72,male,175.3,Cardiac Surgery Recovery Unit,90.7
+139659,0,57,male,175.3,Coronary Care Unit,86.2
+139661,1,90,female,NA,Medical ICU,52.2
+139664,0,84,male,NA,Medical ICU,89.1
+139665,0,83,female,144.8,Coronary Care Unit,65
+139666,0,74,male,177.8,Coronary Care Unit,81
+139668,0,71,male,182.9,Cardiac Surgery Recovery Unit,90
+139670,0,50,male,177.8,Surgical ICU,75
+139671,0,71,female,NA,Surgical ICU,90
+139673,0,74,male,172.7,Cardiac Surgery Recovery Unit,68.2
+139674,0,75,female,NA,Medical ICU,70.2
+139677,0,39,female,152.4,Coronary Care Unit,86.5
+139682,1,49,male,182.9,Surgical ICU,80
+139687,0,53,male,175.3,Surgical ICU,96.6
+139689,0,63,male,177.8,Medical ICU,89
+139691,0,88,female,NA,Medical ICU,NA
+139693,0,90,female,NA,Medical ICU,83
+139694,0,88,male,165.1,Surgical ICU,70.6
+139695,0,48,male,170.2,Surgical ICU,83
+139698,0,46,male,NA,Surgical ICU,NA
+139700,0,72,male,177.8,Cardiac Surgery Recovery Unit,121
+139703,0,64,male,NA,Surgical ICU,NA
+139704,0,34,male,190.5,Surgical ICU,99
+139713,0,55,male,NA,Coronary Care Unit,81.6
+139715,1,37,female,162.6,Medical ICU,58.3
+139716,0,79,male,NA,Medical ICU,89
+139717,0,46,male,NA,Medical ICU,97.1
+139719,0,80,male,NA,Surgical ICU,94.4
+139720,0,49,female,NA,Surgical ICU,68.3
+139722,1,77,male,170.2,Surgical ICU,77
+139723,0,62,female,157.5,Medical ICU,73.7
+139726,0,19,male,NA,Surgical ICU,80
+139729,0,62,male,180.3,Cardiac Surgery Recovery Unit,129.5
+139733,0,63,male,NA,Medical ICU,93
+139738,0,32,female,NA,Medical ICU,75.5
+139739,0,84,female,157.5,Surgical ICU,57
+139741,0,61,female,NA,Medical ICU,94.8
+139742,0,89,female,NA,Medical ICU,60
+139743,0,47,female,NA,Medical ICU,86.4
+139752,0,52,female,157.5,Medical ICU,140
+139758,0,57,male,NA,Medical ICU,NA
+139760,0,85,female,NA,Coronary Care Unit,64.1
+139761,0,85,female,NA,Medical ICU,44.9
+139763,0,76,female,NA,Surgical ICU,60
+139764,0,68,female,NA,Surgical ICU,80
+139767,0,85,female,152.4,Medical ICU,57
+139768,0,71,male,170.2,Cardiac Surgery Recovery Unit,107.9
+139769,0,47,male,NA,Surgical ICU,85
+139770,1,82,female,NA,Medical ICU,61.2
+139771,0,65,male,NA,Medical ICU,73.4
+139773,0,56,male,180.3,Cardiac Surgery Recovery Unit,100
+139774,0,66,male,147.3,Cardiac Surgery Recovery Unit,73
+139776,0,75,female,160,Cardiac Surgery Recovery Unit,90.4
+139777,0,30,male,NA,Surgical ICU,80
+139780,0,58,female,NA,Medical ICU,NA
+139781,0,77,male,NA,Coronary Care Unit,65.3
+139791,0,56,male,NA,Medical ICU,93.8
+139794,0,88,male,NA,Cardiac Surgery Recovery Unit,52.5
+139796,0,80,male,NA,Medical ICU,73.6
+139798,0,67,male,NA,Medical ICU,58
+139799,0,51,female,NA,Surgical ICU,NA
+139802,0,57,male,NA,Surgical ICU,NA
+139803,0,88,female,165.1,Coronary Care Unit,86.2
+139804,0,58,male,NA,Surgical ICU,119.8
+139805,0,52,male,182.9,Medical ICU,94
+139812,0,87,male,167.6,Coronary Care Unit,63
+139820,0,70,male,NA,Surgical ICU,205
+139822,0,25,male,NA,Surgical ICU,NA
+139823,0,44,male,177.8,Medical ICU,60
+139824,0,85,female,NA,Surgical ICU,41
+139829,0,63,male,NA,Surgical ICU,85.8
+139830,0,21,male,NA,Surgical ICU,NA
+139831,0,60,male,172.7,Medical ICU,150
+139838,0,56,female,NA,Surgical ICU,145
+139839,0,57,male,NA,Medical ICU,70
+139841,0,78,male,NA,Medical ICU,98.5
+139842,0,73,female,149.9,Cardiac Surgery Recovery Unit,99
+139844,0,76,female,165.1,Surgical ICU,125
+139846,0,81,female,162.6,Coronary Care Unit,58
+139847,0,90,male,NA,Surgical ICU,86.2
+139848,0,86,female,152.4,Medical ICU,55.9
+139853,0,60,male,NA,Surgical ICU,85.5
+139854,0,76,female,NA,Medical ICU,81.3
+139859,0,71,female,154.9,Cardiac Surgery Recovery Unit,81.8
+139861,0,58,male,182.9,Medical ICU,100.4
+139862,0,61,male,NA,Medical ICU,NA
+139865,0,37,female,NA,Medical ICU,100.9
+139867,0,79,male,182.9,Surgical ICU,79
+139869,0,66,male,172.7,Coronary Care Unit,107
+139872,1,84,male,NA,Surgical ICU,66.6
+139875,0,59,male,NA,Surgical ICU,79.6
+139876,0,82,male,167.6,Surgical ICU,60
+139877,0,49,female,162.6,Surgical ICU,89.5
+139880,0,70,female,NA,Medical ICU,60
+139881,0,74,female,NA,Medical ICU,57
+139882,0,84,female,162.6,Cardiac Surgery Recovery Unit,89.2
+139883,0,22,male,NA,Medical ICU,NA
+139886,0,81,female,165.1,Coronary Care Unit,67
+139889,0,57,male,162.6,Surgical ICU,90
+139891,0,59,male,182.9,Cardiac Surgery Recovery Unit,90.7
+139895,0,59,female,162.6,Cardiac Surgery Recovery Unit,75
+139899,0,34,female,NA,Medical ICU,75.7
+139903,0,78,male,182.9,Medical ICU,84
+139905,0,77,female,NA,Medical ICU,91.2
+139907,0,39,female,165.1,Surgical ICU,63
+139910,0,57,female,162.6,Cardiac Surgery Recovery Unit,56.5
+139914,1,61,female,152.4,Surgical ICU,70
+139915,0,79,male,170.2,Cardiac Surgery Recovery Unit,79.5
+139917,0,77,male,177.8,Cardiac Surgery Recovery Unit,77.4
+139919,0,76,female,149.9,Cardiac Surgery Recovery Unit,74
+139926,0,63,male,NA,Medical ICU,80
+139928,0,77,male,NA,Coronary Care Unit,80
+139934,0,84,male,NA,Surgical ICU,NA
+139935,0,83,male,172.7,Cardiac Surgery Recovery Unit,85
+139938,1,46,male,188,Surgical ICU,109
+139939,0,79,male,NA,Medical ICU,99.8
+139942,1,65,female,162.6,Medical ICU,66
+139944,0,70,male,182.9,Cardiac Surgery Recovery Unit,92.4
+139945,0,55,female,NA,Coronary Care Unit,87
+139948,0,79,male,170.2,Coronary Care Unit,80.3
+139954,0,35,female,170.2,Surgical ICU,100
+139955,1,40,female,NA,Medical ICU,46
+139958,0,78,male,NA,Coronary Care Unit,70.6
+139960,0,61,male,NA,Medical ICU,100
+139962,0,65,male,NA,Medical ICU,92.9
+139966,0,55,male,NA,Surgical ICU,93.7
+139969,0,64,male,170.2,Cardiac Surgery Recovery Unit,104
+139973,0,79,male,NA,Surgical ICU,79.5
+139974,0,46,female,157.5,Medical ICU,95
+139975,0,38,female,NA,Medical ICU,73
+139976,0,38,female,167.6,Medical ICU,42.4
+139981,0,38,male,NA,Medical ICU,103.6
+139983,0,24,male,175.3,Surgical ICU,77
+139987,0,68,female,154.9,Cardiac Surgery Recovery Unit,88.6
+139994,0,86,female,NA,Medical ICU,48
+140001,1,22,female,NA,Surgical ICU,60
+140002,0,80,female,162.6,Surgical ICU,73
+140003,0,56,female,NA,Medical ICU,NA
+140005,0,50,female,NA,Medical ICU,NA
+140009,1,55,male,NA,Medical ICU,NA
+140012,0,90,male,NA,Medical ICU,61.5
+140016,0,66,female,174,Cardiac Surgery Recovery Unit,79.6
+140022,1,76,female,NA,Medical ICU,71
+140024,0,79,male,NA,Surgical ICU,74
+140025,0,75,female,NA,Surgical ICU,67.6
+140028,0,74,female,160,Cardiac Surgery Recovery Unit,89.3
+140029,1,81,female,NA,Coronary Care Unit,77
+140030,0,36,female,NA,Medical ICU,185.7
+140031,0,59,male,182.9,Cardiac Surgery Recovery Unit,114.5
+140033,0,68,male,177.8,Cardiac Surgery Recovery Unit,72.7
+140034,0,70,male,170.2,Surgical ICU,100
+140035,0,74,female,165.1,Cardiac Surgery Recovery Unit,104
+140037,0,79,female,NA,Surgical ICU,52.1
+140038,0,55,female,170.2,Cardiac Surgery Recovery Unit,108.7
+140041,0,48,female,NA,Medical ICU,NA
+140048,0,74,male,NA,Medical ICU,69.5
+140049,0,69,male,NA,Medical ICU,55
+140050,0,79,female,152.4,Surgical ICU,60
+140054,0,25,female,NA,Surgical ICU,71
+140055,0,76,male,NA,Surgical ICU,128.8
+140060,1,73,male,NA,Medical ICU,79
+140063,1,90,female,NA,Medical ICU,NA
+140065,0,51,female,NA,Medical ICU,50.2
+140068,0,75,female,NA,Medical ICU,67.3
+140070,0,57,male,172.7,Coronary Care Unit,64
+140071,0,37,female,NA,Medical ICU,NA
+140072,0,35,male,167.6,Surgical ICU,81
+140073,0,26,male,177.8,Coronary Care Unit,64.2
+140074,0,84,female,170.2,Cardiac Surgery Recovery Unit,61
+140077,0,76,male,172.7,Cardiac Surgery Recovery Unit,79.3
+140080,0,90,female,NA,Medical ICU,51.1
+140085,0,59,male,NA,Medical ICU,79.4
+140086,0,55,male,NA,Medical ICU,NA
+140088,1,66,male,188,Surgical ICU,95.5
+140091,0,63,male,182.9,Cardiac Surgery Recovery Unit,96.8
+140095,0,26,male,NA,Medical ICU,75
+140097,0,78,male,193,Cardiac Surgery Recovery Unit,101.8
+140099,0,77,male,NA,Cardiac Surgery Recovery Unit,65.2
+140100,0,38,female,175.3,Cardiac Surgery Recovery Unit,67.8
+140101,0,39,female,170.2,Medical ICU,253
+140102,0,70,female,NA,Medical ICU,123.5
+140104,0,61,male,188,Cardiac Surgery Recovery Unit,80
+140106,0,64,male,162.6,Cardiac Surgery Recovery Unit,80
+140107,0,45,male,NA,Medical ICU,105.5
+140112,0,77,male,177.8,Coronary Care Unit,58.9
+140115,1,90,female,NA,Surgical ICU,67.7
+140116,0,66,male,170.2,Surgical ICU,92.7
+140117,0,54,male,NA,Medical ICU,NA
+140118,0,74,male,180.3,Coronary Care Unit,80.9
+140124,0,73,male,NA,Medical ICU,70.6
+140133,0,62,male,NA,Surgical ICU,82.5
+140139,0,56,male,165.1,Coronary Care Unit,64
+140142,0,57,female,167.6,Surgical ICU,77.1
+140149,0,74,female,162.6,Cardiac Surgery Recovery Unit,95
+140152,0,74,male,162.6,Cardiac Surgery Recovery Unit,109
+140155,0,67,male,177.8,Medical ICU,63.8
+140156,0,49,male,NA,Coronary Care Unit,68.9
+140161,0,58,female,165.1,Medical ICU,90
+140165,1,72,female,NA,Medical ICU,63.8
+140166,0,79,male,162.6,Cardiac Surgery Recovery Unit,59.5
+140170,0,82,male,172.7,Cardiac Surgery Recovery Unit,71.2
+140171,0,45,male,NA,Surgical ICU,82
+140175,0,68,male,185.4,Coronary Care Unit,90
+140183,0,59,female,165.1,Cardiac Surgery Recovery Unit,93.3
+140185,0,24,male,188,Surgical ICU,100
+140190,0,52,male,NA,Medical ICU,76.1
+140192,0,52,female,NA,Surgical ICU,65
+140193,0,85,female,NA,Medical ICU,NA
+140194,0,59,female,152.4,Medical ICU,41
+140196,0,72,female,NA,Surgical ICU,83.1
+140197,0,76,male,NA,Coronary Care Unit,74
+140202,0,56,female,160,Medical ICU,60
+140204,0,77,male,170.2,Surgical ICU,104
+140207,0,28,male,NA,Surgical ICU,80
+140208,0,82,female,160,Cardiac Surgery Recovery Unit,48.7
+140210,0,73,male,NA,Surgical ICU,NA
+140214,0,80,female,NA,Medical ICU,NA
+140219,0,19,male,NA,Surgical ICU,56.5
+140220,0,50,female,165.1,Cardiac Surgery Recovery Unit,50.2
+140227,0,61,male,177.8,Surgical ICU,88.5
+140229,0,78,male,177.8,Cardiac Surgery Recovery Unit,94.1
+140230,0,78,female,157.5,Cardiac Surgery Recovery Unit,70
+140235,1,50,female,NA,Medical ICU,44
+140243,0,78,female,157.5,Coronary Care Unit,63.6
+140244,0,77,male,175.3,Coronary Care Unit,104
+140245,0,67,female,160,Cardiac Surgery Recovery Unit,75
+140247,0,51,male,NA,Medical ICU,89.4
+140248,0,42,female,162.6,Cardiac Surgery Recovery Unit,63.63
+140249,0,82,female,147.3,Cardiac Surgery Recovery Unit,40.5
+140251,0,87,male,175.3,Surgical ICU,68
+140253,0,59,male,172.7,Cardiac Surgery Recovery Unit,87.7
+140254,0,34,female,NA,Surgical ICU,101
+140255,0,26,female,NA,Medical ICU,50
+140259,0,65,male,NA,Surgical ICU,80
+140261,1,19,male,NA,Medical ICU,NA
+140262,0,69,female,NA,Surgical ICU,NA
+140263,0,61,female,NA,Medical ICU,80.1
+140265,0,74,male,NA,Medical ICU,NA
+140270,0,74,female,160,Cardiac Surgery Recovery Unit,72.6
+140271,0,81,female,162.6,Cardiac Surgery Recovery Unit,74.5
+140276,0,79,male,170.2,Medical ICU,91
+140278,0,84,male,NA,Medical ICU,NA
+140279,0,72,male,172.7,Cardiac Surgery Recovery Unit,82.4
+140281,0,28,female,NA,Surgical ICU,60
+140284,0,78,female,152.4,Medical ICU,59.4
+140285,1,74,male,190.5,Surgical ICU,104
+140287,0,69,female,167.6,Surgical ICU,55.5
+140289,0,46,male,177.8,Cardiac Surgery Recovery Unit,65.9
+140292,0,63,male,180.3,Medical ICU,78.35
+140294,0,45,male,NA,Medical ICU,85
+140296,0,90,male,170.2,Cardiac Surgery Recovery Unit,86
+140302,0,56,female,NA,Medical ICU,77.3
+140304,0,66,female,160,Medical ICU,57.5
+140305,0,77,male,NA,Surgical ICU,102.6
+140306,0,78,female,NA,Coronary Care Unit,82.1
+140307,0,66,female,NA,Medical ICU,48.2
+140310,0,47,female,166.4,Cardiac Surgery Recovery Unit,67.9
+140311,0,82,female,170.2,Coronary Care Unit,79.9
+140320,0,69,female,NA,Medical ICU,NA
+140322,0,41,male,NA,Surgical ICU,81
+140324,0,80,female,NA,Surgical ICU,88.5
+140329,0,79,female,NA,Cardiac Surgery Recovery Unit,70
+140330,0,23,male,NA,Medical ICU,75
+140331,0,35,male,NA,Surgical ICU,77
+140332,0,50,male,NA,Medical ICU,NA
+140333,0,68,male,172.7,Cardiac Surgery Recovery Unit,100
+140334,0,90,female,165.1,Coronary Care Unit,56.7
+140335,1,37,male,177.8,Surgical ICU,105
+140339,1,70,male,NA,Medical ICU,90
+140340,0,52,female,162.6,Cardiac Surgery Recovery Unit,68.1
+140341,0,58,male,172.7,Cardiac Surgery Recovery Unit,67.6
+140343,0,54,female,157.5,Coronary Care Unit,72.4
+140344,1,72,male,188,Medical ICU,120
+140347,0,57,male,182.9,Coronary Care Unit,93
+140351,0,72,male,177.8,Cardiac Surgery Recovery Unit,72.6
+140354,0,45,female,NA,Surgical ICU,48
+140355,0,78,female,149.9,Cardiac Surgery Recovery Unit,83.3
+140358,0,58,female,NA,Medical ICU,61.6
+140364,0,71,male,NA,Medical ICU,105.7
+140365,0,82,female,152.4,Cardiac Surgery Recovery Unit,61.36
+140366,0,79,male,NA,Coronary Care Unit,89.8
+140369,0,61,female,157.5,Medical ICU,60.8
+140375,0,64,male,172.7,Medical ICU,83
+140376,1,48,female,NA,Medical ICU,94.2
+140377,0,75,female,NA,Coronary Care Unit,51.7
+140379,0,77,male,180.3,Medical ICU,50.2
+140380,0,45,male,NA,Medical ICU,NA
+140382,0,90,male,NA,Surgical ICU,NA
+140385,1,63,male,NA,Medical ICU,100
+140386,0,82,male,NA,Surgical ICU,92.6
+140389,0,42,female,NA,Medical ICU,92
+140402,1,83,female,152.4,Medical ICU,88.3
+140406,0,79,male,185.4,Coronary Care Unit,109
+140413,1,79,female,160,Surgical ICU,60
+140414,0,75,male,185.4,Coronary Care Unit,90
+140419,0,64,female,NA,Surgical ICU,50.3
+140425,0,67,female,160,Cardiac Surgery Recovery Unit,62.5
+140428,0,85,male,175.3,Cardiac Surgery Recovery Unit,70
+140429,0,82,male,177.8,Medical ICU,98.4
+140430,0,58,female,162.6,Medical ICU,45
+140433,1,87,female,152.4,Cardiac Surgery Recovery Unit,60.6
+140437,1,77,female,165.1,Surgical ICU,55
+140439,0,64,male,NA,Cardiac Surgery Recovery Unit,86.7
+140440,0,57,female,160,Cardiac Surgery Recovery Unit,99.6
+140441,0,40,female,167.6,Cardiac Surgery Recovery Unit,102
+140444,0,67,female,167.6,Cardiac Surgery Recovery Unit,93
+140446,0,88,female,NA,Surgical ICU,60.7
+140447,1,90,female,NA,Surgical ICU,59.6
+140449,0,67,male,182.9,Coronary Care Unit,94
+140451,1,72,male,NA,Medical ICU,39
+140452,0,67,male,NA,Medical ICU,124.2
+140457,1,72,male,182.9,Surgical ICU,113
+140459,0,66,male,170.2,Cardiac Surgery Recovery Unit,86.3
+140460,0,54,male,NA,Medical ICU,75
+140462,0,30,female,NA,Surgical ICU,65
+140464,0,54,female,157.5,Medical ICU,76.2
+140465,0,18,male,182.9,Medical ICU,90.4
+140468,0,70,male,172.7,Cardiac Surgery Recovery Unit,75.6
+140472,0,54,female,NA,Medical ICU,NA
+140479,0,50,female,419.1,Coronary Care Unit,67.6
+140480,0,50,male,NA,Coronary Care Unit,90
+140484,0,75,male,177.8,Surgical ICU,100
+140485,0,66,male,185.4,Cardiac Surgery Recovery Unit,123.8
+140497,0,67,female,NA,Surgical ICU,60
+140499,0,72,male,172.7,Cardiac Surgery Recovery Unit,86
+140500,0,39,male,NA,Coronary Care Unit,72.7
+140501,0,31,male,NA,Medical ICU,NA
+140502,0,43,male,NA,Medical ICU,55.5
+140505,0,69,female,162.6,Cardiac Surgery Recovery Unit,84.4
+140510,0,41,male,162.6,Coronary Care Unit,82
+140511,0,86,female,157.5,Coronary Care Unit,76.9
+140512,0,85,male,182.9,Cardiac Surgery Recovery Unit,90.6
+140517,0,43,female,NA,Coronary Care Unit,50.2
+140519,0,82,female,149.9,Medical ICU,72
+140524,0,75,female,170.2,Cardiac Surgery Recovery Unit,73
+140525,1,77,male,170.2,Cardiac Surgery Recovery Unit,70.4
+140535,0,82,female,157.5,Coronary Care Unit,53.6
+140536,1,85,female,NA,Medical ICU,77.8
+140547,0,53,female,NA,Surgical ICU,70.5
+140560,0,48,male,195.6,Cardiac Surgery Recovery Unit,144.5
+140568,0,69,female,NA,Surgical ICU,75.3
+140573,0,83,female,149.9,Cardiac Surgery Recovery Unit,52.2
+140574,0,79,male,172.7,Cardiac Surgery Recovery Unit,110.9
+140578,1,57,female,167.6,Medical ICU,55
+140582,0,62,male,177.8,Cardiac Surgery Recovery Unit,85.5
+140585,0,70,female,NA,Medical ICU,86.9
+140587,0,34,male,190.5,Surgical ICU,70
+140589,0,70,male,177.8,Coronary Care Unit,99
+140590,1,82,male,160,Medical ICU,84.2
+140593,1,46,female,NA,Medical ICU,77
+140595,0,83,female,156.2,Surgical ICU,70.2
+140599,0,78,female,165.1,Surgical ICU,68
+140600,0,58,male,182.9,Cardiac Surgery Recovery Unit,100.1
+140602,0,74,male,182.9,Cardiac Surgery Recovery Unit,74.2
+140604,0,77,male,147.3,Cardiac Surgery Recovery Unit,79.6
+140605,0,54,female,NA,Medical ICU,65.8
+140607,0,73,male,NA,Coronary Care Unit,85
+140610,0,60,male,177.8,Cardiac Surgery Recovery Unit,84
+140619,0,67,male,177.8,Surgical ICU,68.1
+140620,0,81,male,14,Surgical ICU,97.3
+140624,0,73,female,NA,Surgical ICU,50.3
+140626,0,77,male,NA,Surgical ICU,68.18
+140627,0,76,male,177.8,Medical ICU,68.4
+140628,0,53,female,NA,Surgical ICU,NA
+140639,0,42,male,NA,Medical ICU,74.5
+140640,0,65,male,175.3,Cardiac Surgery Recovery Unit,88.5
+140641,0,62,male,172.7,Surgical ICU,80.3
+140642,0,45,female,170.2,Medical ICU,82
+140645,0,42,male,172.7,Cardiac Surgery Recovery Unit,67.1
+140646,0,88,female,NA,Medical ICU,NA
+140649,0,57,male,188,Surgical ICU,104.5
+140651,0,82,male,177.8,Cardiac Surgery Recovery Unit,81
+140653,0,73,female,160,Surgical ICU,70
+140654,0,68,male,167.6,Coronary Care Unit,78
+140657,1,72,male,170.2,Medical ICU,58.5
+140660,0,43,male,NA,Surgical ICU,NA
+140662,0,42,male,NA,Medical ICU,138.1
+140665,0,53,male,NA,Medical ICU,113
+140666,0,81,female,170.2,Cardiac Surgery Recovery Unit,80
+140668,1,76,male,172.7,Cardiac Surgery Recovery Unit,72.6
+140670,0,42,male,NA,Medical ICU,64.6
+140673,1,77,female,NA,Surgical ICU,60
+140674,0,54,male,NA,Medical ICU,57
+140675,0,77,male,NA,Medical ICU,83.9
+140677,1,67,male,182.9,Surgical ICU,65
+140678,0,59,male,175.3,Medical ICU,93.4
+140687,0,77,male,175.3,Cardiac Surgery Recovery Unit,81.8
+140690,0,82,female,NA,Medical ICU,73
+140692,0,51,male,NA,Coronary Care Unit,NA
+140695,0,86,male,NA,Coronary Care Unit,79.5
+140700,1,56,female,167.6,Coronary Care Unit,110
+140702,0,65,male,177.8,Surgical ICU,80
+140703,1,89,female,170.2,Surgical ICU,79.9
+140706,0,58,female,163.8,Medical ICU,64.2
+140707,0,72,male,NA,Medical ICU,NA
+140710,0,64,male,182.9,Medical ICU,96.9
+140711,0,72,male,NA,Medical ICU,68.4
+140712,0,52,male,NA,Medical ICU,103
+140721,0,60,female,152.4,Cardiac Surgery Recovery Unit,69.7
+140730,1,84,male,NA,Medical ICU,73.5
+140733,0,77,male,175.3,Surgical ICU,104
+140734,0,23,male,180.3,Coronary Care Unit,76
+140740,0,62,male,NA,Surgical ICU,NA
+140743,0,62,female,NA,Medical ICU,150
+140747,0,76,female,152.4,Surgical ICU,46.7
+140748,1,70,female,154.9,Cardiac Surgery Recovery Unit,52.2
+140751,0,79,male,NA,Surgical ICU,109
+140752,0,53,female,NA,Medical ICU,110
+140754,0,54,male,NA,Surgical ICU,112
+140756,0,54,male,177.8,Cardiac Surgery Recovery Unit,89.57
+140757,0,80,female,160,Cardiac Surgery Recovery Unit,77
+140759,0,63,male,172.7,Cardiac Surgery Recovery Unit,70
+140760,0,72,male,180.3,Cardiac Surgery Recovery Unit,92.1
+140761,0,67,male,190.5,Surgical ICU,65
+140762,0,76,male,170.2,Coronary Care Unit,79.86
+140763,0,73,female,NA,Cardiac Surgery Recovery Unit,NA
+140765,0,84,male,180.3,Cardiac Surgery Recovery Unit,78
+140766,1,89,female,162.6,Surgical ICU,60
+140767,0,90,female,NA,Medical ICU,NA
+140768,0,51,male,182.9,Surgical ICU,100
+140770,0,62,male,180.3,Cardiac Surgery Recovery Unit,114
+140774,0,19,female,NA,Medical ICU,61.7
+140775,0,21,female,NA,Medical ICU,NA
+140779,0,70,female,165.1,Cardiac Surgery Recovery Unit,63.6
+140780,0,69,male,172.7,Medical ICU,85
+140781,0,60,male,190.5,Cardiac Surgery Recovery Unit,123.9
+140789,0,69,female,152.4,Surgical ICU,75.9
+140794,0,90,female,160,Cardiac Surgery Recovery Unit,63
+140795,1,43,male,NA,Surgical ICU,61.9
+140796,0,74,male,182.9,Medical ICU,61.3
+140798,0,86,female,NA,Medical ICU,53.6
+140799,1,40,male,167.6,Medical ICU,183
+140801,0,50,male,NA,Medical ICU,60
+140803,0,56,male,177.8,Cardiac Surgery Recovery Unit,114.4
+140804,0,80,male,NA,Surgical ICU,90
+140806,0,84,male,NA,Medical ICU,77.7
+140807,0,38,male,180.3,Medical ICU,94
+140813,1,63,female,NA,Medical ICU,50
+140815,0,75,female,NA,Surgical ICU,NA
+140817,0,52,male,180.3,Surgical ICU,101
+140821,0,72,male,NA,Medical ICU,101.6
+140824,0,76,male,NA,Surgical ICU,108
+140826,0,78,male,175.3,Cardiac Surgery Recovery Unit,105.3
+140827,0,63,female,NA,Medical ICU,220
+140830,0,84,female,NA,Medical ICU,NA
+140832,0,72,male,175.3,Coronary Care Unit,79
+140834,0,81,female,NA,Surgical ICU,63.4
+140836,0,72,male,175.3,Cardiac Surgery Recovery Unit,63.3
+140839,0,63,male,175.3,Medical ICU,92.2
+140841,1,81,male,NA,Surgical ICU,69
+140845,1,55,male,NA,Surgical ICU,74
+140848,0,48,male,172.7,Medical ICU,88
+140849,0,46,male,NA,Medical ICU,57.7
+140851,1,77,female,152.4,Medical ICU,59.5
+140852,0,70,female,160,Cardiac Surgery Recovery Unit,77.4
+140853,0,86,female,NA,Medical ICU,NA
+140857,0,79,female,157.5,Coronary Care Unit,71
+140858,1,70,male,NA,Medical ICU,80
+140859,1,46,male,177.8,Coronary Care Unit,70
+140861,0,67,male,182.9,Medical ICU,127
+140862,0,60,female,175.3,Surgical ICU,81.8
+140863,0,67,female,NA,Medical ICU,59.8
+140866,1,80,female,165.1,Medical ICU,86.4
+140867,0,90,male,NA,Medical ICU,75.5
+140870,0,63,male,165.1,Cardiac Surgery Recovery Unit,80
+140871,0,65,male,167.6,Coronary Care Unit,87
+140872,0,46,female,170.2,Coronary Care Unit,85
+140873,0,78,male,177.8,Cardiac Surgery Recovery Unit,67.2
+140874,0,47,male,NA,Surgical ICU,130
+140877,0,76,male,NA,Surgical ICU,118
+140879,0,59,male,NA,Medical ICU,91
+140880,0,80,female,175.3,Surgical ICU,87.7
+140884,0,43,male,193,Coronary Care Unit,100
+140885,0,78,female,NA,Medical ICU,65
+140888,0,84,female,149.9,Coronary Care Unit,47
+140889,0,81,female,167.6,Medical ICU,73
+140890,0,59,female,160,Medical ICU,67.7
+140898,0,64,female,NA,Surgical ICU,53.8
+140901,0,53,female,NA,Surgical ICU,69
+140904,0,83,male,167.6,Cardiac Surgery Recovery Unit,66.1
+140908,0,74,female,172.7,Medical ICU,102.2
+140915,0,45,female,152.4,Medical ICU,77.3
+140920,0,68,male,175.3,Cardiac Surgery Recovery Unit,118.7
+140922,0,25,male,177.8,Surgical ICU,110
+140923,1,43,male,182.9,Surgical ICU,92
+140933,1,68,male,NA,Medical ICU,76.6
+140936,0,49,male,NA,Medical ICU,NA
+140940,0,77,male,182.9,Coronary Care Unit,89
+140942,0,50,male,180.3,Cardiac Surgery Recovery Unit,90.2
+140943,0,52,male,177.8,Medical ICU,117
+140950,0,79,female,NA,Surgical ICU,84.2
+140953,0,51,male,NA,Medical ICU,NA
+140957,0,68,female,NA,Medical ICU,78.8
+140958,1,90,male,NA,Medical ICU,63.8
+140963,1,89,male,NA,Medical ICU,88.8
+140964,0,58,female,NA,Medical ICU,NA
+140966,0,60,female,NA,Coronary Care Unit,NA
+140969,0,70,male,167.6,Cardiac Surgery Recovery Unit,101.8
+140970,0,60,female,165.1,Medical ICU,81
+140971,0,61,male,NA,Medical ICU,95.45
+140972,1,59,female,NA,Medical ICU,105
+140980,1,83,female,152.4,Surgical ICU,55
+140981,0,78,male,182.9,Surgical ICU,82.5
+140982,0,90,female,NA,Medical ICU,70.8
+140983,1,68,male,180.3,Medical ICU,61.7
+140985,0,54,male,NA,Medical ICU,78
+140986,1,26,male,182.9,Surgical ICU,100
+140988,0,72,female,162.6,Cardiac Surgery Recovery Unit,68.2
+140992,0,66,male,188,Surgical ICU,108
+140997,1,90,female,NA,Surgical ICU,73
+140998,0,86,female,167.6,Surgical ICU,79
+140999,0,80,female,167.6,Surgical ICU,68.18
+141000,0,40,female,NA,Medical ICU,59.5
+141003,1,48,female,NA,Medical ICU,89.6
+141004,0,66,male,170.2,Coronary Care Unit,73
+141007,0,67,female,NA,Medical ICU,45.3
+141015,0,76,female,NA,Surgical ICU,60.8
+141016,0,52,male,NA,Surgical ICU,70
+141018,0,52,male,149.9,Surgical ICU,96
+141022,0,56,male,175.3,Cardiac Surgery Recovery Unit,87.7
+141023,0,58,male,167.6,Cardiac Surgery Recovery Unit,96
+141026,0,65,male,NA,Medical ICU,107
+141032,0,43,female,NA,Medical ICU,61
+141035,0,78,female,157.5,Cardiac Surgery Recovery Unit,63.6
+141037,0,59,female,170.2,Cardiac Surgery Recovery Unit,91.7
+141040,0,60,female,NA,Medical ICU,85.2
+141041,1,33,male,NA,Medical ICU,NA
+141043,0,77,male,167.6,Cardiac Surgery Recovery Unit,105
+141051,1,80,female,165.1,Coronary Care Unit,86
+141052,0,59,female,157.5,Surgical ICU,123.4
+141058,0,59,female,NA,Surgical ICU,NA
+141060,0,76,male,NA,Surgical ICU,87.7
+141062,0,42,male,182.9,Coronary Care Unit,61.2
+141065,0,90,male,NA,Surgical ICU,92
+141068,0,70,male,NA,Medical ICU,NA
+141069,0,43,male,NA,Surgical ICU,89.8
+141071,0,78,male,172.7,Cardiac Surgery Recovery Unit,85.5
+141073,0,82,male,NA,Medical ICU,110
+141076,0,77,male,172.7,Coronary Care Unit,82
+141086,0,62,male,NA,Medical ICU,80.8
+141087,0,53,female,172.7,Medical ICU,123
+141090,0,83,male,172.7,Cardiac Surgery Recovery Unit,103
+141094,0,77,female,NA,Medical ICU,78.9
+141097,1,58,male,170.2,Cardiac Surgery Recovery Unit,116.4
+141099,0,62,male,185.4,Coronary Care Unit,100
+141101,0,49,female,NA,Surgical ICU,60
+141106,0,78,female,152.4,Medical ICU,72.5
+141111,0,54,male,NA,Medical ICU,69.5
+141112,0,64,female,142.2,Coronary Care Unit,43.5
+141113,0,88,male,160,Cardiac Surgery Recovery Unit,73.3
+141114,0,58,female,NA,Medical ICU,NA
+141115,0,78,female,167.6,Surgical ICU,72.2
+141116,0,54,female,162.6,Cardiac Surgery Recovery Unit,91
+141118,0,76,male,172.7,Cardiac Surgery Recovery Unit,78.6
+141119,0,48,female,NA,Surgical ICU,NA
+141120,0,23,male,NA,Surgical ICU,88.9
+141124,0,26,male,NA,Surgical ICU,NA
+141126,1,89,male,NA,Medical ICU,78
+141127,0,60,male,NA,Medical ICU,49
+141128,0,87,female,162.6,Surgical ICU,70
+141130,0,83,male,NA,Surgical ICU,68.8
+141131,0,45,male,182.9,Surgical ICU,115
+141136,1,83,female,157.5,Coronary Care Unit,75
+141137,1,57,male,160,Medical ICU,50.8
+141140,1,47,male,NA,Surgical ICU,87
+141141,0,87,female,152.4,Cardiac Surgery Recovery Unit,40.9
+141142,1,86,male,180.3,Cardiac Surgery Recovery Unit,98.8
+141147,0,41,male,NA,Surgical ICU,71.8
+141152,0,51,male,NA,Medical ICU,65.9
+141153,0,19,male,NA,Surgical ICU,81.6
+141155,0,70,male,170.2,Cardiac Surgery Recovery Unit,93.3
+141156,0,90,male,180.3,Cardiac Surgery Recovery Unit,80
+141157,0,66,female,170.2,Medical ICU,58
+141163,0,69,female,162.6,Cardiac Surgery Recovery Unit,73.1
+141165,0,90,female,NA,Medical ICU,NA
+141168,0,77,male,NA,Medical ICU,97.3
+141171,0,42,female,162.6,Cardiac Surgery Recovery Unit,88.6
+141172,0,30,male,NA,Surgical ICU,NA
+141173,0,56,male,167.6,Coronary Care Unit,123
+141174,0,59,female,NA,Medical ICU,NA
+141177,0,58,male,162.6,Coronary Care Unit,63.4
+141179,0,67,female,157.5,Surgical ICU,45
+141181,0,88,female,NA,Medical ICU,77
+141183,0,67,male,170.2,Coronary Care Unit,83.9
+141184,0,58,female,NA,Medical ICU,91
+141185,0,71,male,NA,Medical ICU,NA
+141189,0,58,female,NA,Medical ICU,142.8
+141194,0,82,male,170.2,Coronary Care Unit,71.8
+141195,0,66,female,NA,Cardiac Surgery Recovery Unit,71.3
+141196,0,34,male,NA,Medical ICU,NA
+141200,0,90,female,162.6,Coronary Care Unit,74.8
+141205,0,84,female,NA,Medical ICU,72
+141206,0,45,male,175.3,Cardiac Surgery Recovery Unit,95.9
+141207,0,77,female,152.4,Cardiac Surgery Recovery Unit,45.5
+141212,0,71,female,NA,Surgical ICU,58
+141213,0,77,male,NA,Medical ICU,50.5
+141214,0,53,male,182.9,Cardiac Surgery Recovery Unit,88
+141216,0,47,female,157.5,Cardiac Surgery Recovery Unit,54.2
+141218,0,60,female,160,Cardiac Surgery Recovery Unit,71
+141221,0,73,male,180.3,Medical ICU,88
+141223,0,73,female,154.9,Cardiac Surgery Recovery Unit,84.7
+141226,0,29,female,NA,Medical ICU,84.4
+141229,0,69,male,175.3,Cardiac Surgery Recovery Unit,99.1
+141230,0,59,male,177.8,Medical ICU,73
+141231,0,51,female,160,Cardiac Surgery Recovery Unit,104.1
+141232,0,34,male,167.6,Medical ICU,72.9
+141233,0,57,female,NA,Medical ICU,NA
+141235,0,90,female,NA,Medical ICU,59.7
+141236,0,33,female,NA,Surgical ICU,52
+141244,0,78,male,165.1,Coronary Care Unit,80.9
+141245,0,48,female,NA,Surgical ICU,89.6
+141246,0,44,male,185.4,Surgical ICU,90
+141247,1,81,male,NA,Surgical ICU,60
+141255,0,61,female,NA,Surgical ICU,NA
+141256,1,66,female,NA,Surgical ICU,90
+141263,0,61,female,NA,Medical ICU,66.7
+141264,0,90,female,NA,Medical ICU,NA
+141266,0,74,male,182.9,Medical ICU,97.6
+141268,0,75,female,149.9,Surgical ICU,50
+141269,0,63,female,162.6,Surgical ICU,180
+141274,0,53,female,154.9,Cardiac Surgery Recovery Unit,97.2
+141275,1,81,female,149.9,Coronary Care Unit,60
+141277,0,60,female,167.6,Surgical ICU,90.6
+141279,0,54,male,180.3,Coronary Care Unit,82.4
+141283,0,84,male,175.3,Medical ICU,56.4
+141286,1,90,male,NA,Medical ICU,48.9
+141289,0,70,male,NA,Medical ICU,120.5
+141290,0,57,female,NA,Medical ICU,81
+141293,0,60,male,180.3,Cardiac Surgery Recovery Unit,90.9
+141294,0,18,male,185.4,Surgical ICU,88.3
+141295,1,78,female,154.9,Coronary Care Unit,63
+141297,1,73,female,162.6,Coronary Care Unit,67
+141299,0,65,female,170.2,Surgical ICU,80
+141300,0,85,male,175.3,Cardiac Surgery Recovery Unit,55.9
+141301,0,56,male,NA,Medical ICU,110
+141302,0,64,male,165.1,Coronary Care Unit,75.5
+141306,0,38,female,NA,Medical ICU,NA
+141309,0,83,female,157.5,Cardiac Surgery Recovery Unit,57.2
+141313,0,19,female,NA,Surgical ICU,50.2
+141317,0,29,male,NA,Surgical ICU,78.3
+141326,0,66,male,167.6,Cardiac Surgery Recovery Unit,93.3
+141327,0,64,female,162.6,Surgical ICU,90
+141330,0,58,female,NA,Coronary Care Unit,60.4
+141342,0,56,male,170.2,Medical ICU,91.6
+141346,0,41,female,NA,Surgical ICU,65
+141347,0,83,male,177.8,Medical ICU,78
+141352,0,64,male,170.2,Medical ICU,73.4
+141353,0,31,female,165.1,Coronary Care Unit,76.1
+141354,1,72,male,NA,Medical ICU,NA
+141355,1,44,female,NA,Medical ICU,53.4
+141359,0,87,female,149.9,Cardiac Surgery Recovery Unit,45
+141360,0,74,male,172.7,Surgical ICU,100
+141361,0,24,male,185.4,Surgical ICU,145
+141363,0,77,female,160,Cardiac Surgery Recovery Unit,55.1
+141364,0,21,male,172.7,Surgical ICU,85
+141368,1,84,male,172.7,Cardiac Surgery Recovery Unit,73.6
+141373,0,37,female,NA,Surgical ICU,80
+141377,0,83,male,NA,Medical ICU,74.8
+141381,0,83,male,NA,Surgical ICU,48.2
+141386,0,76,female,167.6,Coronary Care Unit,71
+141387,0,81,male,175.3,Coronary Care Unit,70
+141392,0,59,male,172.7,Cardiac Surgery Recovery Unit,68
+141393,0,54,female,157.5,Medical ICU,54
+141395,0,24,male,NA,Surgical ICU,76.9
+141396,0,80,female,NA,Surgical ICU,40
+141404,0,60,male,NA,Coronary Care Unit,NA
+141406,0,44,male,NA,Medical ICU,94.3
+141408,0,52,male,182.9,Cardiac Surgery Recovery Unit,120.6
+141412,0,42,male,170.2,Coronary Care Unit,80
+141413,0,25,male,180.3,Surgical ICU,90.9
+141416,0,77,female,160,Surgical ICU,75.1
+141418,0,59,male,172.7,Medical ICU,82.6
+141420,0,50,male,179.8,Cardiac Surgery Recovery Unit,135
+141422,0,77,male,167.6,Cardiac Surgery Recovery Unit,68.5
+141424,1,64,female,NA,Medical ICU,74.3
+141426,0,68,male,172.7,Coronary Care Unit,76
+141427,0,57,female,NA,Medical ICU,NA
+141428,0,89,female,NA,Coronary Care Unit,99.5
+141429,0,80,female,NA,Medical ICU,NA
+141430,0,64,female,NA,Medical ICU,98.4
+141431,1,57,male,182.9,Medical ICU,92.3
+141432,0,44,female,154.9,Medical ICU,51.8
+141434,0,87,male,NA,Medical ICU,86.1
+141440,0,60,male,177.8,Cardiac Surgery Recovery Unit,78
+141441,0,30,female,167.6,Surgical ICU,90.7
+141444,0,79,female,154.9,Cardiac Surgery Recovery Unit,110
+141446,0,70,female,162.6,Surgical ICU,85
+141447,0,70,female,NA,Medical ICU,78
+141449,0,23,female,NA,Medical ICU,72
+141454,0,77,male,167.6,Cardiac Surgery Recovery Unit,69.9
+141457,0,90,female,NA,Medical ICU,NA
+141460,0,68,female,NA,Medical ICU,85.5
+141461,0,33,male,NA,Medical ICU,57
+141473,0,83,male,175.3,Cardiac Surgery Recovery Unit,70
+141477,0,78,male,NA,Medical ICU,98
+141479,0,36,female,165.1,Surgical ICU,60
+141482,1,62,male,169.4,Medical ICU,84.7
+141486,0,85,NA,NA,Surgical ICU,56.7
+141487,0,90,female,NA,Surgical ICU,50
+141490,0,38,female,165.1,Surgical ICU,78
+141492,0,84,female,152.4,Medical ICU,61.2
+141493,0,47,female,157.5,Medical ICU,63.2
+141496,0,32,male,167.6,Surgical ICU,85
+141497,0,61,male,NA,Medical ICU,62
+141499,0,61,male,177.8,Coronary Care Unit,90.4
+141503,0,54,male,185.4,Surgical ICU,104.7
+141507,1,56,female,132.1,Surgical ICU,41.3
+141510,1,86,male,167.6,Surgical ICU,84
+141511,0,19,male,177.8,Surgical ICU,81.6
+141512,0,86,female,NA,Medical ICU,NA
+141513,0,59,female,NA,Surgical ICU,NA
+141516,0,76,female,159.8,Cardiac Surgery Recovery Unit,84
+141519,1,69,male,NA,Medical ICU,89
+141523,0,72,female,NA,Cardiac Surgery Recovery Unit,67.4
+141524,0,65,female,NA,Medical ICU,147.2
+141529,0,84,male,177.8,Cardiac Surgery Recovery Unit,73
+141530,0,36,male,NA,Medical ICU,63
+141532,0,51,female,NA,Medical ICU,61.7
+141543,0,63,female,157.5,Surgical ICU,56
+141544,0,59,male,175.3,Cardiac Surgery Recovery Unit,98
+141547,0,84,female,NA,Medical ICU,82
+141548,0,61,female,NA,Medical ICU,56
+141549,0,66,male,NA,Surgical ICU,99
+141550,0,86,male,172.7,Cardiac Surgery Recovery Unit,93.2
+141551,0,57,female,NA,Surgical ICU,NA
+141552,1,83,female,162.6,Surgical ICU,58
+141554,0,76,female,167.6,Coronary Care Unit,78.4
+141555,0,65,female,NA,Medical ICU,104.6
+141556,0,70,female,170.2,Cardiac Surgery Recovery Unit,71.4
+141559,0,90,male,152.4,Surgical ICU,75.2
+141560,0,33,male,NA,Medical ICU,NA
+141561,0,85,female,137.2,Surgical ICU,59
+141565,0,56,male,182.9,Coronary Care Unit,100
+141566,0,76,male,182.9,Cardiac Surgery Recovery Unit,93.3
+141569,0,70,female,NA,Medical ICU,93.4
+141571,0,68,male,NA,Surgical ICU,70
+141574,0,84,female,149.9,Cardiac Surgery Recovery Unit,57.8
+141577,1,69,male,175.3,Coronary Care Unit,107.4
+141578,0,86,male,NA,Coronary Care Unit,NA
+141579,0,78,male,170.2,Cardiac Surgery Recovery Unit,74.4
+141580,0,61,male,NA,Medical ICU,91
+141583,0,63,female,NA,Medical ICU,NA
+141587,1,72,female,147.3,Medical ICU,21.7
+141589,0,81,male,165.1,Surgical ICU,81.4
+141590,0,67,male,NA,Surgical ICU,103
+141592,0,88,male,NA,Medical ICU,98
+141594,0,28,female,152.4,Surgical ICU,57
+141595,0,72,male,NA,Surgical ICU,118
+141596,0,89,female,NA,Coronary Care Unit,60.5
+141601,0,63,female,165.1,Surgical ICU,78.6
+141603,0,77,female,160,Coronary Care Unit,93
+141606,0,68,female,162.6,Cardiac Surgery Recovery Unit,85
+141607,0,79,female,170.2,Medical ICU,65.5
+141608,1,69,male,NA,Surgical ICU,93.3
+141610,0,83,male,NA,Medical ICU,61.2
+141611,0,69,male,186.7,Medical ICU,103.9
+141615,0,38,male,172.7,Coronary Care Unit,92
+141616,0,83,male,NA,Medical ICU,100
+141617,1,62,female,NA,Medical ICU,84.1
+141619,0,56,male,NA,Surgical ICU,65
+141620,0,36,male,177.8,Surgical ICU,185
+141624,0,59,female,NA,Coronary Care Unit,81.3
+141629,0,58,male,NA,Surgical ICU,75.4
+141634,0,74,male,175.3,Cardiac Surgery Recovery Unit,67.8
+141638,0,83,female,NA,Surgical ICU,48.9
+141640,0,78,female,157.5,Cardiac Surgery Recovery Unit,56.4
+141641,0,65,female,NA,Medical ICU,86.5
+141642,0,67,male,182.9,Cardiac Surgery Recovery Unit,88.2
+141643,0,63,male,182.9,Medical ICU,70
+141647,0,69,female,167.6,Cardiac Surgery Recovery Unit,75.6
+141653,0,82,female,NA,Surgical ICU,36
+141655,0,72,male,NA,Surgical ICU,85.9
+141658,0,72,male,NA,Medical ICU,74
+141659,0,39,male,NA,Surgical ICU,70
+141662,0,39,male,177.8,Medical ICU,87.1
+141663,0,58,female,NA,Coronary Care Unit,102.8
+141665,0,90,male,NA,Medical ICU,78
+141666,0,56,female,170.2,Cardiac Surgery Recovery Unit,131.2
+141667,0,85,female,166.4,Cardiac Surgery Recovery Unit,69.5
+141669,0,50,female,NA,Medical ICU,71.6
+141672,0,45,female,152.4,Coronary Care Unit,65
+141675,0,35,female,NA,Surgical ICU,54.1
+141678,0,45,female,162.6,Medical ICU,66.8
+141679,1,54,female,NA,Medical ICU,76.3
+141680,0,47,male,180.3,Cardiac Surgery Recovery Unit,113.6
+141682,0,84,male,NA,Medical ICU,77
+141683,0,61,female,167.6,Surgical ICU,72.6
+141688,0,65,male,185.4,Surgical ICU,137.4
+141693,0,24,male,NA,Medical ICU,NA
+141699,0,65,male,180.3,Cardiac Surgery Recovery Unit,83.9
+141702,1,80,female,162.6,Coronary Care Unit,55
+141704,0,80,female,NA,Coronary Care Unit,91
+141711,0,75,male,NA,Medical ICU,78
+141712,0,26,male,NA,Surgical ICU,NA
+141715,0,79,female,NA,Medical ICU,NA
+141727,0,58,female,NA,Surgical ICU,62.8
+141729,0,79,female,152.4,Coronary Care Unit,58
+141732,0,36,male,NA,Medical ICU,106
+141733,0,47,male,182.9,Coronary Care Unit,91
+141736,1,90,female,157.5,Coronary Care Unit,60
+141739,0,86,male,NA,Medical ICU,NA
+141740,1,68,male,172.7,Surgical ICU,68
+141742,0,87,female,162.6,Coronary Care Unit,63
+141745,0,23,female,NA,Surgical ICU,60
+141748,0,78,female,149.9,Coronary Care Unit,106
+141749,0,30,female,NA,Medical ICU,49.1
+141750,0,38,male,NA,Surgical ICU,79
+141752,0,67,female,165.1,Cardiac Surgery Recovery Unit,78
+141754,0,53,female,NA,Coronary Care Unit,68
+141758,0,64,female,162.6,Cardiac Surgery Recovery Unit,43.6
+141763,1,79,female,NA,Surgical ICU,NA
+141769,0,60,female,NA,Surgical ICU,57.6
+141772,0,70,male,165.1,Medical ICU,69
+141773,0,53,male,NA,Medical ICU,90
+141775,0,24,male,NA,Surgical ICU,NA
+141776,0,18,male,188,Surgical ICU,84.4
+141778,0,69,male,168.9,Cardiac Surgery Recovery Unit,94.9
+141779,0,73,male,162.6,Coronary Care Unit,85
+141782,0,57,male,182.9,Surgical ICU,80
+141784,0,44,male,172.7,Surgical ICU,86.5
+141786,1,86,female,170.2,Coronary Care Unit,68
+141787,0,79,female,NA,Cardiac Surgery Recovery Unit,NA
+141789,1,31,female,165.1,Surgical ICU,114.8
+141790,0,83,female,NA,Medical ICU,75.8
+141791,0,81,male,177.8,Cardiac Surgery Recovery Unit,81.2
+141793,0,76,male,NA,Medical ICU,NA
+141795,0,77,male,175.3,Cardiac Surgery Recovery Unit,87
+141799,0,74,female,NA,Medical ICU,71.6
+141800,0,57,male,NA,Medical ICU,75.8
+141803,0,68,female,NA,Coronary Care Unit,80
+141807,0,71,female,NA,Surgical ICU,82.8
+141808,1,56,female,134.6,Surgical ICU,60.6
+141810,0,74,male,177.8,Surgical ICU,75
+141812,0,59,female,NA,Medical ICU,NA
+141817,0,56,male,182.9,Cardiac Surgery Recovery Unit,88.2
+141819,1,61,male,NA,Surgical ICU,54
+141820,0,69,male,170.2,Cardiac Surgery Recovery Unit,91
+141821,0,88,female,NA,Surgical ICU,61.9
+141822,0,35,male,NA,Medical ICU,76.4
+141825,0,36,female,NA,Medical ICU,62.2
+141826,0,72,female,NA,Coronary Care Unit,NA
+141828,0,59,male,NA,Medical ICU,101.1
+141832,0,90,female,NA,Surgical ICU,39.4
+141834,0,52,male,172.7,Cardiac Surgery Recovery Unit,73
+141836,0,54,male,180.3,Coronary Care Unit,138.8
+141838,0,87,female,152.4,Medical ICU,66
+141840,0,68,male,NA,Coronary Care Unit,102
+141843,0,45,male,177.8,Surgical ICU,70
+141844,0,51,male,170.2,Coronary Care Unit,81
+141848,0,54,male,162.6,Cardiac Surgery Recovery Unit,93.1
+141850,0,72,male,180.3,Cardiac Surgery Recovery Unit,70.1
+141855,1,67,female,NA,Medical ICU,89.2
+141857,0,57,male,175.3,Cardiac Surgery Recovery Unit,127.3
+141866,0,40,male,162.6,Medical ICU,49
+141868,0,62,male,182.9,Medical ICU,70
+141869,0,51,female,167.6,Surgical ICU,65.5
+141870,1,77,male,NA,Medical ICU,74.1
+141872,0,82,female,NA,Surgical ICU,77.5
+141873,0,83,female,NA,Coronary Care Unit,45.5
+141875,0,19,male,NA,Surgical ICU,NA
+141877,0,74,female,154.9,Cardiac Surgery Recovery Unit,64.6
+141880,0,47,female,162.6,Coronary Care Unit,59
+141881,0,67,female,160,Medical ICU,82.7
+141882,1,68,male,170.2,Coronary Care Unit,85
+141885,0,79,female,165.1,Medical ICU,65
+141886,0,64,male,NA,Medical ICU,94.4
+141887,0,46,female,170.2,Surgical ICU,104.4
+141889,0,60,male,182.9,Coronary Care Unit,88.5
+141891,0,79,female,154.9,Cardiac Surgery Recovery Unit,80.2
+141892,0,83,male,182.9,Medical ICU,90.2
+141898,0,90,female,152.4,Medical ICU,44.4
+141899,0,35,male,147.3,Surgical ICU,92
+141901,0,60,female,167.6,Cardiac Surgery Recovery Unit,75.8
+141907,0,67,male,167.6,Coronary Care Unit,67.2
+141908,0,63,female,154.9,Surgical ICU,118
+141909,0,19,male,NA,Surgical ICU,75.8
+141915,0,30,female,NA,Surgical ICU,280
+141916,1,87,male,NA,Medical ICU,65.5
+141921,0,58,male,177.8,Coronary Care Unit,80.5
+141924,0,90,female,152.4,Coronary Care Unit,63.5
+141925,0,64,male,NA,Surgical ICU,55
+141927,1,66,female,NA,Medical ICU,43
+141936,0,22,male,172.7,Surgical ICU,70
+141938,0,83,female,149.9,Coronary Care Unit,72
+141943,0,90,male,NA,Medical ICU,60.5
+141944,0,56,female,NA,Coronary Care Unit,106.3
+141945,0,68,male,182.9,Cardiac Surgery Recovery Unit,150.6
+141947,0,90,male,NA,Medical ICU,103.2
+141950,0,63,male,175.3,Surgical ICU,80.45
+141951,0,80,female,158.8,Coronary Care Unit,57.6
+141953,0,56,male,NA,Surgical ICU,85
+141955,0,54,female,NA,Surgical ICU,139.6
+141959,0,88,female,NA,Medical ICU,NA
+141960,0,27,female,NA,Medical ICU,63.5
+141963,1,48,female,NA,Medical ICU,132.9
+141965,0,67,male,NA,Medical ICU,75
+141967,0,28,female,NA,Surgical ICU,76.9
+141969,0,53,male,NA,Medical ICU,74.8
+141972,0,21,female,NA,Medical ICU,59.2
+141976,0,83,male,180.3,Cardiac Surgery Recovery Unit,74.1
+141978,0,27,male,NA,Surgical ICU,NA
+141980,0,90,male,167.6,Coronary Care Unit,66
+141981,0,76,male,NA,Medical ICU,NA
+141983,0,47,male,182.9,Coronary Care Unit,80
+141985,0,61,male,NA,Coronary Care Unit,75
+141986,0,33,male,NA,Surgical ICU,NA
+141991,0,49,female,170.2,Coronary Care Unit,121
+141994,1,77,male,NA,Medical ICU,NA
+141999,0,83,male,NA,Medical ICU,55.4
+142000,0,65,female,152.4,Coronary Care Unit,64
+142004,0,74,female,154.9,Cardiac Surgery Recovery Unit,68.86
+142005,0,52,male,NA,Medical ICU,71.1
+142008,0,84,male,NA,Medical ICU,99.7
+142009,0,22,male,177.8,Medical ICU,83
+142010,0,86,female,NA,Medical ICU,77.6
+142011,0,48,male,NA,Medical ICU,NA
+142020,0,33,male,200.7,Surgical ICU,80
+142021,0,81,male,NA,Surgical ICU,69
+142022,0,46,male,NA,Medical ICU,89.7
+142025,0,90,male,NA,Medical ICU,NA
+142026,0,77,female,157.5,Cardiac Surgery Recovery Unit,76.7
+142027,0,60,male,NA,Coronary Care Unit,132
+142029,0,60,male,NA,Surgical ICU,77
+142030,0,39,male,NA,Medical ICU,99
+142031,0,81,male,NA,Medical ICU,83.2
+142033,0,53,female,162.6,Cardiac Surgery Recovery Unit,93.2
+142035,0,77,male,180.3,Medical ICU,82
+142037,0,32,male,NA,Medical ICU,72.7
+142043,1,61,female,NA,Medical ICU,98.9
+142047,0,72,female,NA,Surgical ICU,93.4
+142051,0,40,female,165.1,Medical ICU,56.8
+142052,0,86,female,142.2,Medical ICU,45
+142056,0,65,male,170.2,Surgical ICU,94
+142061,0,82,female,NA,Coronary Care Unit,NA
+142069,0,81,male,NA,Surgical ICU,70
+142070,0,82,male,157.5,Surgical ICU,45.8
+142077,0,53,female,NA,Surgical ICU,NA
+142079,0,57,female,154.9,Surgical ICU,87.6
+142082,0,39,male,182.9,Cardiac Surgery Recovery Unit,90.9
+142083,0,66,female,149.9,Cardiac Surgery Recovery Unit,71.8
+142084,0,78,male,NA,Medical ICU,98
+142088,0,87,female,NA,Medical ICU,72.4
+142091,0,79,male,NA,Medical ICU,120.3
+142092,0,45,male,170.2,Medical ICU,184.4
+142096,0,80,female,NA,Surgical ICU,92.1
+142097,0,27,male,NA,Surgical ICU,130
+142100,0,67,female,165.1,Surgical ICU,70
+142103,0,38,male,165.1,Medical ICU,54.9
+142104,0,49,female,160,Surgical ICU,75
+142105,0,73,male,172.7,Surgical ICU,107
+142106,1,70,female,157.5,Coronary Care Unit,52
+142107,0,20,male,193,Medical ICU,82
+142108,0,19,female,160,Medical ICU,69
+142111,0,38,female,172.7,Medical ICU,57.5
+142112,0,74,male,NA,Coronary Care Unit,73.5
+142113,0,52,male,180.3,Cardiac Surgery Recovery Unit,93.7
+142114,0,53,female,170.2,Surgical ICU,78
+142115,0,37,male,180.3,Surgical ICU,90.7
+142118,0,90,female,152.4,Surgical ICU,74.6
+142120,0,52,male,182.9,Cardiac Surgery Recovery Unit,131
+142129,0,60,male,170.2,Surgical ICU,75
+142130,0,68,female,166.4,Cardiac Surgery Recovery Unit,84.7
+142131,0,87,female,NA,Medical ICU,55.6
+142133,1,86,female,NA,Medical ICU,NA
+142138,0,47,male,182.9,Cardiac Surgery Recovery Unit,84.7
+142140,0,82,male,13,Medical ICU,94.1
+142145,0,74,female,160,Cardiac Surgery Recovery Unit,88
+142147,0,79,female,152.4,Cardiac Surgery Recovery Unit,76.3
+142152,0,45,male,NA,Cardiac Surgery Recovery Unit,90
+142156,0,64,male,167.6,Cardiac Surgery Recovery Unit,89
+142158,0,65,male,NA,Surgical ICU,82
+142160,1,59,male,NA,Medical ICU,97.3
+142161,0,77,female,NA,Medical ICU,97.9
+142164,0,72,female,160,Cardiac Surgery Recovery Unit,65
+142166,0,38,female,165.1,Cardiac Surgery Recovery Unit,86.3
+142169,0,76,female,127,Cardiac Surgery Recovery Unit,67
+142173,0,20,male,NA,Medical ICU,76
+142174,0,74,male,177.8,Cardiac Surgery Recovery Unit,93
+142176,0,68,male,182.9,Surgical ICU,71.4
+142180,0,45,male,NA,Medical ICU,79
+142183,1,90,male,177.8,Surgical ICU,85
+142184,0,74,female,NA,Surgical ICU,78
+142186,0,49,male,177.8,Cardiac Surgery Recovery Unit,71
+142188,0,72,male,175.3,Cardiac Surgery Recovery Unit,92.2
+142192,0,78,male,NA,Cardiac Surgery Recovery Unit,80
+142195,0,55,female,NA,Surgical ICU,72.6
+142196,0,74,female,NA,Coronary Care Unit,53
+142205,0,38,male,175.3,Cardiac Surgery Recovery Unit,133.1
+142206,0,72,female,162.6,Medical ICU,60
+142207,0,88,male,185.4,Medical ICU,108.6
+142208,0,66,male,182.9,Surgical ICU,147
+142211,0,52,female,172.7,Cardiac Surgery Recovery Unit,109
+142212,0,89,female,NA,Medical ICU,NA
+142213,0,58,male,NA,Medical ICU,147
+142215,0,81,female,NA,Surgical ICU,63
+142217,0,79,female,NA,Coronary Care Unit,NA
+142218,0,69,female,160,Cardiac Surgery Recovery Unit,54
+142219,0,52,female,NA,Medical ICU,79
+142222,1,87,female,NA,Medical ICU,101.9
+142223,1,69,female,NA,Surgical ICU,79
+142224,0,90,male,NA,Medical ICU,72.7
+142226,1,87,female,167.6,Coronary Care Unit,73
+142229,0,50,male,182.9,Surgical ICU,86
+142231,0,76,female,NA,Medical ICU,84.2
+142233,0,33,female,NA,Medical ICU,NA
+142236,0,21,male,167.6,Surgical ICU,74
+142239,0,58,female,152.4,Cardiac Surgery Recovery Unit,91.3
+142241,1,74,female,170.2,Cardiac Surgery Recovery Unit,113
+142242,1,88,female,157.5,Medical ICU,52
+142245,0,86,male,NA,Cardiac Surgery Recovery Unit,NA
+142247,0,51,male,NA,Medical ICU,NA
+142252,0,74,male,182.9,Surgical ICU,80
+142254,1,75,male,170.2,Medical ICU,77
+142256,0,38,male,180.3,Medical ICU,84
+142258,0,71,male,NA,Medical ICU,72.9
+142260,0,27,male,180.3,Cardiac Surgery Recovery Unit,77.27
+142262,0,70,male,177.8,Cardiac Surgery Recovery Unit,90.1
+142280,0,44,female,177.8,Surgical ICU,80
+142281,0,76,female,149.9,Coronary Care Unit,61
+142282,0,67,male,182.9,Medical ICU,92
+142286,0,82,female,160,Cardiac Surgery Recovery Unit,63.5
+142287,0,41,male,NA,Surgical ICU,142
+142288,1,57,male,NA,Surgical ICU,80
+142290,0,46,female,NA,Medical ICU,60
+142293,0,28,female,NA,Surgical ICU,74
+142297,0,78,female,NA,Medical ICU,59.4
+142304,0,77,female,157.5,Coronary Care Unit,71.8
+142307,0,83,male,182.9,Cardiac Surgery Recovery Unit,100.4
+142309,0,42,male,NA,Surgical ICU,94.2
+142310,0,54,female,NA,Surgical ICU,93
+142312,1,76,male,162.6,Surgical ICU,84.5
+142313,0,85,male,NA,Surgical ICU,NA
+142315,0,79,male,163.8,Cardiac Surgery Recovery Unit,82.3
+142319,0,70,female,NA,Coronary Care Unit,67
+142320,0,87,female,NA,Medical ICU,NA
+142322,0,73,female,NA,Coronary Care Unit,78
+142323,0,52,male,NA,Medical ICU,140.2
+142324,0,51,male,NA,Surgical ICU,78.4
+142327,0,48,male,185.4,Medical ICU,140
+142328,0,61,male,NA,Medical ICU,91
+142331,0,53,male,167.6,Coronary Care Unit,66.5
+142332,1,71,female,NA,Cardiac Surgery Recovery Unit,62
+142333,0,72,female,157.5,Cardiac Surgery Recovery Unit,75.7
+142334,0,76,male,175.3,Coronary Care Unit,85
+142336,0,63,female,157.5,Surgical ICU,68.2
+142342,1,81,male,172.7,Medical ICU,78
+142346,0,58,female,NA,Medical ICU,87.8
+142352,0,81,male,NA,Medical ICU,NA
+142353,1,90,female,149.9,Cardiac Surgery Recovery Unit,61.8
+142354,0,37,female,NA,Surgical ICU,77
+142355,0,69,female,NA,Medical ICU,112
+142356,0,58,male,NA,Cardiac Surgery Recovery Unit,71.6
+142357,1,60,male,NA,Surgical ICU,73.4
+142359,0,44,male,NA,Medical ICU,NA
+142361,0,71,female,NA,Cardiac Surgery Recovery Unit,119.1
+142362,0,64,male,176.5,Cardiac Surgery Recovery Unit,92
+142366,1,66,male,175.3,Surgical ICU,91
+142369,0,90,female,165.1,Coronary Care Unit,68
+142378,0,42,male,NA,Coronary Care Unit,106.8
+142379,0,59,male,182.9,Cardiac Surgery Recovery Unit,102.3
+142380,1,74,male,182.9,Medical ICU,97.1
+142383,0,81,male,NA,Coronary Care Unit,95
+142384,0,63,male,NA,Surgical ICU,122
+142386,0,87,female,160,Surgical ICU,73
+142387,0,45,male,188,Coronary Care Unit,122
+142390,0,55,female,NA,Surgical ICU,65
+142391,1,90,female,NA,Coronary Care Unit,59.2
+142393,0,21,male,182.9,Surgical ICU,77.1
+142400,0,68,female,170.2,Surgical ICU,71.2
+142402,0,53,male,175.3,Cardiac Surgery Recovery Unit,74.4
+142404,0,38,female,NA,Medical ICU,NA
+142405,0,50,male,182.9,Coronary Care Unit,127
+142408,0,74,female,NA,Coronary Care Unit,45
+142409,0,72,female,NA,Medical ICU,79.4
+142415,0,55,female,165.1,Surgical ICU,80
+142420,0,76,male,175.3,Cardiac Surgery Recovery Unit,81.4
+142422,0,74,female,NA,Surgical ICU,78.4
+142423,0,71,male,177.8,Cardiac Surgery Recovery Unit,80.3
+142424,0,79,male,175.3,Surgical ICU,65
+142425,0,45,male,NA,Medical ICU,95
+142427,0,47,female,NA,Medical ICU,66.5
+142428,1,87,male,NA,Surgical ICU,78
+142429,0,46,female,NA,Medical ICU,70
+142430,0,39,female,157.5,Cardiac Surgery Recovery Unit,65.9
+142433,0,59,male,NA,Surgical ICU,112.2
+142434,0,43,male,180.3,Cardiac Surgery Recovery Unit,120
+142438,0,60,male,NA,Medical ICU,62.6
+142442,0,40,male,174,Cardiac Surgery Recovery Unit,90
+142443,0,48,female,157.5,Cardiac Surgery Recovery Unit,74.16
+142444,0,79,female,NA,Surgical ICU,70
+142446,0,59,female,NA,Medical ICU,96.6
+142447,0,86,female,NA,Surgical ICU,80.6
+142449,0,89,male,182.9,Cardiac Surgery Recovery Unit,76.5
+142453,0,62,male,NA,Medical ICU,100.9
+142455,0,23,male,NA,Surgical ICU,103
+142456,0,85,female,157.5,Cardiac Surgery Recovery Unit,60.9
+142457,0,30,male,188,Coronary Care Unit,193
+142461,0,86,male,NA,Medical ICU,90
+142463,0,44,male,170.2,Surgical ICU,91.8
+142467,0,84,male,172.7,Coronary Care Unit,86.18
+142475,0,82,male,NA,Medical ICU,50
+142481,0,34,male,NA,Coronary Care Unit,81.8
+142484,1,83,male,175.3,Coronary Care Unit,86
+142485,0,74,female,165.1,Cardiac Surgery Recovery Unit,75.4
+142491,1,87,male,177.8,Coronary Care Unit,79.9
+142492,0,89,female,152.4,Coronary Care Unit,54.8
+142493,0,81,male,157.5,Cardiac Surgery Recovery Unit,51.1
+142496,0,58,male,NA,Surgical ICU,60
+142499,0,41,female,NA,Medical ICU,NA
+142500,0,76,male,177.8,Cardiac Surgery Recovery Unit,98
+142501,0,49,male,182.9,Medical ICU,300
+142502,0,71,male,NA,Medical ICU,64
+142503,0,62,male,172.7,Coronary Care Unit,115.5
+142504,0,42,male,NA,Medical ICU,86.2
+142506,0,55,female,163.8,Medical ICU,59.1
+142507,1,89,male,NA,Medical ICU,70
+142509,0,78,female,NA,Coronary Care Unit,81.2
+142511,0,83,female,152.4,Cardiac Surgery Recovery Unit,63.8
+142514,0,70,male,NA,Surgical ICU,NA
+142515,0,85,female,NA,Surgical ICU,73.1
+142516,0,65,male,177.8,Surgical ICU,92
+142518,0,73,female,160,Cardiac Surgery Recovery Unit,84.2
+142519,0,49,male,NA,Medical ICU,NA
+142520,0,40,female,167.6,Medical ICU,197
+142523,0,42,male,NA,Surgical ICU,NA
+142524,0,82,male,182.9,Surgical ICU,104
+142527,0,76,male,190.5,Medical ICU,114
+142529,0,47,male,NA,Medical ICU,164.6
+142532,0,79,male,175.3,Coronary Care Unit,91
+142533,0,53,male,185.4,Cardiac Surgery Recovery Unit,97
+142539,0,65,male,167.6,Coronary Care Unit,68
+142542,1,87,female,NA,Surgical ICU,82
+142557,0,89,male,165.1,Cardiac Surgery Recovery Unit,65.3
+142560,0,18,female,170.2,Surgical ICU,80
+142561,0,76,male,182.9,Surgical ICU,104
+142564,0,73,female,167.6,Cardiac Surgery Recovery Unit,84.76
+142569,0,42,male,NA,Medical ICU,111
+142570,1,90,female,165.1,Medical ICU,71
+142572,1,77,female,NA,Medical ICU,181.2
+142573,0,65,male,NA,Surgical ICU,97
+142574,1,90,female,182.9,Surgical ICU,48.1
+142576,0,68,male,182.9,Coronary Care Unit,109
+142577,0,89,female,160,Surgical ICU,65
+142578,0,76,male,177.8,Medical ICU,96.3
+142579,0,78,female,NA,Medical ICU,70
+142580,0,70,female,157.5,Surgical ICU,98
+142582,0,60,male,167.6,Coronary Care Unit,57
+142583,0,46,female,162.6,Surgical ICU,77
+142589,1,47,male,182.9,Medical ICU,96.7
+142591,0,69,male,177.8,Cardiac Surgery Recovery Unit,104
+142595,0,67,male,NA,Medical ICU,68
+142601,0,78,female,157.5,Cardiac Surgery Recovery Unit,54.1
+142603,1,61,male,182.9,Surgical ICU,95
+142607,0,60,male,NA,Coronary Care Unit,95.3
+142609,0,38,female,165.1,Cardiac Surgery Recovery Unit,80
+142612,0,55,female,NA,Medical ICU,109.7
+142618,1,57,male,188,Medical ICU,93.5
+142621,0,85,female,NA,Medical ICU,61.5
+142626,1,83,male,180.3,Surgical ICU,70
+142634,0,80,male,167.6,Medical ICU,63.9
+142635,0,67,female,170.2,Surgical ICU,118
+142637,0,73,female,152.4,Cardiac Surgery Recovery Unit,57.7
+142638,1,74,female,NA,Medical ICU,65
+142640,0,65,male,NA,Medical ICU,105.1
+142641,0,50,female,NA,Surgical ICU,NA
+142646,0,34,male,175.3,Surgical ICU,70
+142649,0,75,male,NA,Medical ICU,80.7
+142653,0,72,female,165.1,Surgical ICU,80
+142654,0,66,male,NA,Medical ICU,78.2
+142655,0,43,male,NA,Medical ICU,92.9
+142659,0,88,male,NA,Coronary Care Unit,90.7
+142661,0,89,male,177.8,Surgical ICU,64
+142662,0,86,male,162.6,Medical ICU,53
+142664,0,51,female,NA,Surgical ICU,75
+142665,0,70,female,NA,Surgical ICU,87
+142667,0,25,male,NA,Medical ICU,166.4
+142670,0,44,male,NA,Medical ICU,109
+142671,1,37,male,NA,Medical ICU,87.4
+142673,0,78,female,157.5,Surgical ICU,70.7

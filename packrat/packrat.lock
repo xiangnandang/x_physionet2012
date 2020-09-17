@@ -1,0 +1,13 @@
+PackratFormat: 1.4
+PackratVersion: 0.5.0
+RVersion: 3.6.3
+Repos: CRAN=https://artifactory.am.lilly.com/artifactory/lrl-cran,
+    =https://artifactory.am.lilly.com/artifactory/bioconductor/bioc,
+    =https://artifactory.am.lilly.com/artifactory/bioconductor/data/annotation,
+    =https://artifactory.am.lilly.com/artifactory/bioconductor/data/experiment,
+    =https://artifactory.am.lilly.com/artifactory/bioconductor/workflows
+
+Package: packrat
+Source: CRAN
+Version: 0.5.0
+Hash: 498643e765d1442ba7b1160a1df3abf9

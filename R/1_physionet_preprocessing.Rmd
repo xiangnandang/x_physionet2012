@@ -1,0 +1,273 @@
+---
+title: "physionet_preprocessing"
+author: "Xiangnan Dang"
+date: "9/12/2020"
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    number_sections: true
+    highlight: tango
+    df_print: tibble
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+library(tidyverse)
+library(plotly)
+
+```
+
+### import outcome dataframe
+
+* rename RecordID -> PATIENT_ID
+* rename In-hosptical_death -> ihd
+
+```{r}
+df_outcome <-
+  read_csv("../srcData/Outcomes-a.txt",
+           col_types = cols(
+             RecordID = col_character()
+           )) %>%
+  rename(PATIENT_ID = RecordID,
+         ihd = `In-hospital_death`)
+
+df_outcome
+```
+
+### import source data of set a
+
+* convert Time to hours since beginning of ICU care
+
+```{r}
+df <- 
+  read_csv("../srcData/seta_data.csv", 
+           col_types = cols(
+             PATIENT_ID = col_character(),
+             Parameter = col_character(),
+             Time = col_character(),
+             Value = col_double()
+           )) %>%
+  mutate(Time = as.numeric(str_sub(Time, 1, 2)) + as.numeric(str_sub(Time, 4,5)) / 60)
+
+df
+```
+
+### extract general descriptors (gd)
+
+* at time 0, "RecordID", "Age", "Gender", "Height", "ICUType", "Weight"
+
+convert to tidy format: 
+
+* convert to wide format
+* replace -1 with NA
+* recode Gender and ICUType with characters
+* combine with ihd to facilitate EDA
+
+```{r}
+df_gd <-
+  df %>%
+  filter(Time == 0,
+         Parameter %in% c("RecordID", "Age", "Gender", "Height", "ICUType", "Weight")) %>%
+  pivot_wider(names_from = "Parameter",
+              values_from = "Value") %>%
+  mutate(across(everything(), ~ na_if(., -1))) %>%
+  #mutate(bmi = Weight / (Height * Height) * 10000) %>%
+  select(-Time, -RecordID) %>%
+  mutate(Gender = case_when(Gender == 0 ~ "female",
+                            Gender == 1 ~ "male"),
+         ICUType = case_when(ICUType == 1 ~ "Coronary Care Unit",
+                             ICUType == 2 ~ "Cardiac Surgery Recovery Unit",
+                             ICUType == 3 ~ "Medical ICU",
+                             ICUType == 4 ~ "Surgical ICU")) %>%
+  left_join(df_outcome %>%
+              select(PATIENT_ID, ihd)) %>%
+  select(PATIENT_ID, ihd, everything())
+
+df_gd #%>% mutate(RecordID = as.character(RecordID)) %>% filter(PATIENT_ID != RecordID)
+```
+
+### remove outliers for df_gd
+
+* taking a conservative approach to remove Height and Weight outliers
+
+```{r}
+df_gd_ro <-
+  df_gd %>%
+  mutate(Height = replace(Height, Height < 100 | Height > 250, NA),
+         Weight = replace(Weight, Weight < 20 | Weight > 300, NA))
+
+df_gd_ro
+```
+
+### save df_gd and df_gd_ro for later use
+
+```{r}
+df_gd %>% write_csv("../proData/df_gd.csv")
+df_gd_ro %>% write_csv("../proData/df_gd_ro.csv")
+```
+
+### before further transforming the time series part of the data, check redundant / conflictory entries
+
+i.e. same patient, same time, same parameter but multiple values
+
+```{r}
+df %>%
+  filter(!(Time == 0 & Parameter %in% c("RecordID", "Age", "Gender", "Height", "ICUType"))) %>% 
+  count(PATIENT_ID, Time, Parameter) %>% 
+  filter(n > 1) %>% 
+  arrange(desc(n))
+```
+
+a closer look at this redundant / conflictory, there could be a few reasons for it (guess):
+
+* for urine, 2 or 3 values recorded where one value is zero or close to zero
+* for Temp, 2 values recorded where one value is way below normal body temperature range
+* for MAP, 2 values recorded which are usually quite close
+
+```{r}
+df %>%
+  filter(!(Time == 0 & Parameter %in% c("RecordID", "Age", "Gender", "Height", "ICUType"))) %>% 
+  count(PATIENT_ID, Time, Parameter) %>% 
+  filter(n > 1) %>% 
+  arrange(desc(n)) %>%
+  left_join(df)
+```
+
+as a result, when transforming to wide format, the redundant measures were treated to take maximum, which tend to address most issues with reasonable assumption
+
+additional missing data treatment was performed:
+
+* for all variables, less than zero values replaced with NA
+* for MechVent, only one value existed: 1; all other values were NA; taking the assumption that no-records means no ventilator use, that the NA values were changed to 0
+
+```{r}
+df_ts <-
+  df %>%
+  filter(!(Time == 0 & Parameter %in% c("RecordID", "Age", "Gender", "Height", "ICUType"))) %>% #count(PATIENT_ID, Time, Parameter) %>% filter(n > 1) %>% arrange(desc(n))
+  pivot_wider(names_from = "Parameter",
+              values_from = "Value",
+              values_fn = max) %>%
+  mutate(across(everything(), ~ replace(., . < 0, NA))) %>%
+  mutate(MechVent = replace_na(MechVent, 0))
+
+
+df_ts#$PATIENT_ID %>% n_distinct()
+```
+
+through variable exploration (by pandas-profiling), additional outlier removal was performed. Again, a conservative approach was taken by removing the most physically/physiologically unreasonable values
+
+```{r}
+df_ts_ro <-
+  df_ts %>%
+  mutate(Weight = replace(Weight, Weight < 20 | Weight > 300, NA),
+         HR = replace(HR, HR < 1 | HR > 299, NA),
+         NIDiasABP = replace(NIDiasABP, NIDiasABP < 1, NA),
+         NIMAP = replace(NIMAP, NIMAP < 1, NA),
+         NISysABP = replace(NISysABP, NISysABP < 1, NA),
+         RespRate = replace(RespRate, RespRate < 1, NA),
+         Temp = replace(Temp, Temp < 25 | Temp > 45, NA),
+         pH = replace(pH, pH < 6.5 | pH > 8, NA),
+         DiasABP = replace(DiasABP, DiasABP < 1, NA),
+         MAP = replace(MAP, MAP < 1, NA),
+         SysABP = replace(SysABP, SysABP < 1, NA))
+
+df_ts_ro
+```
+
+### save df_ts and df_ts_ro for later use
+
+```{r}
+df_ts %>% write_csv("../proData/df_ts.csv")
+df_ts_ro %>% write_csv("../proData/df_ts_ro.csv")
+```
+
+### feature engineering, an initial approach
+
+* for each patient, each variable, it is time series with irregular interval, and more importantly with lots of missing data (often > 80%). This suggests deep learning approach for time series, e.g. LSTM, might be helpful. However, I have decided not to pursue that until simpler approaches have been explored, and with the time constraint of this project, it will most likely be explored in the future as next step.
+* initially, recognizing the relatively large proportions of missing data and more importantly outliers, it was decided to take median value of each patient each variable for the first round of modeling exploration. Though the result is not shown, the modeling performance using median variable values could not beat SAPS-I.
+* As taking a closer look at SAPS-I, a seemingly simple straight forward approach, it was realized that what matters to the in-hostipal death is the extreme values of physiological and blood testing variables. As a result, for each variable, three summary statistics were extracted as features: min, max, and median
+
+```{r message=FALSE, warning=FALSE}
+df_ts_agg <-
+  df_ts_ro %>%
+  select(-Time) %>%
+  group_by(PATIENT_ID) %>%
+  summarise(across(everything(), list(min = min, max = max, med = median), na.rm = TRUE)) %>%
+  mutate(across(everything(), ~ replace(., is.infinite(.), NA)))
+
+df_ts_agg
+```
+
+extracted features of time series variable was combined with general descriptors as well as ihd label
+
+```{r}
+df_ts_agg <-
+  df_gd_ro %>%
+  select(-Weight) %>%
+  left_join(df_ts_agg)
+
+df_ts_agg
+```
+
+### save df_ts_agg for later use
+
+the main modeling work is performed on this dataset, and it took a couple of iterations of EDA (primarily variable quality check) and feature extraction - preliminary modeling cycles to get to this point.
+
+```{r}
+df_ts_agg %>% write_csv("../proData/df_ts_agg.csv")
+```
+
+
+
+
+
+
+
+
+
+
+
+<!-- ```{r} -->
+<!-- options(max.print=5000) -->
+<!-- cor(df_ts_agg %>% select(-PATIENT_ID), use = "pairwise.complete.obs") -->
+<!-- ``` -->
+
+
+
+
+
+
+
+
+
+
+<!-- ```{r} -->
+<!-- df$PATIENT_ID %>% n_distinct() -->
+
+<!-- unique_id <- df$PATIENT_ID %>% unique() -->
+
+<!-- unique_id[!(unique_id %in% df_ts$PATIENT_ID)] -->
+<!-- ``` -->
+
+<!-- ```{r} -->
+<!-- df %>% -->
+<!--   filter(PATIENT_ID == "140501") -->
+
+<!-- df %>% -->
+<!--   filter(PATIENT_ID == "140936") -->
+
+<!-- df %>% -->
+<!--   filter(PATIENT_ID == "141264") -->
+<!-- ``` -->
+
+
+
+
+
+
+
